@@ -36,6 +36,19 @@ cursor.execute(
 conexao.commit()
 print("Dados inseridos")
 
+# 5 - Atualiza dados
+id = 1
+cursor.execute(
+    """
+        UPDATE filmes set nome = ?
+        WHERE id = ?
+    """,
+    ("Homem Aranha", id)
+)
+
+conexao.commit()
+print("Dados atualizados")
+
 dados = cursor.execute('SELECT * FROM filmes')
 
 print(dados.fetchall())
