@@ -49,9 +49,22 @@ cursor.execute(
 conexao.commit()
 print("Dados atualizados")
 
+# 6 - Remove dados
+id = (1,2)
+cursor.execute(
+    """
+        DELETE FROM filmes        
+        WHERE ID in (?,?)
+    """,
+    id
+)
+
+conexao.commit()
+print("Dados excluídos")
+
 dados = cursor.execute('SELECT * FROM filmes')
 
 print(dados.fetchall())
 
-# 4 - Fecha conexão
+# 7 - Fecha conexão
 conexao.close()
