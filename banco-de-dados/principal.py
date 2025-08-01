@@ -50,16 +50,16 @@ conexao.commit()
 print("Dados atualizados")
 
 # 6 - Remove dados
-id = (1,2)
-cursor.execute(
-    """
-        DELETE FROM filmes        
-        WHERE ID in (?,?)
-    """,
-    id
-)
+# id = (1,2)
+# cursor.execute(
+#     """
+#         DELETE FROM filmes        
+#         WHERE ID in (?,?)
+#     """,
+#     id
+# )
 
-conexao.commit()
+# conexao.commit()
 print("Dados excluídos")
 
 dados = cursor.execute('SELECT * FROM filmes')
