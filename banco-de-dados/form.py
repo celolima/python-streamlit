@@ -1,5 +1,6 @@
 import streamlit as st
 import dados
+import pandas as pd
 
 st.title('Filmes')
 
@@ -13,4 +14,9 @@ if st.button('Adicionar'):
     
 filmes = dados.obter_dados()
 st.header('Lista de filmes')
-st.table(filmes)
+
+df_filmes = pd.DataFrame(filmes, columns=['Id', 'Título', 'Ano', 'Nota'])
+
+# Exibir a tabela interativa usando st.dataframe()
+st.subheader("Tabela Interativa (st.dataframe)")
+st.dataframe(df_filmes)
