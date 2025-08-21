@@ -1,0 +1,2001 @@
+data,id_compra,loja,vendedor,produto,cliente_nome,cliente_genero,forma_pagamento
+2024-08-21 05:24:00.320535,0,Belo Horizonte,Leticia,Geladeira,Ian Brady,masculino,boleto
+2024-08-21 07:13:03.604212,1,São Brás,Cristina,Geladeira,Jack Olson,masculino,dinheiro
+2024-08-21 08:49:59.733717,2,Belo Horizonte,Leticia,Geladeira,Ruth Scott,feminino,dinheiro
+2024-08-21 10:33:01.070301,3,São Paulo,Lucas Pereira,Smart Band 9 pro,Dorothy Colucci,feminino,boleto
+2024-08-21 15:42:02.572956,4,Belo Horizonte,Leticia,Smart Band 9 pro,Danielle Redmond,feminino,cartão de crédito
+2024-08-22 08:01:00.505321,5,Belo Horizonte,Leticia,Iphone,Maggie Baker,feminino,pix
+2024-08-22 08:21:58.367916,6,Juiz de Fora,Luiza,Geladeira,Victoria Sandoval,feminino,dinheiro
+2024-08-22 10:14:01.203511,7,São Brás,Carlos,Smart Band 9 pro,Deborah Aldredge,feminino,pix
+2024-08-22 11:23:01.769600,8,Belo Horizonte,Luiz,Guitar Condor,Dana Galbraith,feminino,boleto
+2024-08-22 11:35:01.464770,9,Belo Horizonte,Leticia,Smart Band 9 pro,Douglas Faw,masculino,boleto
+2024-08-22 11:51:04.424001,10,Belo Horizonte,Luiz,Smart Band 9 pro,Boyce Walls,masculino,pix
+2024-08-23 05:47:02.286163,11,Juiz de Fora,Marcelo,Smart Band 9 pro,Joseph Roman,masculino,dinheiro
+2024-08-23 09:04:05.284778,12,Juiz de Fora,Marcelo,Iphone,Sebastian Shoemaker,masculino,pix
+2024-08-23 11:37:03.995268,13,São Paulo,Lucas Pereira,Smart Band 9 pro,Wayne Wade,masculino,dinheiro
+2024-08-23 13:49:57.472063,14,São Paulo,Lucas Pereira,Iphone,Lee Ferguson,feminino,boleto
+2024-08-23 14:45:05.129945,15,Juiz de Fora,Luiza,Geladeira,Bill Forbes,masculino,boleto
+2024-08-24 08:01:00.494248,16,Belo Horizonte,Luiz,Geladeira,Wade Woodruff,masculino,boleto
+2024-08-25 06:03:05.095927,17,São Brás,Cristina,Smart Band 9 pro,Jodi Holden,feminino,boleto
+2024-08-25 11:30:00.162388,18,Belo Horizonte,Luiz,Smart Band 9 pro,Nelly Arnot,feminino,cartão de crédito
+2024-08-25 11:54:03.533636,19,São Brás,Carlos,Geladeira,Ronald Murray,masculino,dinheiro
+2024-08-25 12:05:04.431159,20,São Brás,Carlos,Smart Band 9 pro,Anthony Crabtree,masculino,dinheiro
+2024-08-25 12:56:00.223427,21,São Brás,Carlos,Guitar Condor,Preston Mclean,masculino,cartão de crédito
+2024-08-25 13:33:59.935189,22,São Paulo,Ana Oliveira,Geladeira,Bruce Oh,masculino,dinheiro
+2024-08-26 11:32:01.351467,23,Juiz de Fora,Luiza,Geladeira,Charles Simon,masculino,pix
+2024-08-27 08:38:57.301179,24,São Paulo,Lucas Pereira,Iphone,James Levesque,masculino,boleto
+2024-08-27 09:48:56.388845,25,Belo Horizonte,Luiz,Iphone,Vanessa Vargas,feminino,pix
+2024-08-27 11:48:04.737609,26,Juiz de Fora,Marcelo,Iphone,Irene Parsons,feminino,pix
+2024-08-28 06:06:01.336967,27,São Paulo,Ana Oliveira,Geladeira,Dora Parker,feminino,dinheiro
+2024-08-28 06:33:02.309787,28,Juiz de Fora,Luiza,Iphone,Van Garcia,masculino,dinheiro
+2024-08-28 11:52:56.856520,29,São Paulo,Lucas Pereira,Iphone,Scott Drew,masculino,dinheiro
+2024-08-28 13:26:59.654304,30,São Brás,Carlos,Geladeira,Andrew Yelverton,masculino,pix
+2024-08-29 05:07:57.573413,31,Belo Horizonte,Luiz,Geladeira,Anthony Foresta,masculino,dinheiro
+2024-08-29 05:50:00.644170,32,Juiz de Fora,Marcelo,Guitar Condor,William Ortega,masculino,dinheiro
+2024-08-29 06:55:05.133468,33,São Brás,Carlos,Smart Band 9 pro,Maurine Childress,feminino,cartão de crédito
+2024-08-29 07:33:04.449402,34,São Paulo,Lucas Pereira,Guitar Condor,Mason Kopicko,masculino,cartão de crédito
+2024-08-29 08:46:05.699384,35,Juiz de Fora,Marcelo,Smart Band 9 pro,Hunter White,masculino,pix
+2024-08-29 10:56:57.229278,36,São Paulo,Lucas Pereira,Geladeira,Donald Chavez,masculino,dinheiro
+2024-08-29 13:18:01.539906,37,São Paulo,Ana Oliveira,Guitar Condor,Sandra Botha,feminino,pix
+2024-08-29 13:32:05.319169,38,São Paulo,Ana Oliveira,Iphone,James Tasker,masculino,cartão de crédito
+2024-08-29 13:42:58.067436,39,São Brás,Carlos,Iphone,Jessica Malave,feminino,boleto
+2024-08-29 14:04:04.151193,40,São Paulo,Lucas Pereira,Smart Band 9 pro,Barbara Whitt,feminino,dinheiro
+2024-08-29 14:47:04.406161,41,Juiz de Fora,Marcelo,Geladeira,David Craig,masculino,cartão de crédito
+2024-08-30 04:57:03.800802,42,Juiz de Fora,Marcelo,Geladeira,Christopher Freeman,masculino,boleto
+2024-08-30 09:21:04.174216,43,São Paulo,Ana Oliveira,Iphone,Humberto Torres,masculino,cartão de crédito
+2024-08-30 09:56:58.605564,44,São Paulo,Lucas Pereira,Iphone,Devin Snyder,masculino,boleto
+2024-08-30 13:10:05.359956,45,Belo Horizonte,Leticia,Iphone,Pearl Peterson,feminino,cartão de crédito
+2024-08-30 15:21:56.466554,46,Juiz de Fora,Luiza,Guitar Condor,Beverly Hart,feminino,pix
+2024-08-31 05:11:00.148260,47,São Paulo,Lucas Pereira,Guitar Condor,William Catanzaro,masculino,dinheiro
+2024-08-31 05:27:00.483792,48,São Paulo,Lucas Pereira,Iphone,Eric Ivey,masculino,dinheiro
+2024-08-31 05:58:57.168687,49,São Brás,Carlos,Smart Band 9 pro,James Croteau,masculino,cartão de crédito
+2024-08-31 06:36:58.852324,50,São Brás,Cristina,Geladeira,Angela Wilson,feminino,cartão de crédito
+2024-08-31 08:40:00.218016,51,São Paulo,Lucas Pereira,Iphone,Lucy Morales,feminino,boleto
+2024-08-31 09:10:57.808600,52,Juiz de Fora,Luiza,Guitar Condor,Harry Potts,masculino,boleto
+2024-08-31 09:33:58.329919,53,Juiz de Fora,Luiza,Geladeira,Gary Plowman,masculino,cartão de crédito
+2024-08-31 13:48:00.875559,54,São Brás,Cristina,Iphone,Melisa Crittle,feminino,pix
+2024-08-31 13:48:05.158229,55,Juiz de Fora,Marcelo,Geladeira,Eva Miller,feminino,dinheiro
+2024-09-01 05:52:58.333808,56,São Paulo,Ana Oliveira,Geladeira,Glen Todd,masculino,dinheiro
+2024-09-01 12:24:56.779009,57,Belo Horizonte,Leticia,Geladeira,Tony Pino,masculino,cartão de crédito
+2024-09-02 05:10:01.923289,58,Belo Horizonte,Leticia,Smart Band 9 pro,Mildred Hirsch,feminino,boleto
+2024-09-02 05:21:57.066820,59,Belo Horizonte,Leticia,Geladeira,Rita Grant,feminino,cartão de crédito
+2024-09-02 06:57:59.023989,60,São Brás,Cristina,Geladeira,Ismael Medovich,masculino,cartão de crédito
+2024-09-02 08:39:02.988403,61,São Brás,Carlos,Smart Band 9 pro,Linda Gatesy,feminino,boleto
+2024-09-02 12:33:01.601706,62,São Brás,Cristina,Guitar Condor,Brittany Blankenship,feminino,dinheiro
+2024-09-02 13:14:05.063512,63,São Paulo,Lucas Pereira,Smart Band 9 pro,Roy Moman,masculino,cartão de crédito
+2024-09-02 13:31:56.511689,64,Juiz de Fora,Marcelo,Guitar Condor,Alan Saunders,masculino,cartão de crédito
+2024-09-02 13:44:56.701882,65,São Brás,Cristina,Smart Band 9 pro,Lourdes Huffman,feminino,dinheiro
+2024-09-02 14:36:05.247169,66,Belo Horizonte,Leticia,Smart Band 9 pro,Glen Miranda,masculino,cartão de crédito
+2024-09-03 05:26:03.725075,67,São Brás,Carlos,Iphone,Vincent Nutter,masculino,pix
+2024-09-03 15:21:05.549316,68,São Brás,Cristina,Guitar Condor,Anna Guzman,feminino,boleto
+2024-09-04 07:42:03.496316,69,São Paulo,Ana Oliveira,Guitar Condor,James Taylor,masculino,cartão de crédito
+2024-09-04 11:05:01.346154,70,Juiz de Fora,Marcelo,Iphone,Eva Hoelscher,feminino,cartão de crédito
+2024-09-04 11:20:56.565355,71,São Paulo,Lucas Pereira,Iphone,Bobby Goodwin,masculino,boleto
+2024-09-05 07:20:57.667319,72,São Paulo,Lucas Pereira,Guitar Condor,Robyn Cooper,feminino,boleto
+2024-09-05 09:59:59.349725,73,Belo Horizonte,Luiz,Smart Band 9 pro,Andrew Gorman,masculino,dinheiro
+2024-09-06 05:15:57.623038,74,Juiz de Fora,Luiza,Geladeira,Andrew Kight,masculino,pix
+2024-09-06 07:56:00.251395,75,São Brás,Carlos,Smart Band 9 pro,Mary Sperrey,feminino,pix
+2024-09-06 07:59:04.021474,76,Belo Horizonte,Luiz,Geladeira,Christopher Brimage,masculino,pix
+2024-09-06 09:46:56.558153,77,São Brás,Carlos,Iphone,Ashley Burnett,feminino,pix
+2024-09-06 10:52:58.415065,78,São Brás,Cristina,Guitar Condor,Jennifer Rivas,feminino,pix
+2024-09-07 06:52:05.451783,79,Juiz de Fora,Marcelo,Geladeira,Raymond Mattson,masculino,boleto
+2024-09-07 06:56:00.040967,80,São Paulo,Lucas Pereira,Iphone,Tyrone Richards,masculino,boleto
+2024-09-07 08:27:04.741115,81,Belo Horizonte,Luiz,Guitar Condor,Roger Philson,masculino,dinheiro
+2024-09-07 11:00:03.615311,82,Juiz de Fora,Marcelo,Iphone,Carlos Doe,masculino,boleto
+2024-09-07 12:31:04.798948,83,São Brás,Cristina,Geladeira,Jennifer Donaldson,feminino,boleto
+2024-09-07 13:21:58.247521,84,Belo Horizonte,Leticia,Geladeira,James Tardif,masculino,pix
+2024-09-07 13:39:58.518577,85,São Paulo,Ana Oliveira,Iphone,Richard Sarmiento,masculino,boleto
+2024-09-08 05:47:05.729780,86,Juiz de Fora,Luiza,Smart Band 9 pro,Ruthann Shaffer,feminino,boleto
+2024-09-08 06:11:00.486166,87,São Brás,Carlos,Geladeira,Billy Brown,masculino,dinheiro
+2024-09-08 07:43:04.068858,88,São Paulo,Lucas Pereira,Guitar Condor,Anthony Mcbroom,masculino,boleto
+2024-09-08 08:12:05.489278,89,São Brás,Carlos,Smart Band 9 pro,Michael Masino,masculino,boleto
+2024-09-08 09:38:58.584835,90,São Brás,Cristina,Iphone,William Sharp,masculino,cartão de crédito
+2024-09-08 13:06:00.718775,91,Juiz de Fora,Marcelo,Guitar Condor,Anna Raymond,feminino,pix
+2024-09-08 13:47:59.754242,92,Juiz de Fora,Marcelo,Geladeira,Lenore Phelan,feminino,boleto
+2024-09-08 14:22:03.321808,93,São Brás,Carlos,Smart Band 9 pro,Walter Morrison,masculino,dinheiro
+2024-09-08 14:26:03.549465,94,São Paulo,Lucas Pereira,Iphone,Mohammed Parsons,masculino,pix
+2024-09-09 05:37:00.007300,95,Juiz de Fora,Marcelo,Guitar Condor,Meredith Jones,feminino,boleto
+2024-09-09 11:47:00.696726,96,Belo Horizonte,Leticia,Iphone,Ross Charles,masculino,boleto
+2024-09-10 05:35:58.044558,97,São Brás,Cristina,Geladeira,Thomas Willis,masculino,cartão de crédito
+2024-09-10 07:01:57.919055,98,São Brás,Cristina,Iphone,Heather Perez,feminino,cartão de crédito
+2024-09-10 08:08:59.372142,99,São Brás,Carlos,Smart Band 9 pro,Myron Spann,masculino,dinheiro
+2024-09-10 10:35:57.402648,100,Juiz de Fora,Luiza,Iphone,Gracie Malone,feminino,cartão de crédito
+2024-09-10 10:52:04.535681,101,São Brás,Cristina,Guitar Condor,Joyce Shaffer,feminino,dinheiro
+2024-09-10 14:57:56.907169,102,São Paulo,Ana Oliveira,Smart Band 9 pro,Gerald Erwin,masculino,boleto
+2024-09-10 15:01:04.490308,103,Juiz de Fora,Luiza,Iphone,Sarah Samuel,feminino,cartão de crédito
+2024-09-11 05:43:05.126736,104,São Brás,Carlos,Iphone,Steven Ortiz,masculino,boleto
+2024-09-11 05:47:01.753649,105,Juiz de Fora,Luiza,Smart Band 9 pro,Julie Perault,feminino,boleto
+2024-09-11 07:16:00.448123,106,São Brás,Carlos,Guitar Condor,Raymond Maze,masculino,boleto
+2024-09-11 10:23:57.640209,107,Belo Horizonte,Luiz,Smart Band 9 pro,Kay Goodrow,feminino,dinheiro
+2024-09-12 04:56:04.722686,108,São Paulo,Ana Oliveira,Guitar Condor,Kenneth Delgado,masculino,boleto
+2024-09-12 05:08:58.583258,109,São Brás,Cristina,Smart Band 9 pro,Omar Thomas,masculino,cartão de crédito
+2024-09-12 09:29:04.589585,110,São Paulo,Lucas Pereira,Guitar Condor,Aaron Beaumont,masculino,dinheiro
+2024-09-12 12:45:02.131455,111,Belo Horizonte,Leticia,Iphone,Justin Ambler,masculino,dinheiro
+2024-09-12 12:59:57.669890,112,Juiz de Fora,Luiza,Smart Band 9 pro,Carolyn Haffling,feminino,dinheiro
+2024-09-12 15:17:01.475497,113,Belo Horizonte,Leticia,Iphone,Williams Ellis,masculino,boleto
+2024-09-12 15:22:05.569556,114,Belo Horizonte,Leticia,Geladeira,Lori Dozier,feminino,pix
+2024-09-13 06:31:01.460215,115,São Brás,Carlos,Guitar Condor,Linda Fuller,feminino,cartão de crédito
+2024-09-13 09:45:01.508711,116,Juiz de Fora,Luiza,Smart Band 9 pro,Trevor Gordon,masculino,boleto
+2024-09-13 10:31:02.028918,117,São Brás,Carlos,Iphone,Derrick Weil,masculino,dinheiro
+2024-09-13 13:17:05.829556,118,São Paulo,Lucas Pereira,Guitar Condor,Edith Rollinger,feminino,boleto
+2024-09-13 15:04:00.187332,119,São Brás,Cristina,Geladeira,Cedric Toney,masculino,pix
+2024-09-13 15:37:57.298728,120,Juiz de Fora,Marcelo,Smart Band 9 pro,James Elrod,masculino,cartão de crédito
+2024-09-14 10:57:56.981778,121,São Paulo,Lucas Pereira,Iphone,Alene Pinks,feminino,dinheiro
+2024-09-14 11:00:03.469440,122,Juiz de Fora,Luiza,Geladeira,Donna Williams,feminino,cartão de crédito
+2024-09-14 11:24:00.043137,123,Belo Horizonte,Luiz,Guitar Condor,Jeanette Meeter,feminino,dinheiro
+2024-09-14 12:01:04.938581,124,São Paulo,Ana Oliveira,Smart Band 9 pro,Natalia Assante,feminino,cartão de crédito
+2024-09-14 15:33:58.327734,125,Belo Horizonte,Luiz,Iphone,Roger Reiter,masculino,cartão de crédito
+2024-09-15 06:28:57.794847,126,Juiz de Fora,Luiza,Guitar Condor,Latasha Cummings,feminino,cartão de crédito
+2024-09-15 07:27:04.613903,127,Belo Horizonte,Luiz,Smart Band 9 pro,Richard Fox,masculino,dinheiro
+2024-09-15 08:46:58.421478,128,São Paulo,Lucas Pereira,Iphone,Daniel Krohn,masculino,boleto
+2024-09-15 13:03:59.966772,129,Juiz de Fora,Luiza,Geladeira,Mark Arrington,masculino,boleto
+2024-09-15 13:12:57.543671,130,Juiz de Fora,Luiza,Smart Band 9 pro,Paulette Lamoureux,feminino,boleto
+2024-09-15 13:26:01.064693,131,Juiz de Fora,Luiza,Iphone,Ella Bridges,feminino,boleto
+2024-09-15 13:28:03.662238,132,Juiz de Fora,Luiza,Geladeira,Richard Knight,masculino,pix
+2024-09-16 06:13:04.736206,133,São Paulo,Lucas Pereira,Smart Band 9 pro,Joshua Santos,masculino,boleto
+2024-09-16 13:28:02.822681,134,Juiz de Fora,Luiza,Iphone,John Ennen,masculino,dinheiro
+2024-09-16 13:32:59.750076,135,Juiz de Fora,Luiza,Geladeira,Rose Wheeler,feminino,cartão de crédito
+2024-09-16 14:30:05.159721,136,São Paulo,Ana Oliveira,Geladeira,Lena Seidel,feminino,boleto
+2024-09-16 15:14:03.123278,137,Belo Horizonte,Luiz,Smart Band 9 pro,Elaine Cruz,feminino,dinheiro
+2024-09-17 07:52:05.672097,138,Belo Horizonte,Luiz,Smart Band 9 pro,Alice Murphy,feminino,boleto
+2024-09-17 07:57:56.818757,139,São Paulo,Lucas Pereira,Iphone,Mary Delgado,feminino,pix
+2024-09-17 12:13:04.838824,140,São Paulo,Lucas Pereira,Guitar Condor,Rudolph Hurrington,masculino,pix
+2024-09-17 12:23:56.493546,141,São Paulo,Lucas Pereira,Guitar Condor,Shawn Tim,feminino,dinheiro
+2024-09-17 14:01:03.539222,142,São Paulo,Ana Oliveira,Geladeira,Clarice Smith,feminino,boleto
+2024-09-18 04:57:59.336471,143,São Paulo,Ana Oliveira,Geladeira,Kenneth Wiley,masculino,pix
+2024-09-18 06:22:05.153367,144,São Paulo,Lucas Pereira,Geladeira,Jeffrey Martin,masculino,dinheiro
+2024-09-18 10:00:04.114611,145,Belo Horizonte,Leticia,Guitar Condor,Terry Acevedo,masculino,dinheiro
+2024-09-18 10:47:59.104317,146,Juiz de Fora,Marcelo,Smart Band 9 pro,Derek Manylath,masculino,pix
+2024-09-18 14:02:00.097396,147,São Brás,Cristina,Guitar Condor,Fanny Jones,feminino,dinheiro
+2024-09-18 14:18:04.583037,148,Belo Horizonte,Leticia,Smart Band 9 pro,David Bynum,masculino,dinheiro
+2024-09-18 14:28:58.224123,149,Belo Horizonte,Leticia,Smart Band 9 pro,Rita Frisco,feminino,boleto
+2024-09-18 14:41:05.025141,150,São Paulo,Ana Oliveira,Iphone,Ricky Hendrix,masculino,dinheiro
+2024-09-18 14:53:01.747775,151,Belo Horizonte,Leticia,Guitar Condor,Barbara Salazar,feminino,cartão de crédito
+2024-09-19 08:09:05.324724,152,Juiz de Fora,Marcelo,Smart Band 9 pro,Wesley Reed,masculino,cartão de crédito
+2024-09-19 10:38:59.416886,153,São Paulo,Lucas Pereira,Guitar Condor,Betty Castillo,feminino,dinheiro
+2024-09-19 11:22:58.882641,154,Juiz de Fora,Marcelo,Iphone,Cathleen Hatchett,feminino,pix
+2024-09-20 04:47:59.205447,155,Juiz de Fora,Marcelo,Iphone,Brandon Delong,masculino,pix
+2024-09-20 06:14:57.121526,156,Juiz de Fora,Marcelo,Geladeira,Francis Schnitker,masculino,dinheiro
+2024-09-20 06:21:05.151966,157,São Paulo,Lucas Pereira,Iphone,Miles Soto,masculino,cartão de crédito
+2024-09-20 06:29:57.506261,158,Belo Horizonte,Luiz,Smart Band 9 pro,Margaret Galbreath,feminino,boleto
+2024-09-20 12:10:57.353276,159,Juiz de Fora,Luiza,Geladeira,John Meixner,masculino,pix
+2024-09-20 13:11:03.544615,160,Belo Horizonte,Luiz,Guitar Condor,John Farris,masculino,pix
+2024-09-20 15:03:03.802117,161,Belo Horizonte,Luiz,Iphone,Nestor Brecht,masculino,boleto
+2024-09-21 05:17:57.871308,162,Belo Horizonte,Leticia,Guitar Condor,Eugene Lutz,masculino,boleto
+2024-09-21 05:27:56.908827,163,Belo Horizonte,Leticia,Smart Band 9 pro,James Rodriguez,masculino,dinheiro
+2024-09-21 07:33:05.561602,164,São Paulo,Ana Oliveira,Iphone,Felton Odum,masculino,cartão de crédito
+2024-09-21 07:47:57.473122,165,Belo Horizonte,Luiz,Smart Band 9 pro,Thomas Copper,masculino,pix
+2024-09-21 10:12:00.079239,166,Belo Horizonte,Leticia,Geladeira,Elizabeth Courtwright,feminino,dinheiro
+2024-09-21 11:24:59.257149,167,Juiz de Fora,Luiza,Guitar Condor,Brandon Merkle,masculino,boleto
+2024-09-21 12:12:56.859419,168,São Paulo,Lucas Pereira,Geladeira,Alyssa Reynolds,feminino,boleto
+2024-09-21 13:32:02.752249,169,Juiz de Fora,Marcelo,Smart Band 9 pro,Pat Tripp,feminino,cartão de crédito
+2024-09-21 14:58:58.848200,170,São Brás,Carlos,Iphone,Brandon Torres,masculino,boleto
+2024-09-22 05:15:56.436400,171,Belo Horizonte,Luiz,Geladeira,Sandra Williamson,feminino,pix
+2024-09-22 09:15:04.689565,172,Belo Horizonte,Luiz,Geladeira,Stephen Schexnayder,masculino,dinheiro
+2024-09-22 09:19:58.932164,173,São Paulo,Lucas Pereira,Smart Band 9 pro,Gertrude Todd,feminino,boleto
+2024-09-22 11:26:01.790524,174,São Paulo,Ana Oliveira,Geladeira,Alex Kalhorn,masculino,pix
+2024-09-22 12:20:56.854110,175,São Paulo,Ana Oliveira,Smart Band 9 pro,Dale Petersen,masculino,pix
+2024-09-22 13:18:57.557102,176,Belo Horizonte,Luiz,Iphone,Mary Washington,feminino,cartão de crédito
+2024-09-22 14:13:59.214036,177,Belo Horizonte,Luiz,Iphone,Henry Hudson,masculino,pix
+2024-09-22 14:46:04.738972,178,São Brás,Carlos,Geladeira,Lamar Pena,masculino,pix
+2024-09-22 15:08:58.922856,179,São Paulo,Lucas Pereira,Guitar Condor,Lewis Sampson,masculino,boleto
+2024-09-23 08:20:57.734910,180,Belo Horizonte,Luiz,Guitar Condor,Tina Wasson,feminino,pix
+2024-09-23 10:23:04.636683,181,São Brás,Cristina,Guitar Condor,Virginia Seal,feminino,dinheiro
+2024-09-23 14:06:58.948126,182,São Brás,Carlos,Guitar Condor,Lori Showe,feminino,pix
+2024-09-24 07:05:05.005863,183,São Brás,Cristina,Geladeira,William Link,masculino,cartão de crédito
+2024-09-24 07:26:04.273514,184,Belo Horizonte,Luiz,Iphone,Tina Harris,feminino,boleto
+2024-09-24 09:40:05.571313,185,São Brás,Cristina,Smart Band 9 pro,Shawn Stollsteimer,masculino,pix
+2024-09-24 13:38:59.190008,186,Juiz de Fora,Marcelo,Guitar Condor,Russell Drumgoole,masculino,dinheiro
+2024-09-24 14:18:04.789854,187,Juiz de Fora,Marcelo,Smart Band 9 pro,Gertrude Cooper,feminino,dinheiro
+2024-09-25 05:32:57.876694,188,Belo Horizonte,Luiz,Smart Band 9 pro,Alfred Craft,masculino,pix
+2024-09-25 06:19:05.162606,189,Belo Horizonte,Luiz,Smart Band 9 pro,Jose Otting,masculino,boleto
+2024-09-25 07:42:00.631610,190,Belo Horizonte,Luiz,Geladeira,Leo Coats,masculino,cartão de crédito
+2024-09-25 08:46:00.358042,191,Juiz de Fora,Luiza,Guitar Condor,Trevor Anderson,masculino,dinheiro
+2024-09-25 09:57:00.935986,192,São Brás,Cristina,Guitar Condor,Valene Roberts,feminino,pix
+2024-09-26 05:31:00.070389,193,São Brás,Carlos,Smart Band 9 pro,Mary Blum,feminino,pix
+2024-09-26 08:32:59.470983,194,Juiz de Fora,Marcelo,Smart Band 9 pro,Matthew Rens,masculino,pix
+2024-09-26 08:50:59.933877,195,São Paulo,Ana Oliveira,Guitar Condor,Joseph Mcclain,masculino,cartão de crédito
+2024-09-26 11:15:00.412005,196,São Brás,Cristina,Iphone,John Schlueter,masculino,cartão de crédito
+2024-09-26 12:49:59.888519,197,São Brás,Carlos,Smart Band 9 pro,Bradley Shea,masculino,boleto
+2024-09-26 14:19:57.707296,198,Belo Horizonte,Luiz,Smart Band 9 pro,Joe Weaver,masculino,pix
+2024-09-27 07:07:01.566951,199,Juiz de Fora,Marcelo,Guitar Condor,William Lemmon,masculino,dinheiro
+2024-09-27 10:30:57.306241,200,São Paulo,Lucas Pereira,Iphone,Frank Fars,masculino,boleto
+2024-09-27 15:26:03.056766,201,Belo Horizonte,Luiz,Guitar Condor,Carolyn Chang,feminino,pix
+2024-09-28 07:35:01.831755,202,São Paulo,Lucas Pereira,Iphone,Kenneth Driggs,masculino,cartão de crédito
+2024-09-28 09:55:57.425610,203,São Paulo,Lucas Pereira,Smart Band 9 pro,Roberto Atkinson,masculino,boleto
+2024-09-28 10:45:58.793407,204,Juiz de Fora,Marcelo,Guitar Condor,Caroline Beverly,feminino,cartão de crédito
+2024-09-28 11:34:05.600130,205,São Paulo,Lucas Pereira,Geladeira,Marilyn Devore,feminino,cartão de crédito
+2024-09-28 13:15:03.996716,206,São Paulo,Lucas Pereira,Geladeira,Naomi Kirkpatrick,feminino,boleto
+2024-09-28 15:30:00.774803,207,São Paulo,Lucas Pereira,Smart Band 9 pro,Barbara Rauser,feminino,cartão de crédito
+2024-09-29 04:47:03.399993,208,São Paulo,Lucas Pereira,Guitar Condor,Angela Reich,feminino,dinheiro
+2024-09-29 04:47:59.377200,209,São Paulo,Lucas Pereira,Guitar Condor,Deborah Starnes,feminino,dinheiro
+2024-09-29 09:18:59.781325,210,Belo Horizonte,Luiz,Guitar Condor,Dawn Brown,feminino,dinheiro
+2024-09-29 09:38:02.811981,211,Juiz de Fora,Luiza,Guitar Condor,William Barbour,masculino,pix
+2024-09-29 10:09:01.749740,212,Belo Horizonte,Luiz,Smart Band 9 pro,Kieth Dingess,masculino,boleto
+2024-09-29 11:56:01.886033,213,Belo Horizonte,Luiz,Iphone,Carolyn Boutte,feminino,pix
+2024-09-29 13:51:59.589641,214,Juiz de Fora,Luiza,Guitar Condor,Erich Self,masculino,boleto
+2024-09-29 14:18:02.164687,215,Belo Horizonte,Leticia,Geladeira,Julie Reimer,feminino,boleto
+2024-09-29 14:29:59.404957,216,São Brás,Carlos,Geladeira,Ron Norman,masculino,pix
+2024-09-30 05:19:57.136421,217,São Brás,Carlos,Iphone,Jeff Redmond,masculino,pix
+2024-09-30 08:20:00.240344,218,Juiz de Fora,Marcelo,Geladeira,Tabitha Myers,feminino,cartão de crédito
+2024-09-30 09:00:56.704953,219,Belo Horizonte,Luiz,Guitar Condor,Robert Ader,masculino,pix
+2024-09-30 13:19:56.692695,220,Belo Horizonte,Leticia,Geladeira,Janet Howard,feminino,cartão de crédito
+2024-10-01 14:09:59.419417,221,Juiz de Fora,Luiza,Geladeira,Charles Przedwiecki,masculino,cartão de crédito
+2024-10-01 14:26:01.120038,222,Belo Horizonte,Leticia,Geladeira,Kimberly Rusk,feminino,dinheiro
+2024-10-01 14:58:02.516977,223,Belo Horizonte,Leticia,Smart Band 9 pro,Sergio Knight,masculino,dinheiro
+2024-10-02 07:19:56.700400,224,Belo Horizonte,Leticia,Iphone,Francis Bean,feminino,boleto
+2024-10-02 07:28:00.506527,225,São Brás,Carlos,Smart Band 9 pro,Shawn Croyle,masculino,boleto
+2024-10-02 07:31:00.944750,226,São Brás,Carlos,Geladeira,Carmen Hebel,feminino,boleto
+2024-10-02 07:47:56.583905,227,Juiz de Fora,Marcelo,Iphone,Mildred Dyer,feminino,cartão de crédito
+2024-10-02 14:16:02.195750,228,Belo Horizonte,Luiz,Geladeira,Brandon Santos,masculino,boleto
+2024-10-02 15:36:01.605073,229,Juiz de Fora,Marcelo,Geladeira,Ruth Jenkins,feminino,cartão de crédito
+2024-10-03 11:27:01.445709,230,Juiz de Fora,Luiza,Geladeira,James Bencomo,masculino,boleto
+2024-10-03 13:21:56.325597,231,Belo Horizonte,Leticia,Iphone,Willie Mason,masculino,cartão de crédito
+2024-10-03 14:26:05.469849,232,Juiz de Fora,Marcelo,Iphone,Jason Baker,masculino,boleto
+2024-10-03 14:44:01.433830,233,São Brás,Cristina,Iphone,Michael Riney,masculino,pix
+2024-10-04 07:59:04.784286,234,Belo Horizonte,Leticia,Smart Band 9 pro,Joseph Gaylor,masculino,dinheiro
+2024-10-04 11:26:03.729137,235,São Brás,Carlos,Smart Band 9 pro,Sabrina Andre,feminino,boleto
+2024-10-04 12:33:02.170853,236,Belo Horizonte,Leticia,Guitar Condor,Israel Washington,masculino,pix
+2024-10-05 07:36:05.471589,237,São Brás,Cristina,Geladeira,Corey Roemmich,masculino,dinheiro
+2024-10-05 10:02:05.787802,238,Belo Horizonte,Leticia,Geladeira,Jonathan Andrews,masculino,cartão de crédito
+2024-10-05 12:24:57.704078,239,São Brás,Cristina,Geladeira,Michael Gardner,masculino,cartão de crédito
+2024-10-05 13:54:02.259851,240,Juiz de Fora,Marcelo,Iphone,Robin Roberts,feminino,pix
+2024-10-05 14:08:57.495793,241,Belo Horizonte,Leticia,Smart Band 9 pro,Harold Nissen,masculino,pix
+2024-10-06 05:46:59.021262,242,Juiz de Fora,Marcelo,Iphone,James Bourque,masculino,cartão de crédito
+2024-10-06 06:34:57.864316,243,São Brás,Carlos,Geladeira,Lloyd Miller,masculino,pix
+2024-10-06 08:17:57.034515,244,Juiz de Fora,Marcelo,Iphone,James Negri,masculino,dinheiro
+2024-10-06 09:56:02.354209,245,São Paulo,Ana Oliveira,Iphone,Stephen Tadlock,masculino,boleto
+2024-10-06 10:07:56.362617,246,São Paulo,Lucas Pereira,Iphone,Willie Crawford,masculino,pix
+2024-10-06 11:47:57.858298,247,Juiz de Fora,Luiza,Guitar Condor,Suzanne Figueroa,feminino,pix
+2024-10-06 13:26:56.487361,248,Juiz de Fora,Luiza,Smart Band 9 pro,Carolyn Jones,feminino,boleto
+2024-10-06 13:43:04.492523,249,Belo Horizonte,Luiz,Iphone,Angela Gosnell,feminino,dinheiro
+2024-10-07 05:03:56.387790,250,Juiz de Fora,Marcelo,Guitar Condor,Thomas Scott,masculino,dinheiro
+2024-10-07 09:59:59.965243,251,Belo Horizonte,Leticia,Smart Band 9 pro,Leora Davis,feminino,boleto
+2024-10-07 11:37:03.485533,252,Juiz de Fora,Marcelo,Guitar Condor,Pedro Mcdaniel,masculino,boleto
+2024-10-07 13:33:56.469200,253,Belo Horizonte,Luiz,Geladeira,Opal Countryman,feminino,cartão de crédito
+2024-10-07 13:55:57.636729,254,Belo Horizonte,Luiz,Smart Band 9 pro,Eugene Harris,masculino,dinheiro
+2024-10-07 14:11:57.447922,255,São Paulo,Lucas Pereira,Iphone,Teresa Larmore,feminino,cartão de crédito
+2024-10-08 04:47:56.379945,256,Juiz de Fora,Luiza,Geladeira,Candida Johnson,feminino,dinheiro
+2024-10-08 05:12:04.621603,257,Belo Horizonte,Leticia,Smart Band 9 pro,Kenneth Hooper,masculino,cartão de crédito
+2024-10-08 06:25:56.461682,258,São Brás,Carlos,Geladeira,Anna Davis,feminino,pix
+2024-10-08 08:15:04.805414,259,Belo Horizonte,Leticia,Guitar Condor,Tressie Robert,feminino,boleto
+2024-10-08 10:22:56.799603,260,Juiz de Fora,Marcelo,Guitar Condor,Darryl Sparks,masculino,cartão de crédito
+2024-10-08 10:31:03.499521,261,São Brás,Cristina,Guitar Condor,Jessie Paider,masculino,pix
+2024-10-08 11:06:02.801506,262,Belo Horizonte,Luiz,Geladeira,Jason Camargo,masculino,pix
+2024-10-08 12:07:00.312989,263,Juiz de Fora,Luiza,Geladeira,Ronald Anguiano,masculino,pix
+2024-10-08 15:38:04.754190,264,Juiz de Fora,Marcelo,Guitar Condor,Sarah Kimme,feminino,dinheiro
+2024-10-09 05:32:03.817321,265,Belo Horizonte,Luiz,Iphone,Cleo Repp,feminino,boleto
+2024-10-09 12:42:00.653262,266,São Paulo,Lucas Pereira,Iphone,Lora Stiles,feminino,boleto
+2024-10-09 14:57:01.842420,267,Belo Horizonte,Luiz,Iphone,Richard Cox,masculino,pix
+2024-10-10 04:53:02.809338,268,Belo Horizonte,Luiz,Guitar Condor,Tyree Dallas,masculino,pix
+2024-10-10 05:06:01.228264,269,São Paulo,Lucas Pereira,Guitar Condor,Joseph Canon,masculino,cartão de crédito
+2024-10-10 05:28:05.290466,270,São Paulo,Ana Oliveira,Iphone,Pauline Weatherly,feminino,boleto
+2024-10-10 09:56:58.404595,271,Belo Horizonte,Luiz,Smart Band 9 pro,Paul Scott,masculino,cartão de crédito
+2024-10-10 13:10:57.087493,272,São Brás,Carlos,Iphone,Louis Willis,masculino,pix
+2024-10-10 13:41:00.466027,273,São Brás,Cristina,Smart Band 9 pro,Evelyn Ayala,feminino,pix
+2024-10-10 14:12:59.931192,274,São Paulo,Lucas Pereira,Guitar Condor,Mary Worden,feminino,boleto
+2024-10-11 07:29:03.750901,275,Juiz de Fora,Luiza,Guitar Condor,Naomi Scaife,feminino,boleto
+2024-10-11 10:53:59.543560,276,São Brás,Carlos,Smart Band 9 pro,Eva Jones,feminino,boleto
+2024-10-11 13:51:59.706454,277,Juiz de Fora,Marcelo,Guitar Condor,Robin Paine,feminino,boleto
+2024-10-11 14:57:03.853812,278,Belo Horizonte,Luiz,Iphone,Henry Cassella,masculino,boleto
+2024-10-12 05:17:56.590632,279,Belo Horizonte,Luiz,Iphone,Mary Talavera,feminino,cartão de crédito
+2024-10-12 05:18:59.218735,280,São Brás,Carlos,Guitar Condor,Jackie Miller,masculino,dinheiro
+2024-10-12 08:39:00.818459,281,Belo Horizonte,Luiz,Iphone,Michael Bledsoe,masculino,dinheiro
+2024-10-13 05:14:04.727703,282,São Brás,Cristina,Smart Band 9 pro,George Mcclelland,masculino,dinheiro
+2024-10-13 05:55:02.556819,283,Belo Horizonte,Leticia,Geladeira,George Lapointe,masculino,boleto
+2024-10-13 06:03:02.393074,284,Belo Horizonte,Leticia,Geladeira,Gail Gage,feminino,cartão de crédito
+2024-10-13 06:49:04.618959,285,Belo Horizonte,Luiz,Iphone,Norman Young,masculino,boleto
+2024-10-13 09:05:58.735006,286,São Brás,Carlos,Geladeira,Lucille Spears,feminino,pix
+2024-10-13 09:17:59.639866,287,Belo Horizonte,Leticia,Smart Band 9 pro,Erica Haynes,feminino,boleto
+2024-10-13 11:08:58.817677,288,São Brás,Carlos,Smart Band 9 pro,William Lozano,masculino,dinheiro
+2024-10-13 12:44:59.496458,289,São Brás,Carlos,Geladeira,Jeremy Davis,masculino,dinheiro
+2024-10-13 13:42:04.586440,290,Juiz de Fora,Marcelo,Iphone,Adrienne Washington,feminino,boleto
+2024-10-13 14:23:04.352888,291,Juiz de Fora,Marcelo,Geladeira,Patricia Jimenez,feminino,cartão de crédito
+2024-10-14 07:25:01.361981,292,Juiz de Fora,Marcelo,Guitar Condor,Virginia Read,feminino,dinheiro
+2024-10-14 07:35:58.988554,293,São Paulo,Ana Oliveira,Geladeira,Joanna Liszewski,feminino,dinheiro
+2024-10-14 07:38:01.289546,294,Belo Horizonte,Leticia,Iphone,John James,masculino,boleto
+2024-10-14 09:06:56.391637,295,Belo Horizonte,Leticia,Guitar Condor,Margaret Vigo,feminino,boleto
+2024-10-14 12:29:00.523273,296,Juiz de Fora,Marcelo,Geladeira,Samatha Harres,feminino,pix
+2024-10-15 07:28:58.108340,297,Belo Horizonte,Leticia,Guitar Condor,Roy Cooper,masculino,dinheiro
+2024-10-15 10:15:00.960351,298,São Brás,Carlos,Smart Band 9 pro,Maryanne Roberts,feminino,boleto
+2024-10-15 10:15:59.352183,299,São Paulo,Lucas Pereira,Smart Band 9 pro,America Rivera,feminino,boleto
+2024-10-15 13:53:02.163296,300,São Brás,Cristina,Iphone,Robert Smith,masculino,boleto
+2024-10-16 07:23:03.610532,301,São Brás,Carlos,Guitar Condor,Keven Dennis,masculino,boleto
+2024-10-16 07:32:00.219428,302,São Paulo,Ana Oliveira,Iphone,Charles Mercier,masculino,cartão de crédito
+2024-10-16 09:04:04.615138,303,Belo Horizonte,Luiz,Smart Band 9 pro,Jodie Brito,feminino,boleto
+2024-10-16 13:07:00.806767,304,São Brás,Cristina,Guitar Condor,Francis Mouton,masculino,boleto
+2024-10-16 14:54:05.615438,305,São Brás,Carlos,Smart Band 9 pro,Lisa Flood,feminino,pix
+2024-10-16 15:18:59.521580,306,Belo Horizonte,Leticia,Iphone,Ernestine Morales,feminino,dinheiro
+2024-10-17 06:32:57.535098,307,São Brás,Carlos,Guitar Condor,Elizabeth Taylor,feminino,pix
+2024-10-17 11:02:03.019182,308,Juiz de Fora,Marcelo,Smart Band 9 pro,Bobby Greene,masculino,cartão de crédito
+2024-10-17 11:53:57.737434,309,Belo Horizonte,Luiz,Smart Band 9 pro,Virginia Smith,feminino,dinheiro
+2024-10-17 13:22:58.795537,310,Juiz de Fora,Marcelo,Smart Band 9 pro,Michael Ruppert,masculino,pix
+2024-10-17 14:15:02.711520,311,São Brás,Carlos,Guitar Condor,Juanita Peters,feminino,dinheiro
+2024-10-18 09:31:57.698047,312,Belo Horizonte,Luiz,Geladeira,Inez Southerland,feminino,dinheiro
+2024-10-18 10:17:57.026045,313,Juiz de Fora,Marcelo,Iphone,Elza Robinson,feminino,cartão de crédito
+2024-10-18 13:40:57.661550,314,Belo Horizonte,Leticia,Geladeira,John Wallick,masculino,cartão de crédito
+2024-10-18 13:55:59.165748,315,Belo Horizonte,Luiz,Geladeira,Virginia Lindsey,feminino,pix
+2024-10-19 06:16:05.377122,316,São Paulo,Ana Oliveira,Smart Band 9 pro,Jaime Jeanette,masculino,pix
+2024-10-19 07:57:58.748937,317,Juiz de Fora,Marcelo,Guitar Condor,Charles Forte,masculino,pix
+2024-10-19 08:38:57.991857,318,São Paulo,Ana Oliveira,Smart Band 9 pro,Erin Calderon,feminino,cartão de crédito
+2024-10-19 09:01:03.790307,319,São Paulo,Lucas Pereira,Geladeira,Brian Kelley,masculino,boleto
+2024-10-19 09:08:02.386501,320,Juiz de Fora,Marcelo,Smart Band 9 pro,Frank Belanger,masculino,pix
+2024-10-19 09:57:56.927295,321,São Paulo,Lucas Pereira,Smart Band 9 pro,Von Linahan,masculino,boleto
+2024-10-19 12:36:02.050933,322,São Paulo,Lucas Pereira,Geladeira,Michael Mitchell,masculino,cartão de crédito
+2024-10-19 14:38:58.736442,323,São Brás,Cristina,Geladeira,Sarah Mcbee,feminino,dinheiro
+2024-10-20 07:52:56.905729,324,São Paulo,Ana Oliveira,Geladeira,Tammy Powell,feminino,boleto
+2024-10-20 12:14:00.359883,325,São Brás,Cristina,Guitar Condor,Charles Selvester,masculino,boleto
+2024-10-20 14:53:00.196351,326,São Paulo,Lucas Pereira,Geladeira,Bernard Crowder,masculino,cartão de crédito
+2024-10-21 08:21:57.706025,327,Belo Horizonte,Leticia,Guitar Condor,Jennifer Williams,feminino,dinheiro
+2024-10-21 13:58:59.274395,328,Belo Horizonte,Leticia,Iphone,Ruby Smith,feminino,cartão de crédito
+2024-10-21 14:35:58.778268,329,Belo Horizonte,Leticia,Guitar Condor,Jimmie Croft,masculino,boleto
+2024-10-22 05:14:04.678847,330,São Brás,Cristina,Guitar Condor,Roberto Foote,masculino,dinheiro
+2024-10-22 05:30:03.815123,331,São Paulo,Ana Oliveira,Geladeira,Clarice Hacker,feminino,pix
+2024-10-22 06:56:57.538219,332,Juiz de Fora,Luiza,Guitar Condor,Christy Rubalcava,feminino,boleto
+2024-10-22 08:28:01.645867,333,São Paulo,Lucas Pereira,Iphone,Christal Vining,feminino,dinheiro
+2024-10-22 09:31:03.481054,334,São Paulo,Lucas Pereira,Guitar Condor,Michelle Cromer,feminino,cartão de crédito
+2024-10-22 09:36:56.419730,335,Belo Horizonte,Luiz,Iphone,Reuben Wheat,masculino,cartão de crédito
+2024-10-22 10:38:58.933372,336,São Paulo,Ana Oliveira,Iphone,Thomas Denning,masculino,boleto
+2024-10-22 11:08:58.338109,337,São Brás,Cristina,Smart Band 9 pro,Yuriko Edwards,feminino,boleto
+2024-10-22 12:53:57.342340,338,Belo Horizonte,Leticia,Geladeira,James Terrio,masculino,cartão de crédito
+2024-10-22 14:48:02.483657,339,Belo Horizonte,Leticia,Guitar Condor,Ernest Allison,masculino,cartão de crédito
+2024-10-23 07:41:04.407893,340,São Brás,Carlos,Guitar Condor,Paul Ryan,masculino,boleto
+2024-10-23 10:05:04.718912,341,Juiz de Fora,Marcelo,Guitar Condor,Linda Dew,feminino,pix
+2024-10-23 11:14:59.968179,342,Belo Horizonte,Leticia,Iphone,Ivan Prehn,masculino,pix
+2024-10-23 12:12:04.603193,343,Juiz de Fora,Marcelo,Guitar Condor,Charles Cullen,masculino,dinheiro
+2024-10-24 14:03:58.472949,344,São Paulo,Ana Oliveira,Guitar Condor,Kyle Albrekht,masculino,boleto
+2024-10-24 14:25:05.243245,345,Belo Horizonte,Leticia,Guitar Condor,Henry Clarke,masculino,dinheiro
+2024-10-24 15:13:01.783720,346,Belo Horizonte,Leticia,Iphone,Kay Barrie,feminino,dinheiro
+2024-10-25 05:15:56.434406,347,Juiz de Fora,Luiza,Iphone,Leo Marx,masculino,boleto
+2024-10-25 06:33:57.728639,348,São Paulo,Ana Oliveira,Guitar Condor,Perry Cole,masculino,pix
+2024-10-25 08:19:59.642370,349,Juiz de Fora,Luiza,Geladeira,Juanita Stovall,feminino,dinheiro
+2024-10-25 10:33:00.126756,350,São Brás,Carlos,Iphone,Victoria Carter,feminino,cartão de crédito
+2024-10-25 11:09:05.762308,351,Juiz de Fora,Luiza,Geladeira,Shannon Warren,feminino,cartão de crédito
+2024-10-25 11:10:59.278249,352,São Paulo,Ana Oliveira,Geladeira,Pamela Carreon,feminino,cartão de crédito
+2024-10-25 13:07:05.138806,353,Belo Horizonte,Luiz,Guitar Condor,Lucy Hood,feminino,pix
+2024-10-26 06:34:59.139774,354,São Paulo,Lucas Pereira,Smart Band 9 pro,Phyllis Scott,feminino,dinheiro
+2024-10-26 07:39:03.860761,355,São Paulo,Ana Oliveira,Iphone,Roger Clapper,masculino,dinheiro
+2024-10-26 11:50:01.234174,356,São Paulo,Ana Oliveira,Geladeira,Fredric Sanchez,masculino,dinheiro
+2024-10-26 12:00:02.944615,357,São Brás,Cristina,Geladeira,Lauren Crawford,feminino,cartão de crédito
+2024-10-26 12:58:00.799389,358,Belo Horizonte,Leticia,Iphone,Jane Mata,feminino,pix
+2024-10-26 13:52:57.660371,359,Juiz de Fora,Luiza,Geladeira,Grace Jackson,feminino,pix
+2024-10-27 04:50:02.719102,360,São Paulo,Ana Oliveira,Smart Band 9 pro,Anastasia Duhe,feminino,boleto
+2024-10-27 07:18:56.375563,361,São Brás,Carlos,Iphone,Michelle Brown,feminino,pix
+2024-10-27 08:39:02.681456,362,São Brás,Carlos,Geladeira,Tommy Perfater,masculino,cartão de crédito
+2024-10-27 10:54:05.768020,363,São Brás,Cristina,Iphone,Carol Downing,feminino,boleto
+2024-10-27 12:12:59.251584,364,São Brás,Cristina,Geladeira,John Brooker,masculino,boleto
+2024-10-27 13:22:57.427598,365,São Brás,Carlos,Iphone,Henry Robinson,masculino,cartão de crédito
+2024-10-27 15:33:57.668478,366,São Brás,Cristina,Iphone,Kathleen Barnett,feminino,boleto
+2024-10-28 06:23:02.350585,367,São Paulo,Ana Oliveira,Iphone,Cynthia Lance,feminino,pix
+2024-10-28 08:37:59.167223,368,São Brás,Cristina,Iphone,Christine Busby,feminino,pix
+2024-10-28 09:05:58.157722,369,Juiz de Fora,Luiza,Guitar Condor,Tina Pidgeon,feminino,pix
+2024-10-29 05:22:02.006173,370,Juiz de Fora,Luiza,Smart Band 9 pro,Linda Mendez,feminino,boleto
+2024-10-29 05:53:57.230699,371,Juiz de Fora,Luiza,Smart Band 9 pro,Donald Muni,masculino,dinheiro
+2024-10-29 09:33:58.099229,372,São Paulo,Ana Oliveira,Iphone,Ralph Todd,masculino,dinheiro
+2024-10-29 12:26:04.787629,373,São Paulo,Lucas Pereira,Guitar Condor,Dean Mims,masculino,dinheiro
+2024-10-29 14:06:57.054834,374,São Paulo,Ana Oliveira,Iphone,Gary Wollenberg,masculino,pix
+2024-10-30 05:34:05.085299,375,São Brás,Cristina,Smart Band 9 pro,Jon Gonzalez,masculino,cartão de crédito
+2024-10-30 09:43:03.612629,376,Juiz de Fora,Marcelo,Geladeira,Nicholas Lindsey,masculino,pix
+2024-10-30 10:53:56.742951,377,Juiz de Fora,Luiza,Guitar Condor,Carolyn Nunez,feminino,pix
+2024-10-30 15:09:57.006527,378,Juiz de Fora,Marcelo,Guitar Condor,Daria Fox,feminino,cartão de crédito
+2024-10-31 07:26:00.349568,379,Belo Horizonte,Luiz,Smart Band 9 pro,Nancy Stokes,feminino,cartão de crédito
+2024-10-31 08:55:57.166448,380,Juiz de Fora,Marcelo,Guitar Condor,John Cronin,masculino,boleto
+2024-10-31 09:55:59.891576,381,Belo Horizonte,Leticia,Iphone,Gabriel Wollschlager,masculino,pix
+2024-10-31 13:47:58.212242,382,Belo Horizonte,Luiz,Smart Band 9 pro,Karen Tucker,feminino,pix
+2024-10-31 13:51:56.489269,383,São Brás,Carlos,Iphone,Juan Coleman,masculino,cartão de crédito
+2024-11-01 06:30:59.814069,384,Belo Horizonte,Leticia,Smart Band 9 pro,Camille Candelaria,feminino,boleto
+2024-11-01 06:53:04.400329,385,São Brás,Carlos,Geladeira,David Woolridge,masculino,boleto
+2024-11-01 11:18:59.188888,386,Belo Horizonte,Leticia,Smart Band 9 pro,Emma Parker,feminino,boleto
+2024-11-01 12:57:01.719765,387,Belo Horizonte,Luiz,Iphone,Pedro Kama,masculino,boleto
+2024-11-02 07:00:03.913210,388,São Brás,Cristina,Guitar Condor,Marvin Moralis,masculino,cartão de crédito
+2024-11-02 13:12:58.876951,389,São Brás,Cristina,Guitar Condor,Brian Quimby,masculino,boleto
+2024-11-03 05:37:58.921497,390,São Brás,Carlos,Smart Band 9 pro,Jennifer Jensen,feminino,boleto
+2024-11-03 06:32:59.447341,391,São Brás,Cristina,Guitar Condor,Marla Parker,feminino,cartão de crédito
+2024-11-03 08:44:58.061410,392,São Paulo,Lucas Pereira,Smart Band 9 pro,Leo Clark,masculino,boleto
+2024-11-03 10:21:59.858721,393,São Paulo,Ana Oliveira,Guitar Condor,Esther Ballentine,feminino,cartão de crédito
+2024-11-03 11:25:01.366729,394,Belo Horizonte,Leticia,Geladeira,Gary Cornelius,masculino,cartão de crédito
+2024-11-03 12:09:01.125769,395,Belo Horizonte,Leticia,Smart Band 9 pro,John Hillegas,masculino,dinheiro
+2024-11-03 13:07:02.352999,396,Belo Horizonte,Leticia,Iphone,Donna Wiggins,feminino,dinheiro
+2024-11-03 14:35:59.306576,397,São Brás,Cristina,Iphone,Kevin May,masculino,dinheiro
+2024-11-04 10:14:57.947880,398,São Paulo,Lucas Pereira,Guitar Condor,Jeffrey Segars,masculino,cartão de crédito
+2024-11-04 11:39:00.823932,399,Belo Horizonte,Luiz,Smart Band 9 pro,Yukiko Sivels,feminino,dinheiro
+2024-11-04 14:58:04.700061,400,Belo Horizonte,Luiz,Iphone,Michael Castillo,masculino,dinheiro
+2024-11-04 15:26:03.967496,401,Juiz de Fora,Marcelo,Guitar Condor,John Bohrman,masculino,dinheiro
+2024-11-04 15:39:59.783160,402,Juiz de Fora,Luiza,Smart Band 9 pro,Charles James,masculino,dinheiro
+2024-11-05 10:39:00.520172,403,São Paulo,Ana Oliveira,Geladeira,Lorraine Mitchell,feminino,pix
+2024-11-05 10:42:59.177811,404,Juiz de Fora,Luiza,Iphone,George Kelley,masculino,dinheiro
+2024-11-05 11:10:56.875005,405,Belo Horizonte,Leticia,Smart Band 9 pro,Aubrey Mckenzie,masculino,pix
+2024-11-05 13:48:00.129585,406,São Paulo,Ana Oliveira,Guitar Condor,Brandy Houghton,feminino,cartão de crédito
+2024-11-06 05:07:02.799454,407,Juiz de Fora,Marcelo,Iphone,Dennis Reynolds,masculino,cartão de crédito
+2024-11-06 05:52:00.516032,408,São Paulo,Lucas Pereira,Guitar Condor,Roderick Pendergrass,masculino,boleto
+2024-11-06 07:16:05.608822,409,São Brás,Carlos,Geladeira,Hattie Selfridge,feminino,boleto
+2024-11-06 07:31:59.282524,410,São Paulo,Lucas Pereira,Smart Band 9 pro,Andrew Durrah,masculino,pix
+2024-11-06 08:05:02.092149,411,Belo Horizonte,Leticia,Geladeira,Katina Byer,feminino,pix
+2024-11-06 11:45:03.554018,412,São Brás,Cristina,Geladeira,Russell Laino,masculino,boleto
+2024-11-06 13:49:02.478300,413,Juiz de Fora,Luiza,Geladeira,Pearlie Carvajal,feminino,pix
+2024-11-06 13:54:59.664087,414,São Brás,Cristina,Iphone,Patrick Presha,masculino,boleto
+2024-11-07 05:00:05.813375,415,São Brás,Cristina,Geladeira,Jesus Mcdaniel,masculino,pix
+2024-11-07 05:02:58.142369,416,Juiz de Fora,Luiza,Iphone,Clarence Monti,masculino,pix
+2024-11-07 11:17:04.673916,417,Belo Horizonte,Luiz,Iphone,Anthony Bryant,masculino,dinheiro
+2024-11-07 13:37:58.941229,418,São Brás,Cristina,Guitar Condor,David Moseley,masculino,dinheiro
+2024-11-07 15:03:57.726181,419,São Paulo,Lucas Pereira,Iphone,Marion Henry,feminino,pix
+2024-11-08 06:20:56.775919,420,Belo Horizonte,Luiz,Geladeira,Phillip Rangel,masculino,pix
+2024-11-08 07:17:05.371115,421,São Paulo,Lucas Pereira,Smart Band 9 pro,William Kaufmann,masculino,boleto
+2024-11-08 10:17:03.252838,422,Juiz de Fora,Luiza,Iphone,Lawrence Leversee,masculino,cartão de crédito
+2024-11-08 14:43:57.852839,423,São Brás,Carlos,Smart Band 9 pro,Cheryl Willis,feminino,pix
+2024-11-09 05:30:57.730599,424,São Paulo,Lucas Pereira,Geladeira,Mary Kim,feminino,pix
+2024-11-09 05:53:57.832720,425,Belo Horizonte,Luiz,Iphone,Walter Lieber,masculino,boleto
+2024-11-09 06:46:03.088083,426,Belo Horizonte,Luiz,Guitar Condor,Francis Easton,feminino,pix
+2024-11-09 07:28:00.641588,427,São Paulo,Ana Oliveira,Iphone,Earl Mccombs,masculino,cartão de crédito
+2024-11-09 09:14:58.776241,428,Juiz de Fora,Luiza,Guitar Condor,Jerry Thompson,masculino,cartão de crédito
+2024-11-09 10:50:03.658647,429,Belo Horizonte,Luiz,Guitar Condor,Douglas Gustin,masculino,dinheiro
+2024-11-09 13:12:56.753850,430,Belo Horizonte,Leticia,Geladeira,Ricky Moser,masculino,cartão de crédito
+2024-11-09 13:32:01.452061,431,Belo Horizonte,Leticia,Guitar Condor,Casey Ragland,feminino,dinheiro
+2024-11-09 14:51:03.631876,432,Juiz de Fora,Marcelo,Iphone,David Causey,masculino,cartão de crédito
+2024-11-10 06:21:58.546730,433,São Paulo,Ana Oliveira,Geladeira,Erica Klepchick,feminino,cartão de crédito
+2024-11-10 06:52:02.081762,434,Belo Horizonte,Leticia,Guitar Condor,Marianne Hill,feminino,cartão de crédito
+2024-11-10 10:47:57.269792,435,Belo Horizonte,Leticia,Iphone,Sandra Hrabovsky,feminino,dinheiro
+2024-11-10 14:40:00.539330,436,São Brás,Carlos,Geladeira,Jerry Demello,masculino,boleto
+2024-11-10 15:10:04.191242,437,São Brás,Carlos,Smart Band 9 pro,John Martin,masculino,boleto
+2024-11-10 15:31:05.557499,438,Juiz de Fora,Luiza,Geladeira,Jake Schafer,masculino,pix
+2024-11-11 09:24:03.182060,439,Juiz de Fora,Marcelo,Geladeira,Shannon Emanuele,masculino,pix
+2024-11-11 10:44:00.812675,440,São Brás,Cristina,Iphone,Sarah Kutz,feminino,dinheiro
+2024-11-11 13:44:58.862018,441,Juiz de Fora,Luiza,Guitar Condor,Katlyn Howell,feminino,boleto
+2024-11-12 09:38:57.912234,442,Belo Horizonte,Luiz,Iphone,Richard Mcclary,masculino,dinheiro
+2024-11-12 12:20:57.547070,443,São Paulo,Ana Oliveira,Geladeira,Joshua Smith,masculino,pix
+2024-11-13 10:30:59.993612,444,Belo Horizonte,Luiz,Iphone,James Fisher,masculino,boleto
+2024-11-13 11:35:05.463155,445,Belo Horizonte,Luiz,Guitar Condor,Virginia Perez,feminino,boleto
+2024-11-13 15:36:56.841787,446,São Paulo,Lucas Pereira,Smart Band 9 pro,Elizabeth Ensign,feminino,dinheiro
+2024-11-14 08:07:59.867487,447,São Brás,Carlos,Smart Band 9 pro,Toni Priestley,feminino,boleto
+2024-11-14 09:22:04.220206,448,Juiz de Fora,Marcelo,Geladeira,Nelson Key,masculino,cartão de crédito
+2024-11-14 09:30:01.369173,449,São Paulo,Lucas Pereira,Iphone,Troy Haskins,masculino,boleto
+2024-11-14 10:40:58.512151,450,São Paulo,Lucas Pereira,Smart Band 9 pro,Steven Gibbs,masculino,boleto
+2024-11-14 10:41:57.945707,451,São Brás,Carlos,Iphone,Anne Dial,feminino,cartão de crédito
+2024-11-14 15:24:59.271099,452,Juiz de Fora,Marcelo,Guitar Condor,Terry Tetreault,masculino,boleto
+2024-11-15 05:52:01.473804,453,São Brás,Cristina,Smart Band 9 pro,Jerry Lewis,masculino,pix
+2024-11-15 12:33:05.149843,454,Belo Horizonte,Luiz,Guitar Condor,Melissa Reyes,feminino,dinheiro
+2024-11-15 12:50:01.597954,455,Belo Horizonte,Luiz,Guitar Condor,Alejandra Tobias,feminino,cartão de crédito
+2024-11-16 10:26:58.914458,456,Belo Horizonte,Luiz,Smart Band 9 pro,Ethel Stolte,feminino,pix
+2024-11-16 12:31:01.690866,457,São Brás,Carlos,Geladeira,Nora Friesen,feminino,boleto
+2024-11-16 15:25:57.810406,458,Juiz de Fora,Luiza,Geladeira,Amber Ronca,feminino,boleto
+2024-11-18 05:43:02.468106,459,São Paulo,Ana Oliveira,Geladeira,Adriana Alden,feminino,boleto
+2024-11-18 06:14:03.124266,460,Juiz de Fora,Luiza,Smart Band 9 pro,Leida Martine,feminino,cartão de crédito
+2024-11-18 06:53:01.650287,461,São Paulo,Ana Oliveira,Iphone,Miriam Worker,feminino,pix
+2024-11-18 07:25:56.560822,462,São Brás,Carlos,Guitar Condor,Fernando Jones,masculino,boleto
+2024-11-18 14:44:57.987736,463,Juiz de Fora,Luiza,Smart Band 9 pro,Sherry Bolen,feminino,boleto
+2024-11-19 06:40:01.315518,464,São Brás,Carlos,Geladeira,Richard Merz,masculino,boleto
+2024-11-19 07:25:01.965363,465,São Paulo,Ana Oliveira,Iphone,Charles Moradel,masculino,pix
+2024-11-19 07:38:05.544992,466,São Brás,Carlos,Geladeira,Christa Hartfield,feminino,pix
+2024-11-19 08:36:00.424417,467,Juiz de Fora,Luiza,Smart Band 9 pro,Michael Gomes,masculino,dinheiro
+2024-11-19 10:10:58.146644,468,São Paulo,Lucas Pereira,Iphone,Lottie Vandam,feminino,cartão de crédito
+2024-11-19 15:07:57.654078,469,Belo Horizonte,Leticia,Iphone,Kevin Mcnair,masculino,cartão de crédito
+2024-11-20 06:04:04.447337,470,Juiz de Fora,Marcelo,Iphone,Evelyn Gonzalez,feminino,pix
+2024-11-20 06:35:04.714765,471,São Paulo,Lucas Pereira,Geladeira,Marilyn Mccormick,feminino,cartão de crédito
+2024-11-20 07:21:00.649410,472,Belo Horizonte,Leticia,Geladeira,Adam Turner,masculino,dinheiro
+2024-11-20 10:26:56.955968,473,São Paulo,Ana Oliveira,Geladeira,Julie Swoager,feminino,pix
+2024-11-20 12:07:57.803628,474,São Brás,Cristina,Geladeira,Danny Brandt,masculino,dinheiro
+2024-11-20 14:45:05.089337,475,Belo Horizonte,Luiz,Guitar Condor,James Horton,masculino,pix
+2024-11-21 04:46:02.033189,476,São Brás,Cristina,Iphone,Erik Bowles,masculino,cartão de crédito
+2024-11-21 05:32:56.748065,477,São Brás,Cristina,Guitar Condor,Jennifer Singer,feminino,pix
+2024-11-21 09:06:59.317684,478,São Brás,Cristina,Iphone,Jonathan Auman,masculino,dinheiro
+2024-11-21 11:23:59.418161,479,São Brás,Carlos,Smart Band 9 pro,Eva Davis,feminino,boleto
+2024-11-22 05:01:04.610923,480,São Paulo,Ana Oliveira,Smart Band 9 pro,Treva Beale,feminino,boleto
+2024-11-22 06:57:00.351851,481,Juiz de Fora,Marcelo,Guitar Condor,Elwood Lewis,masculino,cartão de crédito
+2024-11-22 08:16:03.940094,482,Belo Horizonte,Luiz,Guitar Condor,Nancy Richmond,feminino,pix
+2024-11-22 09:28:59.358051,483,Juiz de Fora,Marcelo,Guitar Condor,Mary Johnson,feminino,cartão de crédito
+2024-11-22 09:49:02.796166,484,Belo Horizonte,Luiz,Smart Band 9 pro,Ellen Kohler,feminino,pix
+2024-11-22 14:17:03.891431,485,Juiz de Fora,Luiza,Guitar Condor,Darlene Anderson,feminino,cartão de crédito
+2024-11-23 10:15:02.879458,486,Belo Horizonte,Luiz,Guitar Condor,Timothy Hillebrandt,masculino,pix
+2024-11-23 11:03:03.831733,487,Juiz de Fora,Marcelo,Iphone,Penny Smith,feminino,pix
+2024-11-23 11:55:05.060308,488,Belo Horizonte,Luiz,Iphone,Darlene Wright,feminino,pix
+2024-11-23 12:46:57.749991,489,Belo Horizonte,Luiz,Geladeira,Christine Smith,feminino,pix
+2024-11-24 07:18:03.194491,490,Juiz de Fora,Marcelo,Geladeira,Johnny Brimfield,masculino,dinheiro
+2024-11-24 12:31:04.781108,491,Belo Horizonte,Luiz,Guitar Condor,Linda Davis,feminino,cartão de crédito
+2024-11-24 13:54:59.652691,492,São Paulo,Ana Oliveira,Geladeira,Kevin Cates,masculino,pix
+2024-11-24 14:32:04.885165,493,São Paulo,Lucas Pereira,Geladeira,Daniel Arias,masculino,boleto
+2024-11-24 15:04:02.908612,494,Belo Horizonte,Luiz,Iphone,Brandon Herndon,masculino,dinheiro
+2024-11-24 15:26:02.347768,495,Juiz de Fora,Luiza,Smart Band 9 pro,Katrina Delvalle,feminino,boleto
+2024-11-25 05:04:05.620746,496,Juiz de Fora,Luiza,Smart Band 9 pro,Alma Winchel,feminino,boleto
+2024-11-25 05:44:59.217330,497,São Paulo,Lucas Pereira,Geladeira,William Crowe,masculino,pix
+2024-11-25 10:42:57.657597,498,São Brás,Cristina,Guitar Condor,Angel Wisniewski,masculino,pix
+2024-11-25 10:54:05.207971,499,Belo Horizonte,Leticia,Geladeira,Robert Soper,masculino,cartão de crédito
+2024-11-25 13:58:05.650068,500,Belo Horizonte,Leticia,Smart Band 9 pro,Michelle Miller,feminino,boleto
+2024-11-25 15:23:57.542739,501,Belo Horizonte,Luiz,Smart Band 9 pro,Tracey Murphy,feminino,boleto
+2024-11-26 05:28:58.937071,502,São Brás,Cristina,Guitar Condor,Bradley Fanning,masculino,dinheiro
+2024-11-26 05:33:05.062102,503,Juiz de Fora,Marcelo,Guitar Condor,Danny Douglas,masculino,cartão de crédito
+2024-11-26 05:35:02.062840,504,São Paulo,Lucas Pereira,Smart Band 9 pro,Ricardo Matthew,masculino,pix
+2024-11-26 10:21:03.865811,505,São Paulo,Ana Oliveira,Smart Band 9 pro,Cheryl Wenning,feminino,boleto
+2024-11-26 11:20:58.427515,506,Belo Horizonte,Leticia,Guitar Condor,Michael Sheffield,masculino,boleto
+2024-11-26 11:36:05.607051,507,São Brás,Carlos,Guitar Condor,Dora Bush,feminino,pix
+2024-11-27 06:41:04.874511,508,Juiz de Fora,Marcelo,Smart Band 9 pro,Emma Schroer,feminino,dinheiro
+2024-11-27 07:43:58.293985,509,Belo Horizonte,Leticia,Iphone,Rodney Beahm,masculino,pix
+2024-11-27 08:01:04.134923,510,São Paulo,Lucas Pereira,Geladeira,Kimberly Armstrong,feminino,dinheiro
+2024-11-27 08:47:59.817380,511,Belo Horizonte,Luiz,Geladeira,Horace Ellwanger,masculino,pix
+2024-11-27 09:39:03.849016,512,São Brás,Carlos,Smart Band 9 pro,Errol Lacey,masculino,cartão de crédito
+2024-11-27 11:28:59.179880,513,Juiz de Fora,Luiza,Smart Band 9 pro,Damien Karcher,masculino,cartão de crédito
+2024-11-28 07:10:56.722818,514,Belo Horizonte,Luiz,Guitar Condor,Nancy Landon,feminino,pix
+2024-11-28 09:15:03.877790,515,São Brás,Cristina,Smart Band 9 pro,Josie Long,feminino,dinheiro
+2024-11-28 13:08:59.990536,516,Juiz de Fora,Luiza,Geladeira,James Nelson,masculino,pix
+2024-11-28 13:39:03.634385,517,Juiz de Fora,Marcelo,Guitar Condor,Toni Kasper,feminino,cartão de crédito
+2024-11-28 13:54:56.372986,518,Juiz de Fora,Marcelo,Smart Band 9 pro,Maria Guerra,feminino,dinheiro
+2024-11-28 14:50:01.416901,519,São Paulo,Ana Oliveira,Iphone,Jeffrey Johnson,masculino,dinheiro
+2024-11-28 15:42:57.872962,520,Juiz de Fora,Luiza,Smart Band 9 pro,Carol Beane,feminino,cartão de crédito
+2024-11-29 10:54:56.467716,521,Juiz de Fora,Marcelo,Geladeira,Willie Mcfarland,masculino,cartão de crédito
+2024-11-29 12:30:01.619210,522,Juiz de Fora,Marcelo,Geladeira,Ed Spaniel,masculino,pix
+2024-11-29 12:46:59.203146,523,Juiz de Fora,Luiza,Geladeira,Orville Becker,masculino,pix
+2024-11-29 13:21:01.242660,524,Belo Horizonte,Luiz,Smart Band 9 pro,Kathleen Phillips,feminino,pix
+2024-11-29 14:15:02.917342,525,Juiz de Fora,Marcelo,Iphone,Robbie Pleva,masculino,boleto
+2024-11-30 09:16:01.958732,526,São Brás,Cristina,Geladeira,Valery Leeper,feminino,pix
+2024-11-30 10:14:58.910128,527,Belo Horizonte,Leticia,Smart Band 9 pro,Arthur Porter,masculino,boleto
+2024-11-30 12:07:03.472022,528,São Paulo,Lucas Pereira,Geladeira,Silva Spigner,feminino,dinheiro
+2024-11-30 14:13:04.072552,529,Belo Horizonte,Leticia,Geladeira,Bobby Geer,masculino,pix
+2024-11-30 14:15:59.290127,530,Belo Horizonte,Leticia,Iphone,Robert Rivera,masculino,pix
+2024-11-30 14:42:05.657553,531,São Brás,Cristina,Iphone,Lourdes Alcott,feminino,cartão de crédito
+2024-12-02 07:32:59.163931,532,São Paulo,Ana Oliveira,Iphone,Rosalinda Strong,feminino,cartão de crédito
+2024-12-02 08:18:03.664787,533,São Paulo,Lucas Pereira,Iphone,Beverly Stansel,feminino,boleto
+2024-12-02 08:21:05.091080,534,Belo Horizonte,Leticia,Guitar Condor,John Hight,masculino,dinheiro
+2024-12-02 08:45:57.494196,535,São Paulo,Lucas Pereira,Smart Band 9 pro,Lisa Mccray,feminino,dinheiro
+2024-12-02 13:22:59.949026,536,Belo Horizonte,Leticia,Geladeira,Mary Lockhart,feminino,boleto
+2024-12-02 13:51:59.648423,537,São Brás,Carlos,Guitar Condor,Keith Taylor,masculino,boleto
+2024-12-02 14:49:04.354333,538,Juiz de Fora,Luiza,Iphone,Heather Anderson,feminino,pix
+2024-12-02 15:39:56.805111,539,São Paulo,Lucas Pereira,Iphone,Mary Price,feminino,pix
+2024-12-03 06:38:57.742702,540,Juiz de Fora,Luiza,Iphone,Tamika Dorado,feminino,pix
+2024-12-03 09:42:02.120416,541,São Brás,Carlos,Iphone,Silas Wheat,masculino,cartão de crédito
+2024-12-03 10:16:56.644970,542,Juiz de Fora,Marcelo,Iphone,Arron Durgan,masculino,boleto
+2024-12-03 13:24:04.697801,543,São Paulo,Lucas Pereira,Smart Band 9 pro,Jenny Handy,feminino,dinheiro
+2024-12-03 13:35:01.115013,544,Belo Horizonte,Luiz,Guitar Condor,Alan Hastings,masculino,pix
+2024-12-03 14:08:00.160364,545,Belo Horizonte,Luiz,Iphone,Julian Lambert,masculino,pix
+2024-12-04 11:44:59.173222,546,São Brás,Cristina,Geladeira,Rita Damiano,feminino,dinheiro
+2024-12-04 11:49:03.768120,547,São Paulo,Lucas Pereira,Iphone,Ernest Robinson,masculino,pix
+2024-12-04 12:44:02.345194,548,São Brás,Cristina,Geladeira,Justine Shook,feminino,dinheiro
+2024-12-05 06:44:57.303337,549,São Paulo,Lucas Pereira,Guitar Condor,James Crowder,masculino,dinheiro
+2024-12-05 08:08:04.623921,550,São Paulo,Ana Oliveira,Guitar Condor,Carol Guerette,feminino,pix
+2024-12-05 14:30:03.025642,551,São Brás,Cristina,Iphone,Michael Huhn,masculino,boleto
+2024-12-06 05:37:59.215782,552,São Paulo,Lucas Pereira,Smart Band 9 pro,Kenneth Green,masculino,cartão de crédito
+2024-12-06 06:49:57.859989,553,Belo Horizonte,Luiz,Iphone,Otis Taylor,masculino,boleto
+2024-12-06 08:51:04.532425,554,Belo Horizonte,Leticia,Iphone,Karen Daniel,feminino,cartão de crédito
+2024-12-06 09:06:02.169223,555,São Paulo,Lucas Pereira,Geladeira,Julie Xiong,feminino,cartão de crédito
+2024-12-06 10:05:56.642549,556,Belo Horizonte,Luiz,Guitar Condor,Louise Anderson,feminino,cartão de crédito
+2024-12-06 10:34:05.437355,557,São Brás,Cristina,Guitar Condor,Edith Dumond,feminino,cartão de crédito
+2024-12-06 12:16:00.401460,558,Juiz de Fora,Marcelo,Geladeira,Enrique Settles,masculino,boleto
+2024-12-06 15:00:58.590359,559,São Brás,Cristina,Guitar Condor,Minnie Hernandez,feminino,pix
+2024-12-07 04:51:00.185563,560,Juiz de Fora,Marcelo,Iphone,Therese Mitchell,feminino,dinheiro
+2024-12-07 06:19:05.058321,561,Juiz de Fora,Marcelo,Iphone,Russell Barr,masculino,boleto
+2024-12-07 08:57:01.603613,562,São Paulo,Lucas Pereira,Geladeira,Elaine Brown,feminino,boleto
+2024-12-07 09:15:57.900462,563,Belo Horizonte,Luiz,Iphone,Jackie Rowe,feminino,dinheiro
+2024-12-07 11:11:57.839510,564,São Brás,Cristina,Geladeira,Stephen Wetzel,masculino,pix
+2024-12-07 11:18:01.695778,565,Juiz de Fora,Marcelo,Geladeira,Amy Hudley,feminino,dinheiro
+2024-12-07 15:41:57.369522,566,Belo Horizonte,Luiz,Iphone,Martha Zinzow,feminino,cartão de crédito
+2024-12-08 06:19:58.266846,567,Juiz de Fora,Luiza,Iphone,Joann Greene,feminino,pix
+2024-12-08 09:45:57.865899,568,Juiz de Fora,Marcelo,Guitar Condor,Vernon Ollie,masculino,dinheiro
+2024-12-08 11:28:00.863519,569,Belo Horizonte,Luiz,Guitar Condor,Mary Branson,feminino,cartão de crédito
+2024-12-08 11:45:57.955706,570,São Paulo,Ana Oliveira,Geladeira,Iris Hathaway,feminino,boleto
+2024-12-08 11:52:02.621757,571,São Brás,Cristina,Iphone,Darlene Stone,feminino,dinheiro
+2024-12-09 04:52:57.339068,572,Belo Horizonte,Luiz,Iphone,Deborah Griffiths,feminino,cartão de crédito
+2024-12-09 05:29:01.236536,573,São Brás,Cristina,Iphone,Steve Reyna,masculino,cartão de crédito
+2024-12-09 05:34:00.198476,574,Belo Horizonte,Luiz,Iphone,Minnie Eisenberg,feminino,boleto
+2024-12-09 07:28:59.909987,575,Juiz de Fora,Luiza,Iphone,Ella Hosley,feminino,dinheiro
+2024-12-09 07:42:59.662143,576,Juiz de Fora,Marcelo,Smart Band 9 pro,Stacey Pike,feminino,pix
+2024-12-09 08:48:02.938904,577,São Paulo,Ana Oliveira,Smart Band 9 pro,Michael Triana,masculino,pix
+2024-12-09 10:50:04.042278,578,Belo Horizonte,Luiz,Iphone,Floyd Williams,masculino,cartão de crédito
+2024-12-09 14:28:01.291236,579,Juiz de Fora,Luiza,Iphone,Kirk Phillips,masculino,pix
+2024-12-10 05:12:56.864059,580,São Paulo,Lucas Pereira,Iphone,Darline Shields,feminino,pix
+2024-12-10 05:58:02.552577,581,Juiz de Fora,Marcelo,Smart Band 9 pro,Donald Felder,masculino,dinheiro
+2024-12-10 06:21:59.693361,582,Juiz de Fora,Luiza,Geladeira,Doris Owens,feminino,boleto
+2024-12-10 06:53:05.118498,583,São Paulo,Lucas Pereira,Iphone,Antoine Wilks,masculino,boleto
+2024-12-10 09:19:04.721556,584,Belo Horizonte,Leticia,Iphone,Gladys Duncan,feminino,boleto
+2024-12-10 15:21:00.694873,585,Juiz de Fora,Marcelo,Geladeira,Margaret Cramer,feminino,boleto
+2024-12-11 05:36:58.407415,586,Belo Horizonte,Luiz,Smart Band 9 pro,Tiffany Hess,feminino,pix
+2024-12-11 08:13:58.752992,587,São Brás,Carlos,Guitar Condor,Joan Dorsey,feminino,pix
+2024-12-11 10:13:58.720390,588,Juiz de Fora,Luiza,Smart Band 9 pro,Ernest Christensen,masculino,pix
+2024-12-11 10:24:03.488720,589,Belo Horizonte,Luiz,Geladeira,Curtis Hyland,masculino,dinheiro
+2024-12-11 14:54:04.361179,590,São Brás,Cristina,Geladeira,Christopher Carmichael,masculino,dinheiro
+2024-12-12 05:18:58.572079,591,São Paulo,Lucas Pereira,Guitar Condor,Jeffrey Gobel,masculino,boleto
+2024-12-12 06:56:57.350711,592,Juiz de Fora,Marcelo,Geladeira,William Hook,masculino,cartão de crédito
+2024-12-12 07:28:59.170488,593,Juiz de Fora,Marcelo,Geladeira,Dale Hill,masculino,boleto
+2024-12-12 07:44:57.627087,594,São Brás,Carlos,Guitar Condor,Ralph Morales,masculino,cartão de crédito
+2024-12-12 08:25:01.057168,595,São Paulo,Lucas Pereira,Guitar Condor,Jackie Macdougall,feminino,dinheiro
+2024-12-12 09:17:57.633145,596,São Paulo,Lucas Pereira,Guitar Condor,Gilbert Adams,masculino,boleto
+2024-12-12 10:01:58.469287,597,São Brás,Cristina,Guitar Condor,Lisa Anderson,feminino,boleto
+2024-12-12 11:23:05.179690,598,São Brás,Carlos,Iphone,Gerald Neal,masculino,dinheiro
+2024-12-12 14:32:05.202827,599,Juiz de Fora,Luiza,Iphone,Hattie Adams,feminino,boleto
+2024-12-13 06:15:58.769154,600,Belo Horizonte,Leticia,Geladeira,Peggy Lee,feminino,pix
+2024-12-13 08:11:05.122730,601,São Paulo,Ana Oliveira,Geladeira,Daniel Mitchell,masculino,cartão de crédito
+2024-12-13 10:34:56.869139,602,São Paulo,Lucas Pereira,Iphone,Margaret Avalos,feminino,dinheiro
+2024-12-13 13:41:02.847792,603,Juiz de Fora,Luiza,Iphone,Teresa Showe,feminino,dinheiro
+2024-12-13 14:08:56.925378,604,São Paulo,Ana Oliveira,Geladeira,Hattie Feldman,feminino,pix
+2024-12-14 05:23:04.717639,605,São Paulo,Lucas Pereira,Iphone,Toni Browning,feminino,cartão de crédito
+2024-12-14 07:31:56.653293,606,São Paulo,Lucas Pereira,Guitar Condor,Tyrone Gregory,masculino,boleto
+2024-12-14 07:35:01.277492,607,São Brás,Cristina,Smart Band 9 pro,Matthew Paul,masculino,pix
+2024-12-14 11:43:01.253050,608,Belo Horizonte,Leticia,Geladeira,Philip Powell,masculino,cartão de crédito
+2024-12-14 13:44:58.335653,609,São Brás,Carlos,Geladeira,Michael Robinson,masculino,dinheiro
+2024-12-15 04:58:03.414807,610,Juiz de Fora,Luiza,Guitar Condor,Samuel Luce,masculino,cartão de crédito
+2024-12-15 06:03:00.202968,611,São Paulo,Ana Oliveira,Smart Band 9 pro,Katherine Creek,feminino,pix
+2024-12-15 06:33:05.075589,612,Juiz de Fora,Luiza,Guitar Condor,William Young,masculino,pix
+2024-12-15 06:50:00.487762,613,Juiz de Fora,Marcelo,Smart Band 9 pro,William Pedroza,masculino,pix
+2024-12-15 08:33:01.353288,614,São Paulo,Lucas Pereira,Iphone,Flossie Hill,feminino,cartão de crédito
+2024-12-15 09:01:05.450260,615,São Brás,Cristina,Iphone,Anne Humphrey,feminino,pix
+2024-12-15 09:23:04.481783,616,Juiz de Fora,Luiza,Guitar Condor,Dave Smallwood,masculino,dinheiro
+2024-12-15 14:58:57.943242,617,São Paulo,Ana Oliveira,Iphone,Luis Mitchell,masculino,pix
+2024-12-16 05:54:05.094587,618,São Brás,Carlos,Guitar Condor,Raymond Walker,masculino,boleto
+2024-12-16 05:58:03.402661,619,Belo Horizonte,Luiz,Iphone,Thomas Bulle,masculino,pix
+2024-12-16 06:12:05.651792,620,Belo Horizonte,Luiz,Guitar Condor,Arthur Pino,masculino,cartão de crédito
+2024-12-16 06:58:57.629312,621,São Paulo,Lucas Pereira,Geladeira,Arthur Strickland,masculino,cartão de crédito
+2024-12-16 07:18:57.082290,622,Belo Horizonte,Luiz,Guitar Condor,John Page,masculino,pix
+2024-12-16 07:32:03.617261,623,São Paulo,Lucas Pereira,Iphone,Ronald Karas,masculino,cartão de crédito
+2024-12-16 07:46:03.629712,624,Juiz de Fora,Marcelo,Smart Band 9 pro,Leslie Walker,feminino,pix
+2024-12-16 08:36:58.911460,625,Belo Horizonte,Leticia,Geladeira,Scott Perry,masculino,cartão de crédito
+2024-12-16 09:42:04.443336,626,São Paulo,Lucas Pereira,Iphone,Elizabeth Lombardi,feminino,boleto
+2024-12-16 09:56:56.453420,627,Juiz de Fora,Marcelo,Smart Band 9 pro,Madeline Elrod,feminino,dinheiro
+2024-12-16 11:08:03.218967,628,São Paulo,Ana Oliveira,Geladeira,Brian Kazarian,masculino,boleto
+2024-12-16 11:52:03.151208,629,São Brás,Carlos,Guitar Condor,Ruben Golojuch,masculino,pix
+2024-12-16 12:44:01.092228,630,São Paulo,Lucas Pereira,Guitar Condor,Albert Hermans,masculino,cartão de crédito
+2024-12-16 13:03:58.732114,631,São Paulo,Lucas Pereira,Smart Band 9 pro,Robert Abercrombie,masculino,cartão de crédito
+2024-12-16 14:06:01.238093,632,Belo Horizonte,Luiz,Smart Band 9 pro,Angelica Strauss,feminino,boleto
+2024-12-17 04:56:59.101931,633,Belo Horizonte,Luiz,Smart Band 9 pro,Brent Larsen,masculino,cartão de crédito
+2024-12-17 09:41:56.490394,634,São Paulo,Lucas Pereira,Geladeira,Frank Fernandez,masculino,pix
+2024-12-17 11:35:03.527289,635,Juiz de Fora,Luiza,Iphone,Jeremy Shetler,masculino,dinheiro
+2024-12-17 15:38:59.594491,636,São Brás,Cristina,Geladeira,Robert Lukach,masculino,cartão de crédito
+2024-12-18 04:53:58.377182,637,São Brás,Carlos,Iphone,Issac Mccan,masculino,cartão de crédito
+2024-12-18 09:30:00.967186,638,Juiz de Fora,Marcelo,Smart Band 9 pro,Olivia Dellapenna,feminino,cartão de crédito
+2024-12-18 12:50:05.555975,639,Juiz de Fora,Luiza,Geladeira,Ellen Merritt,feminino,cartão de crédito
+2024-12-18 13:56:05.535867,640,Belo Horizonte,Leticia,Geladeira,Curtis Wojciechowski,masculino,pix
+2024-12-19 05:39:01.178010,641,São Paulo,Lucas Pereira,Smart Band 9 pro,Evan Crader,masculino,pix
+2024-12-19 08:58:04.154340,642,São Brás,Cristina,Smart Band 9 pro,Jacinto Hirsch,masculino,pix
+2024-12-19 10:00:57.466224,643,Belo Horizonte,Leticia,Smart Band 9 pro,Charlotte Prendergast,feminino,boleto
+2024-12-19 11:57:03.246805,644,Juiz de Fora,Marcelo,Guitar Condor,Robert David,masculino,cartão de crédito
+2024-12-19 11:58:02.428364,645,São Paulo,Lucas Pereira,Geladeira,Cynthia Fagan,feminino,boleto
+2024-12-19 13:36:03.811875,646,Belo Horizonte,Luiz,Iphone,Valeria Payne,feminino,boleto
+2024-12-20 08:40:02.138998,647,São Brás,Carlos,Guitar Condor,Christina Mayoras,feminino,pix
+2024-12-20 08:48:01.773761,648,Belo Horizonte,Luiz,Geladeira,Teresa Long,feminino,dinheiro
+2024-12-20 09:26:59.384782,649,São Paulo,Lucas Pereira,Iphone,Jerilyn Stainback,feminino,pix
+2024-12-20 10:21:59.381789,650,São Paulo,Lucas Pereira,Iphone,Christopher Marty,masculino,cartão de crédito
+2024-12-20 10:42:05.131844,651,Juiz de Fora,Marcelo,Smart Band 9 pro,Valerie Farrell,feminino,boleto
+2024-12-20 11:28:04.899378,652,Juiz de Fora,Marcelo,Smart Band 9 pro,Jeanne Huett,feminino,cartão de crédito
+2024-12-20 12:12:59.918875,653,São Paulo,Lucas Pereira,Guitar Condor,Sean Moldenhauer,masculino,boleto
+2024-12-20 12:37:02.485087,654,São Paulo,Lucas Pereira,Geladeira,Patricia Oneill,feminino,dinheiro
+2024-12-20 12:41:01.613961,655,Belo Horizonte,Luiz,Guitar Condor,Wanda Licata,feminino,boleto
+2024-12-20 13:21:03.655801,656,São Brás,Carlos,Iphone,David Harris,masculino,boleto
+2024-12-20 13:30:57.602052,657,São Brás,Cristina,Smart Band 9 pro,Lucile Rigdon,feminino,dinheiro
+2024-12-20 14:35:05.362669,658,Juiz de Fora,Luiza,Smart Band 9 pro,Maria Robeson,feminino,cartão de crédito
+2024-12-20 15:24:04.809858,659,São Brás,Cristina,Geladeira,Alma Wright,feminino,boleto
+2024-12-20 15:27:05.114829,660,São Brás,Cristina,Geladeira,Rosa Hargett,feminino,pix
+2024-12-21 06:21:00.215919,661,Belo Horizonte,Luiz,Iphone,Albert Alvarado,masculino,pix
+2024-12-21 07:09:05.148364,662,Juiz de Fora,Marcelo,Geladeira,Michael Casey,masculino,dinheiro
+2024-12-21 07:11:57.118520,663,São Brás,Carlos,Guitar Condor,Douglas Manns,masculino,boleto
+2024-12-21 08:56:03.910150,664,São Paulo,Lucas Pereira,Guitar Condor,Ezequiel Smith,masculino,dinheiro
+2024-12-21 14:06:58.216274,665,Juiz de Fora,Luiza,Guitar Condor,Benjamin Cyrus,masculino,dinheiro
+2024-12-21 15:29:03.023012,666,Juiz de Fora,Marcelo,Iphone,Bobby Greer,masculino,boleto
+2024-12-21 15:30:02.161393,667,Juiz de Fora,Luiza,Smart Band 9 pro,Ruth Marks,feminino,dinheiro
+2024-12-22 06:03:04.620419,668,São Paulo,Lucas Pereira,Iphone,Robert Edwards,masculino,boleto
+2024-12-22 07:11:56.568418,669,Belo Horizonte,Luiz,Smart Band 9 pro,Katie Elhard,feminino,boleto
+2024-12-22 07:19:57.758182,670,Juiz de Fora,Luiza,Smart Band 9 pro,Louis Geoghegan,masculino,cartão de crédito
+2024-12-22 07:22:59.303477,671,São Brás,Carlos,Iphone,Johnetta Smith,feminino,cartão de crédito
+2024-12-22 07:47:03.240974,672,São Brás,Cristina,Iphone,Gerald Phillips,masculino,dinheiro
+2024-12-22 08:46:04.192467,673,São Brás,Cristina,Guitar Condor,Gretchen Minert,feminino,cartão de crédito
+2024-12-22 10:27:00.700122,674,Juiz de Fora,Luiza,Smart Band 9 pro,Catherine Keithly,feminino,cartão de crédito
+2024-12-22 11:42:05.021301,675,São Paulo,Lucas Pereira,Smart Band 9 pro,John Noble,masculino,dinheiro
+2024-12-22 13:35:04.278382,676,Belo Horizonte,Luiz,Guitar Condor,Doug Gibbons,masculino,dinheiro
+2024-12-22 15:06:03.243123,677,São Brás,Carlos,Iphone,Stephanie Moody,feminino,boleto
+2024-12-23 05:39:02.201085,678,São Brás,Carlos,Smart Band 9 pro,Steven Oeltjen,masculino,cartão de crédito
+2024-12-24 08:37:03.052380,679,São Paulo,Ana Oliveira,Iphone,Nancy Lloyd,feminino,dinheiro
+2024-12-24 09:49:03.458419,680,São Paulo,Ana Oliveira,Iphone,Norman Hains,masculino,pix
+2024-12-24 10:23:57.875735,681,Belo Horizonte,Leticia,Geladeira,Paul Marshall,masculino,dinheiro
+2024-12-24 10:32:04.299465,682,Juiz de Fora,Luiza,Smart Band 9 pro,Johnny Mccormick,masculino,boleto
+2024-12-24 15:15:57.437939,683,São Brás,Carlos,Guitar Condor,Kerry Rush,feminino,boleto
+2024-12-25 05:49:59.786943,684,Belo Horizonte,Leticia,Geladeira,Sandra Sowder,feminino,cartão de crédito
+2024-12-25 07:18:59.406168,685,São Brás,Cristina,Guitar Condor,Lillian Knudtson,feminino,pix
+2024-12-25 10:22:02.114255,686,São Paulo,Ana Oliveira,Guitar Condor,Thelma Christian,feminino,dinheiro
+2024-12-25 14:22:03.420964,687,São Paulo,Lucas Pereira,Smart Band 9 pro,John Roberts,masculino,cartão de crédito
+2024-12-26 09:23:03.833006,688,Belo Horizonte,Luiz,Guitar Condor,William Mathis,masculino,pix
+2024-12-26 09:45:03.058063,689,Belo Horizonte,Leticia,Guitar Condor,Walter Turja,masculino,cartão de crédito
+2024-12-26 11:05:01.519881,690,São Brás,Cristina,Geladeira,Jimmy Coe,masculino,pix
+2024-12-26 11:41:02.463505,691,Belo Horizonte,Luiz,Smart Band 9 pro,Margaret Mcclelland,feminino,dinheiro
+2024-12-26 13:50:03.053580,692,Juiz de Fora,Luiza,Iphone,Wendy Leath,feminino,boleto
+2024-12-27 05:19:56.429471,693,São Paulo,Ana Oliveira,Guitar Condor,Betty Birmingham,feminino,pix
+2024-12-27 06:45:04.225216,694,Juiz de Fora,Luiza,Guitar Condor,Laurine Hooten,feminino,pix
+2024-12-27 07:52:03.949390,695,São Paulo,Ana Oliveira,Iphone,Melissa Routh,feminino,pix
+2024-12-27 12:54:56.824702,696,São Paulo,Ana Oliveira,Guitar Condor,Deborah Vasquez,feminino,boleto
+2024-12-27 15:08:05.567363,697,Belo Horizonte,Luiz,Iphone,Kelsie Carey,feminino,cartão de crédito
+2024-12-27 15:16:57.883561,698,São Brás,Carlos,Smart Band 9 pro,Stephanie Green,feminino,dinheiro
+2024-12-27 15:17:59.503961,699,São Paulo,Lucas Pereira,Iphone,Tammy Flores,feminino,cartão de crédito
+2024-12-27 15:21:59.928065,700,São Brás,Cristina,Iphone,Margaret Travis,feminino,boleto
+2024-12-29 05:20:59.157750,701,Juiz de Fora,Luiza,Smart Band 9 pro,Larissa Bazile,feminino,boleto
+2024-12-29 12:23:58.181985,702,Belo Horizonte,Luiz,Guitar Condor,Roy Fegueroa,masculino,boleto
+2024-12-29 14:47:03.892997,703,São Brás,Carlos,Smart Band 9 pro,William Obrien,masculino,cartão de crédito
+2024-12-29 15:26:02.181923,704,São Paulo,Ana Oliveira,Iphone,William Templeton,masculino,boleto
+2024-12-30 05:56:05.464379,705,Juiz de Fora,Luiza,Smart Band 9 pro,Alfreda Paredes,feminino,boleto
+2024-12-30 07:37:56.447457,706,Belo Horizonte,Luiz,Geladeira,Barbara Greco,feminino,boleto
+2024-12-30 09:32:05.146661,707,Juiz de Fora,Luiza,Guitar Condor,Jana Bowman,feminino,boleto
+2024-12-30 09:53:01.985300,708,Belo Horizonte,Leticia,Guitar Condor,Kenneth Toppin,masculino,dinheiro
+2024-12-30 12:02:56.716100,709,São Brás,Carlos,Smart Band 9 pro,Jung Hylton,feminino,dinheiro
+2024-12-31 05:42:59.009834,710,São Brás,Carlos,Guitar Condor,Dolores Torain,feminino,cartão de crédito
+2024-12-31 09:41:01.998303,711,Juiz de Fora,Marcelo,Smart Band 9 pro,Paula Mcintosh,feminino,cartão de crédito
+2024-12-31 10:45:01.996167,712,Belo Horizonte,Luiz,Smart Band 9 pro,Leonard Moore,masculino,pix
+2025-01-01 08:45:58.370343,713,São Brás,Cristina,Geladeira,Mario Reed,masculino,pix
+2025-01-01 10:31:59.332820,714,São Brás,Carlos,Geladeira,Elizabeth Lear,feminino,dinheiro
+2025-01-01 10:34:58.622889,715,São Paulo,Lucas Pereira,Geladeira,Zachary Baer,masculino,dinheiro
+2025-01-01 12:45:05.642730,716,Juiz de Fora,Luiza,Geladeira,Nestor Pool,masculino,dinheiro
+2025-01-01 15:29:05.007955,717,Belo Horizonte,Luiz,Geladeira,Ivy Brumley,feminino,pix
+2025-01-02 05:18:04.716284,718,Belo Horizonte,Luiz,Geladeira,Lauren Lambert,feminino,boleto
+2025-01-02 12:06:00.010227,719,São Paulo,Ana Oliveira,Smart Band 9 pro,John Howard,masculino,pix
+2025-01-02 13:00:58.593056,720,São Paulo,Lucas Pereira,Geladeira,Jennifer Anderson,feminino,pix
+2025-01-03 04:46:03.094243,721,Belo Horizonte,Leticia,Smart Band 9 pro,Michael Li,masculino,cartão de crédito
+2025-01-03 05:04:04.300853,722,São Brás,Carlos,Guitar Condor,Philip Williams,masculino,pix
+2025-01-03 06:43:56.756540,723,Juiz de Fora,Marcelo,Geladeira,Joseph Dahnke,masculino,dinheiro
+2025-01-03 07:35:59.955978,724,São Paulo,Ana Oliveira,Guitar Condor,Maude Mccrae,feminino,boleto
+2025-01-03 14:49:59.394806,725,São Brás,Cristina,Iphone,Rebecca Disney,feminino,pix
+2025-01-03 14:56:01.925499,726,Juiz de Fora,Marcelo,Iphone,Sharonda Osdoba,feminino,pix
+2025-01-03 15:01:02.304853,727,Belo Horizonte,Luiz,Geladeira,Jacqueline Gregory,feminino,boleto
+2025-01-03 15:23:59.450253,728,Belo Horizonte,Leticia,Iphone,Diane Reed,feminino,cartão de crédito
+2025-01-04 07:19:04.537144,729,São Brás,Carlos,Smart Band 9 pro,Philip Flink,masculino,cartão de crédito
+2025-01-04 14:40:03.175783,730,Belo Horizonte,Luiz,Geladeira,Paul Munoz,masculino,boleto
+2025-01-04 14:54:04.545934,731,São Brás,Carlos,Smart Band 9 pro,Heidi Palmer,feminino,dinheiro
+2025-01-04 15:19:04.708105,732,São Paulo,Ana Oliveira,Guitar Condor,Angelia Roberts,feminino,boleto
+2025-01-05 07:55:05.527275,733,Juiz de Fora,Marcelo,Smart Band 9 pro,David Groover,masculino,cartão de crédito
+2025-01-05 08:28:56.870873,734,São Paulo,Lucas Pereira,Smart Band 9 pro,John Whitford,masculino,pix
+2025-01-05 09:37:58.799239,735,Belo Horizonte,Leticia,Smart Band 9 pro,Karen Webley,feminino,boleto
+2025-01-05 14:40:59.605614,736,São Paulo,Ana Oliveira,Smart Band 9 pro,James Peebles,masculino,dinheiro
+2025-01-06 10:11:58.124958,737,São Paulo,Ana Oliveira,Geladeira,Aimee Inglis,feminino,pix
+2025-01-06 11:32:05.211294,738,Belo Horizonte,Leticia,Geladeira,Susann Beattie,feminino,pix
+2025-01-06 15:32:05.357932,739,Juiz de Fora,Marcelo,Smart Band 9 pro,Alvin Villarreal,masculino,pix
+2025-01-07 06:52:00.810775,740,São Brás,Cristina,Iphone,Roland Wood,masculino,pix
+2025-01-07 10:29:00.420901,741,São Paulo,Ana Oliveira,Geladeira,Annie Dean,feminino,pix
+2025-01-07 12:03:03.291514,742,São Brás,Cristina,Guitar Condor,Daria Baker,feminino,cartão de crédito
+2025-01-07 12:55:01.671732,743,Juiz de Fora,Luiza,Smart Band 9 pro,Ronald Lasley,masculino,boleto
+2025-01-07 15:13:05.551031,744,Belo Horizonte,Leticia,Geladeira,Randy Zuckerman,masculino,dinheiro
+2025-01-08 05:13:04.355305,745,São Brás,Carlos,Geladeira,Cathy Collis,feminino,cartão de crédito
+2025-01-08 09:54:58.780682,746,São Paulo,Ana Oliveira,Smart Band 9 pro,Doris Obermiller,feminino,cartão de crédito
+2025-01-08 14:56:57.266109,747,Juiz de Fora,Luiza,Guitar Condor,Billy Petit,masculino,boleto
+2025-01-08 15:34:57.010726,748,Juiz de Fora,Luiza,Iphone,Lee Kuykendall,feminino,boleto
+2025-01-09 08:14:02.579872,749,São Brás,Carlos,Geladeira,Fernando Bennett,masculino,cartão de crédito
+2025-01-09 08:57:01.294250,750,Belo Horizonte,Leticia,Geladeira,Shirley Wiltberger,feminino,dinheiro
+2025-01-09 09:37:57.041255,751,Belo Horizonte,Luiz,Geladeira,Brenna Anderson,feminino,cartão de crédito
+2025-01-09 10:25:57.848428,752,Belo Horizonte,Leticia,Iphone,Clarence Eyre,masculino,boleto
+2025-01-09 10:44:56.803863,753,Belo Horizonte,Leticia,Smart Band 9 pro,James Mcdaniel,masculino,cartão de crédito
+2025-01-09 11:05:00.297565,754,São Paulo,Lucas Pereira,Iphone,Walter Porter,masculino,boleto
+2025-01-10 05:03:58.103558,755,Juiz de Fora,Marcelo,Iphone,Teresa Roland,feminino,dinheiro
+2025-01-10 05:10:57.491961,756,São Brás,Carlos,Geladeira,Iola Caldwell,feminino,cartão de crédito
+2025-01-10 06:03:59.802044,757,São Brás,Cristina,Iphone,Brandon Walker,masculino,boleto
+2025-01-10 08:43:57.959040,758,Juiz de Fora,Luiza,Geladeira,Evelyn Drutman,feminino,boleto
+2025-01-10 10:38:57.334153,759,Juiz de Fora,Luiza,Iphone,Kathy Stewart,feminino,cartão de crédito
+2025-01-10 13:15:03.148969,760,Belo Horizonte,Luiz,Smart Band 9 pro,Michael Roberts,masculino,pix
+2025-01-10 14:52:01.676743,761,São Brás,Cristina,Geladeira,Blake Wright,masculino,pix
+2025-01-11 05:25:01.085198,762,Belo Horizonte,Luiz,Geladeira,Carolyn Gum,feminino,pix
+2025-01-11 06:21:58.969415,763,São Brás,Carlos,Smart Band 9 pro,Ethel Spinney,feminino,dinheiro
+2025-01-11 06:56:05.266310,764,São Brás,Carlos,Smart Band 9 pro,Jeremy Gismondi,masculino,cartão de crédito
+2025-01-11 13:57:59.186364,765,Juiz de Fora,Marcelo,Guitar Condor,Lazaro Kearney,masculino,dinheiro
+2025-01-11 15:40:02.984861,766,Juiz de Fora,Marcelo,Guitar Condor,Richard Rogers,masculino,boleto
+2025-01-12 04:51:05.245029,767,Belo Horizonte,Leticia,Guitar Condor,Sang Obrien,masculino,pix
+2025-01-12 09:54:59.873160,768,Juiz de Fora,Marcelo,Geladeira,Brian Huntley,masculino,cartão de crédito
+2025-01-12 13:12:05.455160,769,Belo Horizonte,Leticia,Iphone,Patty Taylor,feminino,dinheiro
+2025-01-13 10:14:04.548424,770,São Brás,Cristina,Geladeira,Gladys Mark,feminino,boleto
+2025-01-13 11:30:02.318253,771,São Paulo,Lucas Pereira,Smart Band 9 pro,Stephen Sanos,masculino,dinheiro
+2025-01-13 13:10:59.549756,772,São Brás,Carlos,Guitar Condor,Deedra Rush,feminino,dinheiro
+2025-01-13 13:20:05.223081,773,Belo Horizonte,Luiz,Geladeira,Jerry Peery,masculino,pix
+2025-01-13 14:46:57.115350,774,São Brás,Carlos,Iphone,Betty Myers,feminino,dinheiro
+2025-01-14 05:25:59.569501,775,São Brás,Carlos,Smart Band 9 pro,Gene Diaz,masculino,dinheiro
+2025-01-14 05:57:01.856539,776,São Paulo,Ana Oliveira,Geladeira,Sylvia Colicchio,feminino,cartão de crédito
+2025-01-14 09:03:00.407961,777,Belo Horizonte,Leticia,Iphone,Ramona Rangel,feminino,boleto
+2025-01-14 09:42:00.317254,778,Belo Horizonte,Leticia,Iphone,Robert Holman,masculino,dinheiro
+2025-01-14 11:09:04.632759,779,São Brás,Carlos,Geladeira,Nancy Heilman,feminino,cartão de crédito
+2025-01-14 11:59:02.187415,780,São Paulo,Lucas Pereira,Smart Band 9 pro,Helen Smith,feminino,cartão de crédito
+2025-01-14 13:57:05.684565,781,Juiz de Fora,Luiza,Iphone,Carl Amen,masculino,dinheiro
+2025-01-15 07:20:57.445870,782,São Paulo,Ana Oliveira,Geladeira,Billy Ragsdale,masculino,cartão de crédito
+2025-01-15 09:04:01.606346,783,São Paulo,Lucas Pereira,Guitar Condor,Sandra Rorie,feminino,cartão de crédito
+2025-01-15 10:45:00.958577,784,Juiz de Fora,Marcelo,Geladeira,Maryann Williams,feminino,pix
+2025-01-15 11:58:58.416435,785,São Paulo,Ana Oliveira,Geladeira,Lillian Borden,feminino,dinheiro
+2025-01-15 12:16:56.587336,786,São Brás,Carlos,Guitar Condor,Dennis Nixon,masculino,pix
+2025-01-15 12:52:00.740338,787,Belo Horizonte,Luiz,Guitar Condor,Bernice Jordan,feminino,pix
+2025-01-15 14:21:04.638707,788,São Paulo,Lucas Pereira,Smart Band 9 pro,Julius Chandler,masculino,pix
+2025-01-16 04:53:59.414328,789,São Brás,Cristina,Guitar Condor,Damon Madden,masculino,cartão de crédito
+2025-01-16 06:45:04.298305,790,Belo Horizonte,Luiz,Guitar Condor,Marie Davis,feminino,cartão de crédito
+2025-01-16 08:18:57.216308,791,São Paulo,Lucas Pereira,Smart Band 9 pro,Donita Heenan,feminino,dinheiro
+2025-01-16 08:36:58.880118,792,Juiz de Fora,Marcelo,Iphone,Moises Card,masculino,boleto
+2025-01-16 10:33:59.275422,793,Belo Horizonte,Luiz,Geladeira,Molly Harris,feminino,boleto
+2025-01-16 12:37:05.696873,794,Belo Horizonte,Leticia,Iphone,Scott Dalton,masculino,cartão de crédito
+2025-01-16 15:25:00.637832,795,Juiz de Fora,Marcelo,Geladeira,Kara Harris,feminino,boleto
+2025-01-17 08:01:01.669752,796,Belo Horizonte,Luiz,Iphone,Joann Simmons,feminino,pix
+2025-01-17 13:21:56.473462,797,Juiz de Fora,Marcelo,Smart Band 9 pro,Maria Clark,feminino,cartão de crédito
+2025-01-17 14:19:02.137685,798,São Paulo,Lucas Pereira,Geladeira,Joan Mason,feminino,boleto
+2025-01-17 14:46:59.994625,799,Belo Horizonte,Leticia,Geladeira,Sharon Hearn,feminino,pix
+2025-01-17 15:22:05.853727,800,São Brás,Cristina,Geladeira,Donna Smith,feminino,pix
+2025-01-18 06:22:05.023220,801,São Brás,Cristina,Guitar Condor,Taylor Sharpe,masculino,boleto
+2025-01-18 12:08:56.876290,802,Belo Horizonte,Luiz,Geladeira,Nicholas Mccloughan,masculino,dinheiro
+2025-01-19 05:36:02.311330,803,Juiz de Fora,Luiza,Guitar Condor,Frederick Soto,masculino,cartão de crédito
+2025-01-19 05:45:00.221837,804,São Brás,Carlos,Geladeira,Willis Jaramillo,masculino,pix
+2025-01-19 06:27:03.324242,805,Juiz de Fora,Luiza,Iphone,Melvin Musigdilok,masculino,cartão de crédito
+2025-01-19 07:17:58.616014,806,Juiz de Fora,Marcelo,Smart Band 9 pro,Flora Schroder,feminino,boleto
+2025-01-19 08:18:59.264791,807,São Paulo,Ana Oliveira,Guitar Condor,Sally Parramore,feminino,pix
+2025-01-19 08:23:03.596063,808,São Paulo,Ana Oliveira,Iphone,David Willis,masculino,boleto
+2025-01-19 13:31:05.693016,809,São Paulo,Lucas Pereira,Guitar Condor,Carolyn Gregory,feminino,dinheiro
+2025-01-19 14:33:04.808269,810,São Brás,Cristina,Guitar Condor,Jimmy Hodge,masculino,cartão de crédito
+2025-01-19 15:02:59.685636,811,Belo Horizonte,Leticia,Guitar Condor,Pablo Ott,masculino,dinheiro
+2025-01-20 04:46:00.278573,812,Juiz de Fora,Marcelo,Smart Band 9 pro,Charles Zeger,masculino,pix
+2025-01-20 04:52:56.422085,813,Belo Horizonte,Luiz,Geladeira,Lucille Denson,feminino,pix
+2025-01-20 05:58:03.813605,814,São Brás,Carlos,Smart Band 9 pro,John Kimball,masculino,pix
+2025-01-20 06:55:57.171101,815,Belo Horizonte,Leticia,Guitar Condor,Lee Momphard,masculino,pix
+2025-01-20 10:28:01.418512,816,São Brás,Carlos,Iphone,Jerry Reifsnyder,masculino,dinheiro
+2025-01-20 10:40:05.251542,817,São Paulo,Lucas Pereira,Geladeira,Michael Molina,masculino,cartão de crédito
+2025-01-20 11:02:58.392492,818,Juiz de Fora,Luiza,Geladeira,Steve Smith,masculino,boleto
+2025-01-20 12:22:59.890498,819,São Brás,Carlos,Guitar Condor,Anthony Hughes,masculino,boleto
+2025-01-20 15:01:58.133937,820,São Brás,Cristina,Geladeira,Seth Bryant,masculino,dinheiro
+2025-01-20 15:03:03.079839,821,Belo Horizonte,Luiz,Smart Band 9 pro,Erin Dixon,feminino,boleto
+2025-01-20 15:04:02.793021,822,Juiz de Fora,Luiza,Guitar Condor,Stephen Neal,masculino,cartão de crédito
+2025-01-21 06:36:58.986218,823,Belo Horizonte,Luiz,Smart Band 9 pro,Erasmo Marshall,masculino,dinheiro
+2025-01-21 07:00:04.302102,824,São Brás,Cristina,Geladeira,Leona Stuart,feminino,boleto
+2025-01-21 08:12:56.349308,825,Juiz de Fora,Marcelo,Guitar Condor,Paul Negrete,masculino,pix
+2025-01-21 08:13:00.533940,826,São Paulo,Ana Oliveira,Smart Band 9 pro,Todd Norton,masculino,cartão de crédito
+2025-01-21 10:59:57.898066,827,São Brás,Carlos,Guitar Condor,Janet Greenwood,feminino,boleto
+2025-01-21 13:18:56.611100,828,São Paulo,Ana Oliveira,Geladeira,Frank Vazquez,masculino,pix
+2025-01-21 14:34:04.704192,829,Belo Horizonte,Luiz,Guitar Condor,Steve Howard,masculino,dinheiro
+2025-01-22 08:31:58.516439,830,São Paulo,Ana Oliveira,Iphone,Donna Rodriguez,feminino,dinheiro
+2025-01-22 09:08:02.361415,831,São Brás,Carlos,Iphone,Hailey Neely,feminino,boleto
+2025-01-22 09:17:02.186446,832,São Brás,Carlos,Guitar Condor,Linda Scott,feminino,cartão de crédito
+2025-01-22 09:21:58.722503,833,São Paulo,Ana Oliveira,Smart Band 9 pro,John Norman,masculino,dinheiro
+2025-01-22 09:29:56.513794,834,Juiz de Fora,Luiza,Geladeira,Leticia Thibadeau,feminino,cartão de crédito
+2025-01-22 14:05:01.244102,835,Juiz de Fora,Marcelo,Iphone,Gilbert Northrup,masculino,cartão de crédito
+2025-01-23 06:18:59.145100,836,São Paulo,Ana Oliveira,Smart Band 9 pro,Cory Anderson,masculino,boleto
+2025-01-23 10:54:03.605628,837,São Paulo,Ana Oliveira,Iphone,Alice Mills,feminino,pix
+2025-01-23 11:35:04.248160,838,São Brás,Cristina,Geladeira,Marcus Bivins,masculino,boleto
+2025-01-23 12:42:59.736775,839,Belo Horizonte,Leticia,Iphone,James Cabrera,masculino,boleto
+2025-01-23 14:15:03.177635,840,São Paulo,Ana Oliveira,Iphone,Roman Lyman,masculino,pix
+2025-01-24 10:35:57.460143,841,Juiz de Fora,Luiza,Iphone,Daniel Alaniz,masculino,boleto
+2025-01-24 12:00:02.035597,842,Belo Horizonte,Leticia,Guitar Condor,Allison Blazejewski,feminino,pix
+2025-01-25 11:32:01.955576,843,Juiz de Fora,Marcelo,Iphone,Linda Short,feminino,boleto
+2025-01-25 13:51:59.587296,844,Juiz de Fora,Marcelo,Guitar Condor,Barbara Giles,feminino,pix
+2025-01-25 15:28:58.253399,845,Juiz de Fora,Luiza,Smart Band 9 pro,Johnny Vent,masculino,cartão de crédito
+2025-01-26 07:58:00.559843,846,Juiz de Fora,Marcelo,Iphone,David Khalil,masculino,pix
+2025-01-26 11:27:58.395139,847,Juiz de Fora,Luiza,Geladeira,Edith Furrow,feminino,pix
+2025-01-26 11:38:04.092351,848,Belo Horizonte,Luiz,Geladeira,Sylvia Cooper,feminino,pix
+2025-01-26 11:42:04.894078,849,São Paulo,Lucas Pereira,Iphone,Camilla Anderson,feminino,pix
+2025-01-26 12:36:58.902073,850,Belo Horizonte,Leticia,Iphone,Mary Mccombs,feminino,boleto
+2025-01-26 13:23:03.898897,851,São Paulo,Ana Oliveira,Geladeira,John Mitchell,masculino,pix
+2025-01-26 13:37:58.101554,852,Belo Horizonte,Leticia,Smart Band 9 pro,Veronica Vogel,feminino,cartão de crédito
+2025-01-26 13:59:57.884711,853,Belo Horizonte,Luiz,Guitar Condor,Eva Mooreland,feminino,boleto
+2025-01-27 06:58:00.011621,854,Belo Horizonte,Leticia,Iphone,Julius Dafonte,masculino,cartão de crédito
+2025-01-27 08:32:05.316603,855,Juiz de Fora,Marcelo,Smart Band 9 pro,Carolyn Vargas,feminino,boleto
+2025-01-27 08:33:57.631261,856,São Brás,Carlos,Iphone,Jon Blackwell,masculino,boleto
+2025-01-27 08:43:57.479610,857,São Brás,Carlos,Iphone,George Baker,masculino,pix
+2025-01-27 09:57:01.055795,858,Juiz de Fora,Luiza,Geladeira,Pablo Morris,masculino,pix
+2025-01-27 12:19:02.604493,859,São Brás,Carlos,Iphone,Robert Marrs,masculino,pix
+2025-01-27 12:42:02.190291,860,Belo Horizonte,Luiz,Smart Band 9 pro,Jack Hotaling,masculino,boleto
+2025-01-27 12:43:00.867209,861,São Paulo,Lucas Pereira,Smart Band 9 pro,Frances Halter,feminino,pix
+2025-01-27 12:52:58.913046,862,Juiz de Fora,Luiza,Geladeira,Doris Simon,feminino,pix
+2025-01-27 13:37:02.104712,863,São Paulo,Lucas Pereira,Smart Band 9 pro,Cynthia Patel,feminino,dinheiro
+2025-01-28 07:18:57.147454,864,Belo Horizonte,Luiz,Geladeira,Jessica Duncan,feminino,boleto
+2025-01-28 07:38:03.606652,865,São Paulo,Lucas Pereira,Smart Band 9 pro,Sandra Pulver,feminino,pix
+2025-01-28 10:29:02.430511,866,São Paulo,Lucas Pereira,Smart Band 9 pro,Mary League,feminino,dinheiro
+2025-01-28 12:09:58.464463,867,São Brás,Cristina,Geladeira,Ashlee Wade,feminino,dinheiro
+2025-01-28 12:17:58.568623,868,Belo Horizonte,Luiz,Smart Band 9 pro,Lino Pittman,masculino,pix
+2025-01-28 13:05:02.156360,869,Belo Horizonte,Leticia,Guitar Condor,Wesley Smith,masculino,pix
+2025-01-28 13:59:05.074286,870,Juiz de Fora,Luiza,Guitar Condor,Donna Hunt,feminino,dinheiro
+2025-01-29 05:44:02.013274,871,Belo Horizonte,Luiz,Geladeira,Donna Jones,feminino,boleto
+2025-01-29 07:18:58.677176,872,Belo Horizonte,Luiz,Guitar Condor,Earl Mcfadden,masculino,pix
+2025-01-29 08:02:02.465873,873,São Brás,Cristina,Iphone,Michael Mahan,masculino,boleto
+2025-01-29 08:17:59.248838,874,São Paulo,Ana Oliveira,Iphone,Kenneth Brown,masculino,boleto
+2025-01-29 08:29:00.109149,875,Juiz de Fora,Marcelo,Iphone,Floyd Kelly,masculino,cartão de crédito
+2025-01-29 11:47:01.889781,876,São Brás,Carlos,Smart Band 9 pro,Katharine Schulle,feminino,boleto
+2025-01-29 12:11:56.655608,877,São Paulo,Lucas Pereira,Guitar Condor,Michael Hunter,masculino,dinheiro
+2025-01-29 13:49:57.023747,878,Juiz de Fora,Marcelo,Geladeira,Joseph Baker,masculino,dinheiro
+2025-01-30 07:24:02.449695,879,Belo Horizonte,Luiz,Geladeira,James Kim,masculino,dinheiro
+2025-01-30 08:41:04.886698,880,Juiz de Fora,Luiza,Iphone,Georgiana Smyth,feminino,dinheiro
+2025-01-30 10:53:57.607938,881,Juiz de Fora,Luiza,Geladeira,Michael Summey,masculino,pix
+2025-01-30 12:14:58.627158,882,São Paulo,Ana Oliveira,Guitar Condor,Mikel Balas,masculino,cartão de crédito
+2025-01-30 12:42:59.963735,883,Belo Horizonte,Leticia,Geladeira,Joan Carson,feminino,pix
+2025-01-30 14:28:57.805355,884,Belo Horizonte,Luiz,Geladeira,James Plant,masculino,dinheiro
+2025-01-30 14:35:01.240808,885,São Brás,Cristina,Iphone,Chuck Matthews,masculino,cartão de crédito
+2025-01-31 07:18:59.337877,886,São Paulo,Ana Oliveira,Iphone,Malcolm Howard,masculino,dinheiro
+2025-01-31 08:04:59.803124,887,São Brás,Cristina,Iphone,Beulah Tribble,feminino,dinheiro
+2025-01-31 08:39:56.866572,888,Belo Horizonte,Luiz,Guitar Condor,Andrea Wild,feminino,dinheiro
+2025-01-31 09:31:02.129786,889,Belo Horizonte,Leticia,Geladeira,Michael Fischer,masculino,dinheiro
+2025-01-31 11:23:59.690454,890,Belo Horizonte,Leticia,Guitar Condor,Marcus Riddle,masculino,boleto
+2025-01-31 12:58:04.030194,891,São Paulo,Ana Oliveira,Iphone,Donald Glass,masculino,boleto
+2025-01-31 14:22:04.343857,892,São Paulo,Ana Oliveira,Iphone,Lena Mercurio,feminino,cartão de crédito
+2025-02-01 05:44:57.570886,893,Belo Horizonte,Luiz,Smart Band 9 pro,Frank Batten,masculino,pix
+2025-02-01 06:14:02.764953,894,São Brás,Cristina,Geladeira,Maxine Magnanti,feminino,boleto
+2025-02-01 06:23:03.717390,895,São Paulo,Ana Oliveira,Guitar Condor,Sam Campana,masculino,pix
+2025-02-01 07:34:00.207945,896,Juiz de Fora,Marcelo,Geladeira,Christine Day,feminino,dinheiro
+2025-02-01 09:01:56.559596,897,Belo Horizonte,Luiz,Smart Band 9 pro,Chris Lynch,masculino,boleto
+2025-02-01 10:23:01.251079,898,São Brás,Carlos,Iphone,Lisa Beaver,feminino,dinheiro
+2025-02-01 14:30:01.776847,899,São Paulo,Ana Oliveira,Iphone,Ruth Lehman,feminino,dinheiro
+2025-02-02 06:13:57.442354,900,Juiz de Fora,Luiza,Geladeira,Diane Watson,feminino,cartão de crédito
+2025-02-02 08:38:00.106282,901,São Paulo,Lucas Pereira,Geladeira,Jannie Stewart,feminino,cartão de crédito
+2025-02-02 10:31:01.772617,902,Juiz de Fora,Luiza,Guitar Condor,Amber Cook,feminino,dinheiro
+2025-02-02 12:21:02.426667,903,São Brás,Carlos,Geladeira,Kermit Bennett,masculino,dinheiro
+2025-02-02 15:23:57.733285,904,Belo Horizonte,Leticia,Geladeira,Jess Cardenas,masculino,pix
+2025-02-03 05:22:57.710296,905,Juiz de Fora,Luiza,Guitar Condor,James Padilla,masculino,cartão de crédito
+2025-02-03 08:48:57.439893,906,São Brás,Cristina,Geladeira,Arthur Chalmers,masculino,pix
+2025-02-03 10:50:58.864788,907,São Paulo,Ana Oliveira,Iphone,Norma Allen,feminino,pix
+2025-02-03 11:16:57.569797,908,São Paulo,Lucas Pereira,Smart Band 9 pro,Dennis Mason,masculino,cartão de crédito
+2025-02-03 15:27:00.803546,909,São Paulo,Lucas Pereira,Guitar Condor,Efrain Smith,masculino,boleto
+2025-02-04 05:25:59.552174,910,São Paulo,Ana Oliveira,Smart Band 9 pro,Lizzie Nolder,feminino,pix
+2025-02-04 09:41:05.700790,911,São Brás,Cristina,Guitar Condor,Guillermo Degenfelder,masculino,boleto
+2025-02-04 11:09:01.963072,912,Juiz de Fora,Marcelo,Guitar Condor,Brandon Schulz,masculino,boleto
+2025-02-04 12:40:00.691714,913,São Paulo,Lucas Pereira,Iphone,Randy Walden,masculino,boleto
+2025-02-04 12:45:05.076744,914,Belo Horizonte,Luiz,Iphone,Todd Farwell,masculino,boleto
+2025-02-04 14:48:04.547218,915,Juiz de Fora,Luiza,Geladeira,Rebecca Payne,feminino,dinheiro
+2025-02-04 15:15:56.738594,916,São Brás,Carlos,Smart Band 9 pro,Alexis Hazzard,masculino,cartão de crédito
+2025-02-05 05:26:02.453490,917,Belo Horizonte,Leticia,Smart Band 9 pro,Brianna Scott,feminino,dinheiro
+2025-02-05 07:06:04.044037,918,São Brás,Carlos,Smart Band 9 pro,Susan West,feminino,cartão de crédito
+2025-02-05 07:41:57.712056,919,São Brás,Carlos,Guitar Condor,Earl Kellstrom,masculino,boleto
+2025-02-05 07:53:01.339497,920,Juiz de Fora,Luiza,Guitar Condor,Jennifer Gerken,feminino,pix
+2025-02-05 07:54:58.943072,921,Juiz de Fora,Luiza,Iphone,Lisa Rosales,feminino,cartão de crédito
+2025-02-05 11:44:56.451315,922,São Brás,Carlos,Guitar Condor,Matthew Hale,masculino,dinheiro
+2025-02-06 05:25:58.323441,923,São Brás,Carlos,Smart Band 9 pro,Milton Morrell,masculino,boleto
+2025-02-06 05:37:56.455596,924,Juiz de Fora,Marcelo,Geladeira,Theodore Sheridan,masculino,boleto
+2025-02-06 05:45:04.429383,925,São Brás,Carlos,Iphone,Sheryl Mendez,feminino,pix
+2025-02-06 07:30:05.509044,926,Juiz de Fora,Marcelo,Smart Band 9 pro,Angel Zecca,masculino,boleto
+2025-02-06 09:31:59.138407,927,São Paulo,Lucas Pereira,Iphone,Mark Gamble,masculino,dinheiro
+2025-02-06 09:44:58.754169,928,Juiz de Fora,Luiza,Guitar Condor,Roger Williamson,masculino,boleto
+2025-02-06 14:10:59.660052,929,Juiz de Fora,Marcelo,Smart Band 9 pro,Theresa Pratt,feminino,dinheiro
+2025-02-07 08:07:00.690041,930,Juiz de Fora,Marcelo,Smart Band 9 pro,Juan Crawford,masculino,pix
+2025-02-07 08:41:00.426114,931,Belo Horizonte,Leticia,Iphone,Marlene Reidinger,feminino,pix
+2025-02-07 09:26:03.130697,932,São Brás,Cristina,Geladeira,Leona Piehler,feminino,dinheiro
+2025-02-07 10:37:01.123864,933,São Paulo,Lucas Pereira,Geladeira,Esmeralda Webber,feminino,dinheiro
+2025-02-07 14:45:57.854979,934,Juiz de Fora,Marcelo,Geladeira,Lesia Tarver,feminino,dinheiro
+2025-02-07 15:23:57.522638,935,Juiz de Fora,Marcelo,Geladeira,Shanika Brazee,feminino,pix
+2025-02-08 06:22:57.559900,936,São Brás,Cristina,Geladeira,Ronald Estrada,masculino,boleto
+2025-02-08 08:13:59.153658,937,São Brás,Carlos,Iphone,Susan Gambill,feminino,cartão de crédito
+2025-02-08 09:13:02.217379,938,São Paulo,Ana Oliveira,Smart Band 9 pro,Germaine Luvene,feminino,cartão de crédito
+2025-02-08 10:23:02.806659,939,São Brás,Cristina,Iphone,Raymond Hughes,masculino,pix
+2025-02-08 12:26:59.939157,940,Belo Horizonte,Luiz,Iphone,Roger Scott,masculino,dinheiro
+2025-02-09 10:25:59.517453,941,Belo Horizonte,Leticia,Guitar Condor,Ralph Foley,masculino,boleto
+2025-02-09 14:05:59.735268,942,Juiz de Fora,Luiza,Geladeira,Don David,masculino,dinheiro
+2025-02-09 14:29:04.605034,943,Juiz de Fora,Marcelo,Geladeira,Benjamin Flor,masculino,dinheiro
+2025-02-10 05:00:03.121612,944,São Brás,Cristina,Iphone,Harriet Walker,feminino,boleto
+2025-02-10 05:41:02.014302,945,São Paulo,Lucas Pereira,Guitar Condor,Kelly Smith,feminino,dinheiro
+2025-02-10 07:09:58.791849,946,São Paulo,Ana Oliveira,Geladeira,Catherine White,feminino,boleto
+2025-02-10 09:38:58.751853,947,São Paulo,Ana Oliveira,Guitar Condor,Lillian Smith,feminino,pix
+2025-02-10 10:58:56.336735,948,São Brás,Carlos,Iphone,James Walkup,masculino,cartão de crédito
+2025-02-10 12:04:05.292953,949,Belo Horizonte,Leticia,Geladeira,Harry Ferretti,masculino,cartão de crédito
+2025-02-10 15:08:02.292800,950,Juiz de Fora,Marcelo,Geladeira,Sarah Broussard,feminino,dinheiro
+2025-02-11 06:35:01.032558,951,São Brás,Cristina,Guitar Condor,Nancy Fiscalini,feminino,boleto
+2025-02-11 11:50:00.173981,952,São Paulo,Ana Oliveira,Geladeira,Francis Raney,masculino,pix
+2025-02-11 12:51:03.999963,953,Belo Horizonte,Luiz,Smart Band 9 pro,Cheryl Delcour,feminino,pix
+2025-02-12 06:06:56.923458,954,Belo Horizonte,Leticia,Geladeira,Michael Malloy,masculino,dinheiro
+2025-02-12 08:35:58.738616,955,São Brás,Cristina,Iphone,Hazel Hunter,feminino,pix
+2025-02-12 09:57:56.727097,956,Juiz de Fora,Luiza,Guitar Condor,Christopher Medas,masculino,pix
+2025-02-12 10:26:00.392004,957,São Brás,Cristina,Iphone,Jane Ward,feminino,cartão de crédito
+2025-02-12 11:59:00.423095,958,Belo Horizonte,Leticia,Iphone,Maude Holmes,feminino,cartão de crédito
+2025-02-12 13:28:59.094313,959,Juiz de Fora,Marcelo,Iphone,Christopher Oatman,masculino,cartão de crédito
+2025-02-12 14:06:01.444039,960,São Brás,Cristina,Smart Band 9 pro,Cynthia Tucker,feminino,cartão de crédito
+2025-02-13 07:04:03.248261,961,São Paulo,Ana Oliveira,Guitar Condor,Walter Kuster,masculino,pix
+2025-02-13 10:54:05.140231,962,São Brás,Carlos,Iphone,Craig Desilva,masculino,cartão de crédito
+2025-02-13 11:28:57.021258,963,São Paulo,Lucas Pereira,Smart Band 9 pro,James Ward,masculino,boleto
+2025-02-13 12:06:04.880827,964,São Brás,Cristina,Guitar Condor,Michelle Reynolds,feminino,cartão de crédito
+2025-02-13 13:38:56.589513,965,São Paulo,Lucas Pereira,Guitar Condor,Anne Warren,feminino,pix
+2025-02-14 06:00:01.454502,966,São Paulo,Lucas Pereira,Geladeira,Leona Carmichael,feminino,dinheiro
+2025-02-14 06:10:59.954845,967,Belo Horizonte,Luiz,Smart Band 9 pro,Elaine Stephenson,feminino,cartão de crédito
+2025-02-14 06:42:57.406391,968,São Brás,Carlos,Guitar Condor,Thelma Mendoza,feminino,pix
+2025-02-14 11:22:04.078662,969,São Paulo,Ana Oliveira,Smart Band 9 pro,Judith Sparr,feminino,boleto
+2025-02-14 11:36:04.047762,970,São Brás,Carlos,Guitar Condor,Ruth Koester,feminino,cartão de crédito
+2025-02-14 12:04:04.496268,971,Juiz de Fora,Marcelo,Geladeira,Darrell Sabo,masculino,cartão de crédito
+2025-02-14 13:31:58.760318,972,São Brás,Cristina,Iphone,Tabitha Hemphill,feminino,pix
+2025-02-15 07:26:01.517260,973,São Paulo,Ana Oliveira,Iphone,Nancy Martin,feminino,boleto
+2025-02-15 07:58:58.762780,974,Juiz de Fora,Luiza,Smart Band 9 pro,Courtney Stewart,feminino,cartão de crédito
+2025-02-15 09:53:59.051530,975,Juiz de Fora,Luiza,Guitar Condor,Robert Steury,masculino,cartão de crédito
+2025-02-16 06:16:04.796105,976,Juiz de Fora,Marcelo,Geladeira,Ellen Hildreth,feminino,pix
+2025-02-16 07:02:57.944469,977,São Paulo,Ana Oliveira,Smart Band 9 pro,Anthony Cain,masculino,pix
+2025-02-16 08:59:03.881496,978,Juiz de Fora,Marcelo,Guitar Condor,Patrica Sample,feminino,boleto
+2025-02-16 09:14:04.973795,979,São Paulo,Lucas Pereira,Geladeira,Melvin Trudnowski,masculino,boleto
+2025-02-16 14:18:03.828686,980,São Brás,Cristina,Geladeira,Sara Morrissey,feminino,boleto
+2025-02-17 06:23:03.773211,981,Juiz de Fora,Luiza,Geladeira,Mary Cephas,feminino,dinheiro
+2025-02-17 07:16:01.742842,982,Juiz de Fora,Marcelo,Geladeira,Sandra Pettway,feminino,pix
+2025-02-17 08:55:00.495849,983,Juiz de Fora,Luiza,Iphone,Regina Mustafa,feminino,pix
+2025-02-17 08:56:59.291525,984,Belo Horizonte,Leticia,Geladeira,Adriana Voegele,feminino,cartão de crédito
+2025-02-17 11:16:01.717210,985,São Paulo,Lucas Pereira,Guitar Condor,Linda Brooks,feminino,cartão de crédito
+2025-02-17 11:26:04.250898,986,São Brás,Carlos,Iphone,Essie Hopfensperger,feminino,dinheiro
+2025-02-17 11:40:58.515598,987,São Paulo,Ana Oliveira,Geladeira,Nancy Thompson,feminino,boleto
+2025-02-17 11:49:05.811162,988,Belo Horizonte,Luiz,Smart Band 9 pro,James Guinn,masculino,pix
+2025-02-17 13:10:04.801889,989,Juiz de Fora,Marcelo,Geladeira,Ronald Crites,masculino,cartão de crédito
+2025-02-17 14:29:04.036297,990,São Brás,Cristina,Geladeira,Tom Reed,masculino,dinheiro
+2025-02-17 14:45:00.954927,991,São Paulo,Ana Oliveira,Smart Band 9 pro,Mary Higgins,feminino,dinheiro
+2025-02-18 06:50:58.131719,992,Belo Horizonte,Luiz,Smart Band 9 pro,Herbert Humphrey,masculino,cartão de crédito
+2025-02-18 08:30:03.955183,993,São Paulo,Lucas Pereira,Geladeira,Evelyn Fonner,feminino,cartão de crédito
+2025-02-18 10:45:02.518633,994,Belo Horizonte,Leticia,Geladeira,Marvin Long,masculino,dinheiro
+2025-02-18 13:40:01.222737,995,São Paulo,Lucas Pereira,Iphone,John Scheetz,masculino,dinheiro
+2025-02-19 09:09:01.957373,996,São Paulo,Ana Oliveira,Guitar Condor,John Williams,masculino,cartão de crédito
+2025-02-19 09:45:02.666761,997,Juiz de Fora,Luiza,Guitar Condor,Monica Ganong,feminino,cartão de crédito
+2025-02-19 10:36:56.476522,998,Belo Horizonte,Luiz,Geladeira,Susan Meder,feminino,pix
+2025-02-19 10:40:00.727189,999,Belo Horizonte,Luiz,Geladeira,Brian Harness,masculino,pix
+2025-02-19 11:14:01.053384,1000,São Brás,Cristina,Guitar Condor,Deborah Bell,feminino,pix
+2025-02-19 14:45:04.341313,1001,São Brás,Carlos,Geladeira,Esther Bradford,feminino,cartão de crédito
+2025-02-19 14:45:04.712587,1002,São Paulo,Ana Oliveira,Guitar Condor,Laurie Dykes,feminino,boleto
+2025-02-19 15:19:57.187524,1003,São Brás,Cristina,Smart Band 9 pro,Grace Heyd,feminino,cartão de crédito
+2025-02-20 05:05:57.048365,1004,São Brás,Cristina,Smart Band 9 pro,Janice Estep,feminino,pix
+2025-02-20 08:59:04.527073,1005,Belo Horizonte,Leticia,Geladeira,William Marshall,masculino,cartão de crédito
+2025-02-20 10:01:02.294595,1006,Juiz de Fora,Marcelo,Geladeira,Penny Boothe,feminino,boleto
+2025-02-20 14:31:56.457243,1007,São Brás,Carlos,Guitar Condor,Doris Barrow,feminino,boleto
+2025-02-20 15:44:58.522116,1008,São Paulo,Lucas Pereira,Guitar Condor,Edward Jeffcoat,masculino,cartão de crédito
+2025-02-21 08:14:05.128505,1009,Juiz de Fora,Luiza,Guitar Condor,Nancy Walker,feminino,cartão de crédito
+2025-02-21 08:15:05.533639,1010,Belo Horizonte,Leticia,Guitar Condor,Kerri Patterson,feminino,boleto
+2025-02-21 11:26:05.541429,1011,Belo Horizonte,Luiz,Iphone,Ida Thomas,feminino,pix
+2025-02-21 11:53:03.884233,1012,São Paulo,Ana Oliveira,Guitar Condor,Neil Paradis,masculino,dinheiro
+2025-02-21 13:19:57.548037,1013,São Brás,Carlos,Geladeira,Kent Niswander,masculino,boleto
+2025-02-21 13:55:02.937675,1014,Juiz de Fora,Luiza,Geladeira,Stephen Marshall,masculino,pix
+2025-02-21 14:23:57.695676,1015,São Brás,Carlos,Smart Band 9 pro,Marion Collins,feminino,boleto
+2025-02-21 15:34:02.111325,1016,São Brás,Cristina,Geladeira,Marilyn White,feminino,dinheiro
+2025-02-22 05:17:04.280536,1017,Juiz de Fora,Marcelo,Smart Band 9 pro,Wayne Scott,masculino,dinheiro
+2025-02-22 08:34:58.436039,1018,Belo Horizonte,Leticia,Iphone,Troy Hawk,masculino,boleto
+2025-02-22 09:46:58.927482,1019,São Brás,Cristina,Iphone,Raymond Miller,masculino,dinheiro
+2025-02-22 12:49:57.732130,1020,Juiz de Fora,Marcelo,Smart Band 9 pro,Allison Clayton,feminino,pix
+2025-02-23 05:01:02.306200,1021,Juiz de Fora,Marcelo,Guitar Condor,April Vines,feminino,pix
+2025-02-23 06:22:02.171952,1022,São Brás,Cristina,Geladeira,Ann Brennan,feminino,cartão de crédito
+2025-02-23 09:55:58.744391,1023,São Brás,Cristina,Smart Band 9 pro,Erma Nakano,feminino,pix
+2025-02-23 15:00:56.544832,1024,São Paulo,Ana Oliveira,Smart Band 9 pro,Dorothy Dahlman,feminino,boleto
+2025-02-24 05:08:58.429233,1025,Juiz de Fora,Luiza,Smart Band 9 pro,Hilda Dorn,feminino,pix
+2025-02-24 05:24:58.268950,1026,São Brás,Carlos,Geladeira,Donna Schleck,feminino,dinheiro
+2025-02-24 05:42:58.724584,1027,Juiz de Fora,Marcelo,Iphone,Martha Moran,feminino,cartão de crédito
+2025-02-24 10:08:03.245492,1028,São Brás,Cristina,Smart Band 9 pro,Thomas Peterson,masculino,boleto
+2025-02-24 10:48:02.117633,1029,Belo Horizonte,Luiz,Guitar Condor,Myrtle Meraz,feminino,dinheiro
+2025-02-24 11:25:57.500900,1030,Belo Horizonte,Luiz,Guitar Condor,Ronald Mease,masculino,boleto
+2025-02-24 13:09:56.609266,1031,São Paulo,Lucas Pereira,Smart Band 9 pro,Helen Barajas,feminino,cartão de crédito
+2025-02-25 07:59:05.597667,1032,São Paulo,Ana Oliveira,Iphone,Shirley Collins,feminino,boleto
+2025-02-25 10:57:04.916297,1033,São Paulo,Ana Oliveira,Geladeira,Alissa Smith,feminino,dinheiro
+2025-02-25 11:04:04.751295,1034,São Brás,Carlos,Smart Band 9 pro,Marcia Valadez,feminino,dinheiro
+2025-02-25 14:09:00.493129,1035,São Paulo,Ana Oliveira,Smart Band 9 pro,Andrew Johnson,masculino,cartão de crédito
+2025-02-25 14:35:58.064103,1036,São Brás,Cristina,Iphone,Robert Steward,masculino,cartão de crédito
+2025-02-26 05:36:02.389377,1037,São Brás,Carlos,Guitar Condor,James Bell,masculino,boleto
+2025-02-26 05:37:02.644815,1038,São Brás,Cristina,Iphone,Amelia Vanbrunt,feminino,cartão de crédito
+2025-02-26 08:05:58.926147,1039,Belo Horizonte,Leticia,Guitar Condor,Lois Vance,feminino,dinheiro
+2025-02-26 12:11:57.739860,1040,São Brás,Cristina,Smart Band 9 pro,Gloria Page,feminino,pix
+2025-02-26 12:23:05.221217,1041,Juiz de Fora,Marcelo,Smart Band 9 pro,Kevin Smith,masculino,boleto
+2025-02-26 15:17:59.709198,1042,São Paulo,Lucas Pereira,Geladeira,Amparo Langan,feminino,boleto
+2025-02-27 06:07:57.226159,1043,São Brás,Cristina,Guitar Condor,Beverly Williams,feminino,pix
+2025-02-27 08:14:58.141251,1044,São Brás,Carlos,Guitar Condor,George Munoz,masculino,boleto
+2025-02-27 08:41:03.035561,1045,São Paulo,Lucas Pereira,Guitar Condor,Helen Matinez,feminino,pix
+2025-02-27 12:10:03.429973,1046,Belo Horizonte,Luiz,Guitar Condor,Lois Marsaw,feminino,pix
+2025-02-27 14:55:04.705370,1047,Juiz de Fora,Marcelo,Geladeira,Kitty Yu,feminino,pix
+2025-02-27 15:01:04.971427,1048,Belo Horizonte,Luiz,Iphone,Ethel Young,feminino,cartão de crédito
+2025-02-28 06:13:04.019491,1049,São Paulo,Ana Oliveira,Smart Band 9 pro,David Estes,masculino,pix
+2025-02-28 07:30:57.957570,1050,Belo Horizonte,Luiz,Geladeira,Monica Long,feminino,pix
+2025-02-28 09:53:59.635011,1051,São Brás,Cristina,Geladeira,Ronald Olmos,masculino,pix
+2025-02-28 10:35:04.640963,1052,São Brás,Carlos,Guitar Condor,Barbara Shoji,feminino,pix
+2025-02-28 11:15:59.140847,1053,Belo Horizonte,Luiz,Geladeira,Thersa Cole,feminino,cartão de crédito
+2025-02-28 14:37:58.071130,1054,São Brás,Carlos,Geladeira,Rachel Mulchrone,feminino,cartão de crédito
+2025-02-28 15:09:01.456499,1055,Belo Horizonte,Luiz,Iphone,Jeffery Cervantes,masculino,boleto
+2025-03-01 05:55:02.015282,1056,Juiz de Fora,Luiza,Smart Band 9 pro,Doris Siggins,feminino,boleto
+2025-03-01 05:57:57.020017,1057,São Paulo,Lucas Pereira,Guitar Condor,Owen Robinson,masculino,boleto
+2025-03-01 07:51:04.724818,1058,São Paulo,Lucas Pereira,Guitar Condor,Ronny Price,masculino,dinheiro
+2025-03-01 08:23:59.829503,1059,Belo Horizonte,Leticia,Guitar Condor,Michelle Taylor,feminino,cartão de crédito
+2025-03-01 10:12:00.389621,1060,São Brás,Carlos,Guitar Condor,Anne Wilson,feminino,cartão de crédito
+2025-03-01 11:34:02.390696,1061,São Paulo,Ana Oliveira,Geladeira,Kathy Upchurch,feminino,boleto
+2025-03-01 14:37:59.529293,1062,Juiz de Fora,Marcelo,Guitar Condor,Paul Bouton,masculino,cartão de crédito
+2025-03-01 14:40:03.497302,1063,Juiz de Fora,Marcelo,Geladeira,Bobby Williams,masculino,pix
+2025-03-01 15:26:58.470616,1064,São Paulo,Lucas Pereira,Geladeira,James Jones,masculino,cartão de crédito
+2025-03-02 06:50:59.916144,1065,São Paulo,Ana Oliveira,Iphone,Norma Castillo,feminino,pix
+2025-03-02 09:44:57.139470,1066,Belo Horizonte,Leticia,Smart Band 9 pro,Patrick Pinckney,masculino,boleto
+2025-03-02 12:52:59.084997,1067,São Paulo,Lucas Pereira,Guitar Condor,Eva Harbert,feminino,pix
+2025-03-02 14:21:57.296324,1068,Juiz de Fora,Luiza,Guitar Condor,Robert Rivera,masculino,pix
+2025-03-02 15:05:03.364690,1069,Belo Horizonte,Leticia,Iphone,Ruth Marbley,feminino,pix
+2025-03-03 06:28:57.767949,1070,Juiz de Fora,Luiza,Smart Band 9 pro,Delmer Rothenbach,masculino,cartão de crédito
+2025-03-03 06:39:05.817098,1071,Juiz de Fora,Luiza,Geladeira,Robert Murphy,masculino,pix
+2025-03-03 08:48:59.356557,1072,São Brás,Cristina,Iphone,Stuart Lee,masculino,boleto
+2025-03-03 08:58:56.556279,1073,Juiz de Fora,Luiza,Smart Band 9 pro,Mary Castro,feminino,cartão de crédito
+2025-03-03 09:21:57.920066,1074,São Brás,Carlos,Smart Band 9 pro,Alice Allen,feminino,cartão de crédito
+2025-03-03 10:24:58.853717,1075,Belo Horizonte,Leticia,Smart Band 9 pro,Anna Marriner,feminino,boleto
+2025-03-03 13:14:57.902130,1076,São Paulo,Lucas Pereira,Guitar Condor,Julian Stovall,masculino,boleto
+2025-03-04 05:17:56.821688,1077,São Brás,Carlos,Smart Band 9 pro,Donald Gilmore,masculino,pix
+2025-03-04 06:23:00.321604,1078,São Brás,Carlos,Smart Band 9 pro,Vicki Dougherty,feminino,cartão de crédito
+2025-03-04 07:35:58.672053,1079,São Brás,Carlos,Smart Band 9 pro,Heather Sackett,feminino,cartão de crédito
+2025-03-04 08:08:04.817177,1080,Belo Horizonte,Luiz,Smart Band 9 pro,Katherine Candland,feminino,cartão de crédito
+2025-03-04 12:31:03.808332,1081,Belo Horizonte,Luiz,Smart Band 9 pro,Jason Boss,masculino,dinheiro
+2025-03-05 05:42:58.373427,1082,Belo Horizonte,Leticia,Guitar Condor,William Crutchfield,masculino,dinheiro
+2025-03-05 09:00:59.566811,1083,São Brás,Cristina,Iphone,Misty Daniels,feminino,dinheiro
+2025-03-05 11:45:02.555471,1084,Belo Horizonte,Leticia,Smart Band 9 pro,Mary Cook,feminino,pix
+2025-03-05 12:02:05.035240,1085,São Brás,Cristina,Geladeira,Ricardo Troy,masculino,dinheiro
+2025-03-06 06:52:03.285131,1086,Juiz de Fora,Luiza,Guitar Condor,Brian Claytor,masculino,boleto
+2025-03-06 11:21:58.626049,1087,Juiz de Fora,Marcelo,Iphone,Louis Owens,masculino,cartão de crédito
+2025-03-06 14:18:04.587875,1088,São Paulo,Lucas Pereira,Iphone,Helen Watson,feminino,pix
+2025-03-07 08:09:03.118401,1089,São Brás,Carlos,Guitar Condor,Raymond Mcmurray,masculino,boleto
+2025-03-07 08:22:03.536455,1090,Juiz de Fora,Marcelo,Smart Band 9 pro,Doyle Williams,masculino,cartão de crédito
+2025-03-07 09:21:00.415747,1091,Juiz de Fora,Luiza,Iphone,Kristin Gray,feminino,pix
+2025-03-07 12:42:58.729896,1092,São Paulo,Lucas Pereira,Guitar Condor,Hiram Hunter,masculino,boleto
+2025-03-07 15:00:00.004406,1093,São Paulo,Ana Oliveira,Smart Band 9 pro,Teresa Pitts,feminino,cartão de crédito
+2025-03-08 06:13:59.738102,1094,São Paulo,Ana Oliveira,Geladeira,James Thomas,masculino,cartão de crédito
+2025-03-08 06:52:00.730922,1095,Juiz de Fora,Luiza,Smart Band 9 pro,Connie Wedge,feminino,boleto
+2025-03-08 09:10:03.358397,1096,São Brás,Carlos,Iphone,Judy Groh,feminino,pix
+2025-03-08 11:43:02.583066,1097,São Paulo,Ana Oliveira,Smart Band 9 pro,Deborah Fletcher,feminino,cartão de crédito
+2025-03-08 13:44:04.676807,1098,São Paulo,Ana Oliveira,Iphone,Clayton Williams,masculino,boleto
+2025-03-08 14:33:03.318695,1099,Juiz de Fora,Marcelo,Smart Band 9 pro,Patricia Mcclellan,feminino,dinheiro
+2025-03-08 15:43:56.376900,1100,Belo Horizonte,Luiz,Geladeira,Maria Marshall,feminino,cartão de crédito
+2025-03-09 07:26:02.012126,1101,Belo Horizonte,Luiz,Iphone,Donald Hardy,masculino,pix
+2025-03-09 08:22:02.931843,1102,Juiz de Fora,Marcelo,Guitar Condor,Thomas Burch,masculino,boleto
+2025-03-09 12:10:05.098389,1103,Juiz de Fora,Luiza,Smart Band 9 pro,Charles Soucy,masculino,dinheiro
+2025-03-10 05:29:02.608301,1104,São Brás,Cristina,Smart Band 9 pro,Von Koehler,masculino,dinheiro
+2025-03-10 06:46:04.050787,1105,Juiz de Fora,Marcelo,Iphone,Reginald Brus,masculino,cartão de crédito
+2025-03-10 07:53:01.677886,1106,Belo Horizonte,Luiz,Iphone,Jeffery Owens,masculino,dinheiro
+2025-03-10 11:33:04.137442,1107,São Paulo,Ana Oliveira,Guitar Condor,Herminia Liew,feminino,pix
+2025-03-10 13:42:03.732406,1108,Belo Horizonte,Luiz,Iphone,Pamela Thackaberry,feminino,cartão de crédito
+2025-03-11 05:39:58.307095,1109,Belo Horizonte,Leticia,Smart Band 9 pro,Sumiko Toppin,feminino,dinheiro
+2025-03-11 05:40:04.325996,1110,São Brás,Cristina,Geladeira,John Siwiec,masculino,pix
+2025-03-11 08:56:04.709432,1111,São Brás,Cristina,Iphone,Christopher Williams,masculino,cartão de crédito
+2025-03-11 10:41:05.806066,1112,Juiz de Fora,Marcelo,Geladeira,Emerson Wood,masculino,dinheiro
+2025-03-11 11:29:00.243272,1113,São Paulo,Lucas Pereira,Guitar Condor,Larry Park,masculino,dinheiro
+2025-03-12 06:09:59.800019,1114,Belo Horizonte,Leticia,Smart Band 9 pro,Frances Oglesby,feminino,boleto
+2025-03-12 10:24:58.726578,1115,São Paulo,Lucas Pereira,Guitar Condor,Ronald Rinaldi,masculino,pix
+2025-03-12 11:07:01.913974,1116,São Paulo,Lucas Pereira,Iphone,Carmelita Salazar,feminino,boleto
+2025-03-12 11:38:04.089497,1117,Belo Horizonte,Leticia,Smart Band 9 pro,Jose Spearman,masculino,boleto
+2025-03-12 12:50:02.128162,1118,São Brás,Cristina,Iphone,Lorenzo Carpenter,masculino,boleto
+2025-03-12 13:09:04.323267,1119,Juiz de Fora,Marcelo,Smart Band 9 pro,Scott Hammond,masculino,cartão de crédito
+2025-03-13 08:16:02.870269,1120,Juiz de Fora,Marcelo,Geladeira,John Rocha,masculino,cartão de crédito
+2025-03-13 08:47:59.143731,1121,Juiz de Fora,Marcelo,Smart Band 9 pro,Brenda Hodge,feminino,cartão de crédito
+2025-03-13 08:55:01.921713,1122,Belo Horizonte,Leticia,Geladeira,Mary Smith,feminino,cartão de crédito
+2025-03-13 09:38:58.928468,1123,Belo Horizonte,Leticia,Smart Band 9 pro,Carl Tso,masculino,cartão de crédito
+2025-03-13 10:12:01.280826,1124,São Brás,Cristina,Guitar Condor,Kenneth Lake,masculino,pix
+2025-03-13 12:40:57.907778,1125,Juiz de Fora,Marcelo,Geladeira,Edith Smith,feminino,boleto
+2025-03-13 14:47:00.871655,1126,São Paulo,Lucas Pereira,Guitar Condor,Mary Mcbride,feminino,boleto
+2025-03-14 05:39:05.297718,1127,São Paulo,Lucas Pereira,Iphone,Joshua Markes,masculino,pix
+2025-03-14 07:11:58.905094,1128,São Paulo,Ana Oliveira,Iphone,John Tan,masculino,dinheiro
+2025-03-14 08:07:00.816184,1129,São Paulo,Ana Oliveira,Geladeira,Tamara Johnson,feminino,cartão de crédito
+2025-03-14 08:49:58.755145,1130,São Paulo,Lucas Pereira,Guitar Condor,Shelley Roman,feminino,pix
+2025-03-14 09:25:57.200321,1131,São Brás,Cristina,Guitar Condor,Leanna Coleman,feminino,pix
+2025-03-14 12:43:56.703445,1132,São Brás,Carlos,Guitar Condor,Dorinda Allen,feminino,cartão de crédito
+2025-03-14 12:53:56.786939,1133,Belo Horizonte,Luiz,Smart Band 9 pro,Richard Aymond,masculino,dinheiro
+2025-03-14 14:50:57.561303,1134,Belo Horizonte,Luiz,Iphone,Carlotta Sauve,feminino,pix
+2025-03-15 04:45:56.784603,1135,São Paulo,Ana Oliveira,Guitar Condor,Christopher Mayhew,masculino,cartão de crédito
+2025-03-15 05:01:58.944565,1136,Juiz de Fora,Marcelo,Geladeira,Leila Mcgrew,feminino,dinheiro
+2025-03-15 06:47:59.505446,1137,São Brás,Carlos,Guitar Condor,George Chin,masculino,cartão de crédito
+2025-03-15 06:56:03.550912,1138,Belo Horizonte,Leticia,Guitar Condor,Wilfred Ferguson,masculino,cartão de crédito
+2025-03-15 07:24:05.356208,1139,São Paulo,Lucas Pereira,Iphone,Eileen Cortez,feminino,boleto
+2025-03-15 08:36:02.180755,1140,São Paulo,Lucas Pereira,Geladeira,Charles Jackson,masculino,cartão de crédito
+2025-03-15 08:54:02.424023,1141,Belo Horizonte,Leticia,Guitar Condor,Claude Holmes,masculino,boleto
+2025-03-15 10:22:01.413400,1142,Belo Horizonte,Luiz,Smart Band 9 pro,Jill Bierman,feminino,dinheiro
+2025-03-15 11:53:03.541210,1143,São Paulo,Lucas Pereira,Geladeira,Ashley Duncan,feminino,pix
+2025-03-15 13:23:58.939378,1144,São Brás,Cristina,Guitar Condor,Ryan Jacobs,masculino,dinheiro
+2025-03-15 14:16:02.757160,1145,São Brás,Cristina,Smart Band 9 pro,Zachery Couture,masculino,pix
+2025-03-16 05:26:03.091369,1146,Belo Horizonte,Luiz,Guitar Condor,Clarice Vogel,feminino,boleto
+2025-03-16 05:27:01.354821,1147,São Brás,Cristina,Guitar Condor,John Seals,masculino,boleto
+2025-03-16 06:46:56.463041,1148,São Brás,Cristina,Smart Band 9 pro,Harold Barger,masculino,pix
+2025-03-16 10:00:00.404948,1149,Belo Horizonte,Leticia,Iphone,Scott Dyer,masculino,cartão de crédito
+2025-03-16 10:19:04.275793,1150,Belo Horizonte,Leticia,Smart Band 9 pro,Goldie Vance,feminino,boleto
+2025-03-16 11:26:05.818124,1151,São Brás,Cristina,Iphone,Christopher Moeckel,masculino,boleto
+2025-03-16 12:03:03.552077,1152,São Brás,Carlos,Guitar Condor,Charles Price,masculino,cartão de crédito
+2025-03-16 14:06:59.367648,1153,São Paulo,Ana Oliveira,Iphone,Russell Richardson,masculino,pix
+2025-03-17 05:42:04.181541,1154,Belo Horizonte,Luiz,Guitar Condor,Paulina Bauman,feminino,boleto
+2025-03-17 05:48:58.114079,1155,Belo Horizonte,Luiz,Guitar Condor,Joan Kamaka,feminino,dinheiro
+2025-03-17 07:12:57.862241,1156,São Brás,Cristina,Iphone,Jennifer Jones,feminino,boleto
+2025-03-17 09:30:03.794961,1157,São Brás,Carlos,Guitar Condor,Natalie Parente,feminino,pix
+2025-03-17 09:47:02.513210,1158,Juiz de Fora,Luiza,Guitar Condor,Jose Montoya,masculino,cartão de crédito
+2025-03-17 10:30:58.139602,1159,Juiz de Fora,Luiza,Geladeira,Johnathan Hess,masculino,boleto
+2025-03-18 07:47:56.662114,1160,Juiz de Fora,Marcelo,Iphone,Michael Mannino,masculino,pix
+2025-03-18 08:02:05.101924,1161,São Paulo,Ana Oliveira,Geladeira,Josie Waugh,feminino,pix
+2025-03-18 10:00:57.756063,1162,São Brás,Cristina,Geladeira,Leon Obrien,masculino,boleto
+2025-03-18 10:12:56.323920,1163,Belo Horizonte,Luiz,Guitar Condor,Denise King,feminino,cartão de crédito
+2025-03-18 10:23:04.233085,1164,São Paulo,Ana Oliveira,Iphone,Timothy Palmer,masculino,dinheiro
+2025-03-18 11:06:01.152431,1165,São Paulo,Ana Oliveira,Geladeira,Jose Furstenberg,masculino,pix
+2025-03-18 11:26:01.523305,1166,Belo Horizonte,Luiz,Smart Band 9 pro,Maria Keshishian,feminino,cartão de crédito
+2025-03-18 12:20:04.037992,1167,Juiz de Fora,Luiza,Geladeira,Sofia Garver,feminino,pix
+2025-03-18 13:17:00.997026,1168,Belo Horizonte,Leticia,Geladeira,Brenda Stanesic,feminino,pix
+2025-03-19 08:40:56.612635,1169,São Paulo,Lucas Pereira,Iphone,Shannon Weiker,feminino,cartão de crédito
+2025-03-19 12:43:01.049856,1170,São Brás,Cristina,Guitar Condor,Michelle Abreu,feminino,dinheiro
+2025-03-19 13:49:00.446463,1171,São Paulo,Ana Oliveira,Guitar Condor,Joseph Gray,masculino,boleto
+2025-03-19 13:56:56.978410,1172,Belo Horizonte,Luiz,Iphone,John Hawks,masculino,boleto
+2025-03-20 05:08:03.233881,1173,Belo Horizonte,Leticia,Smart Band 9 pro,Mark Powell,masculino,boleto
+2025-03-20 06:27:59.608496,1174,São Paulo,Ana Oliveira,Smart Band 9 pro,Basil Chall,masculino,cartão de crédito
+2025-03-20 10:14:05.419462,1175,São Brás,Carlos,Smart Band 9 pro,Kevin Dineen,masculino,cartão de crédito
+2025-03-20 11:38:02.395207,1176,São Paulo,Lucas Pereira,Iphone,Steve Schuster,masculino,pix
+2025-03-20 12:21:04.598515,1177,Belo Horizonte,Luiz,Iphone,Alyce Jepson,feminino,dinheiro
+2025-03-20 12:47:02.936223,1178,São Paulo,Lucas Pereira,Smart Band 9 pro,Pamela Schroeder,feminino,cartão de crédito
+2025-03-20 14:05:56.449620,1179,São Brás,Carlos,Geladeira,Jacqueline Marion,feminino,pix
+2025-03-21 06:57:00.171938,1180,São Paulo,Ana Oliveira,Smart Band 9 pro,Betty Newell,feminino,cartão de crédito
+2025-03-21 07:08:58.821396,1181,São Brás,Cristina,Guitar Condor,Dorothy Harris,feminino,boleto
+2025-03-21 07:33:03.294092,1182,Juiz de Fora,Luiza,Geladeira,Randell Finnegan,masculino,pix
+2025-03-21 09:52:05.425117,1183,São Brás,Cristina,Geladeira,Carolyn Turman,feminino,dinheiro
+2025-03-21 11:33:05.814624,1184,São Brás,Carlos,Geladeira,Margene Smith,feminino,boleto
+2025-03-22 06:00:02.487189,1185,Juiz de Fora,Marcelo,Geladeira,Esther Kreiman,feminino,cartão de crédito
+2025-03-22 07:01:04.223183,1186,Juiz de Fora,Luiza,Geladeira,Angie Rowe,feminino,pix
+2025-03-22 08:48:56.683319,1187,São Brás,Carlos,Guitar Condor,Maurice Spelman,masculino,dinheiro
+2025-03-22 13:12:05.733791,1188,Belo Horizonte,Leticia,Smart Band 9 pro,Donald Kowalcyk,masculino,pix
+2025-03-23 09:29:02.116589,1189,São Brás,Carlos,Smart Band 9 pro,David Mendez,masculino,boleto
+2025-03-23 13:57:58.667211,1190,São Brás,Cristina,Geladeira,Mark Cote,masculino,dinheiro
+2025-03-24 04:52:59.960715,1191,Juiz de Fora,Luiza,Smart Band 9 pro,Matthew Naquin,masculino,dinheiro
+2025-03-24 07:17:57.046314,1192,Belo Horizonte,Leticia,Geladeira,Dennis Hammonds,masculino,pix
+2025-03-24 07:46:59.151688,1193,Belo Horizonte,Luiz,Iphone,Robert Portillo,masculino,boleto
+2025-03-24 08:20:02.820240,1194,São Paulo,Ana Oliveira,Geladeira,Mary Garber,feminino,cartão de crédito
+2025-03-24 11:48:58.526434,1195,São Paulo,Lucas Pereira,Smart Band 9 pro,Juanita Gurke,feminino,pix
+2025-03-24 12:36:02.058525,1196,Belo Horizonte,Leticia,Geladeira,William Benjamin,masculino,dinheiro
+2025-03-25 05:11:58.425929,1197,São Paulo,Lucas Pereira,Geladeira,Jose Payton,masculino,pix
+2025-03-25 05:55:00.110531,1198,Belo Horizonte,Leticia,Iphone,Myles Peters,masculino,cartão de crédito
+2025-03-25 06:31:03.622922,1199,Belo Horizonte,Leticia,Guitar Condor,Mirna Mcelfresh,feminino,boleto
+2025-03-25 08:22:00.193516,1200,Belo Horizonte,Leticia,Guitar Condor,Cameron Halcomb,masculino,cartão de crédito
+2025-03-25 10:16:02.308145,1201,São Paulo,Lucas Pereira,Guitar Condor,Laverne Scott,feminino,pix
+2025-03-25 12:31:00.300581,1202,Juiz de Fora,Marcelo,Iphone,Thomas Brady,masculino,dinheiro
+2025-03-25 12:59:03.613983,1203,Belo Horizonte,Leticia,Iphone,Chris Parrish,masculino,pix
+2025-03-26 06:17:02.167741,1204,Belo Horizonte,Leticia,Iphone,Catherine Fulton,feminino,cartão de crédito
+2025-03-26 09:26:56.850724,1205,São Brás,Carlos,Guitar Condor,Karen Monahan,feminino,dinheiro
+2025-03-26 13:54:56.365237,1206,São Paulo,Ana Oliveira,Iphone,Ana Smith,feminino,pix
+2025-03-28 12:47:01.518392,1207,São Paulo,Lucas Pereira,Smart Band 9 pro,Hilda Kane,feminino,cartão de crédito
+2025-03-28 13:19:04.729773,1208,Belo Horizonte,Luiz,Geladeira,Shaunna Mcaleer,feminino,boleto
+2025-03-28 14:30:04.617488,1209,São Paulo,Lucas Pereira,Guitar Condor,Shelia Skinner,feminino,pix
+2025-03-28 14:31:59.324913,1210,Juiz de Fora,Marcelo,Smart Band 9 pro,Joseph Foushee,masculino,boleto
+2025-03-28 15:24:01.665210,1211,Juiz de Fora,Marcelo,Smart Band 9 pro,Carolyn Pinto,feminino,dinheiro
+2025-03-28 15:42:59.807994,1212,Juiz de Fora,Luiza,Geladeira,William Larson,masculino,cartão de crédito
+2025-03-29 04:48:01.840169,1213,São Brás,Carlos,Geladeira,Nancy Estep,feminino,pix
+2025-03-29 07:13:02.188323,1214,São Paulo,Ana Oliveira,Iphone,Cynthia Jones,feminino,boleto
+2025-03-29 07:32:59.219798,1215,Juiz de Fora,Marcelo,Iphone,Maribel Morgia,feminino,pix
+2025-03-30 06:27:05.196095,1216,São Brás,Carlos,Iphone,Gale Mize,feminino,cartão de crédito
+2025-03-30 09:02:58.756537,1217,Belo Horizonte,Leticia,Iphone,Ellsworth Gall,masculino,dinheiro
+2025-03-30 12:39:03.567281,1218,São Brás,Cristina,Guitar Condor,John Ballard,masculino,boleto
+2025-03-30 12:55:00.543277,1219,Juiz de Fora,Marcelo,Iphone,Vera Vasile,feminino,pix
+2025-03-30 13:11:56.464940,1220,São Paulo,Lucas Pereira,Smart Band 9 pro,Stella Battle,feminino,dinheiro
+2025-03-30 13:54:58.763945,1221,Juiz de Fora,Luiza,Guitar Condor,Jose Bohon,masculino,dinheiro
+2025-03-30 14:42:59.374294,1222,São Brás,Carlos,Geladeira,William Daugherty,masculino,pix
+2025-03-30 14:45:01.376840,1223,Belo Horizonte,Luiz,Iphone,Davida Moradian,feminino,pix
+2025-03-31 06:28:58.595228,1224,São Brás,Carlos,Guitar Condor,Patsy Kyer,feminino,dinheiro
+2025-03-31 07:28:04.350333,1225,São Paulo,Lucas Pereira,Geladeira,Mary Lemieux,feminino,dinheiro
+2025-03-31 10:33:58.375595,1226,Juiz de Fora,Marcelo,Geladeira,Flora Compton,feminino,cartão de crédito
+2025-03-31 10:49:01.219051,1227,Juiz de Fora,Marcelo,Guitar Condor,William Gomez,masculino,boleto
+2025-03-31 11:04:57.568089,1228,São Brás,Cristina,Smart Band 9 pro,Isabel Watkins,feminino,cartão de crédito
+2025-03-31 11:44:56.508764,1229,São Brás,Carlos,Iphone,Robert Wallace,masculino,dinheiro
+2025-03-31 13:35:04.045390,1230,Belo Horizonte,Leticia,Iphone,Gordon Hulsey,masculino,boleto
+2025-03-31 14:33:57.227410,1231,Belo Horizonte,Luiz,Iphone,Richard Cleveland,masculino,cartão de crédito
+2025-03-31 15:15:03.423056,1232,São Brás,Carlos,Iphone,Misty Harland,feminino,dinheiro
+2025-04-01 05:36:59.865256,1233,Belo Horizonte,Leticia,Smart Band 9 pro,Linda Garza,feminino,boleto
+2025-04-01 08:44:57.882409,1234,Juiz de Fora,Luiza,Geladeira,Paula Dixon,feminino,cartão de crédito
+2025-04-01 13:01:57.825847,1235,São Paulo,Ana Oliveira,Geladeira,Jennifer Day,feminino,cartão de crédito
+2025-04-01 13:15:02.126628,1236,Belo Horizonte,Leticia,Geladeira,Elnora Erickson,feminino,dinheiro
+2025-04-01 14:44:58.506242,1237,Belo Horizonte,Leticia,Iphone,Christina Thibodaux,feminino,dinheiro
+2025-04-01 15:36:04.184361,1238,Juiz de Fora,Marcelo,Geladeira,Jacob Wasilewski,masculino,dinheiro
+2025-04-02 04:48:00.107757,1239,Belo Horizonte,Leticia,Smart Band 9 pro,Katherine Wilson,feminino,cartão de crédito
+2025-04-02 06:18:03.998615,1240,Belo Horizonte,Leticia,Geladeira,Julio Harrison,masculino,cartão de crédito
+2025-04-02 06:59:04.726363,1241,São Brás,Cristina,Geladeira,Brian Bowman,masculino,boleto
+2025-04-02 10:44:05.253030,1242,São Brás,Carlos,Guitar Condor,Tiffani Bushby,feminino,pix
+2025-04-03 06:36:05.029742,1243,Juiz de Fora,Luiza,Geladeira,Thurman Loper,masculino,dinheiro
+2025-04-03 09:23:00.741537,1244,São Brás,Carlos,Iphone,James Tintinger,masculino,boleto
+2025-04-03 13:27:59.369230,1245,São Paulo,Ana Oliveira,Guitar Condor,Kenneth Lopes,masculino,pix
+2025-04-03 14:02:00.072719,1246,Belo Horizonte,Leticia,Smart Band 9 pro,William Steger,masculino,cartão de crédito
+2025-04-04 06:54:03.542942,1247,Juiz de Fora,Marcelo,Geladeira,Adam Diaz,masculino,pix
+2025-04-04 07:13:02.185235,1248,São Paulo,Lucas Pereira,Iphone,James Gutierrez,masculino,dinheiro
+2025-04-04 07:46:59.697138,1249,Belo Horizonte,Leticia,Guitar Condor,Lucille Orduno,feminino,pix
+2025-04-04 09:42:57.878256,1250,São Paulo,Lucas Pereira,Iphone,Consuelo Rodriguez,feminino,pix
+2025-04-04 14:01:58.164839,1251,São Brás,Carlos,Smart Band 9 pro,Mario Campbell,masculino,dinheiro
+2025-04-04 14:34:58.166472,1252,São Paulo,Ana Oliveira,Iphone,Dennis Stallings,masculino,dinheiro
+2025-04-05 06:10:05.764980,1253,São Brás,Cristina,Geladeira,Sarah Winter,feminino,cartão de crédito
+2025-04-05 07:07:05.042874,1254,São Paulo,Ana Oliveira,Geladeira,Margaret Moses,feminino,dinheiro
+2025-04-05 12:19:58.935889,1255,Belo Horizonte,Luiz,Iphone,Brandon Green,masculino,boleto
+2025-04-06 05:43:00.305201,1256,Belo Horizonte,Leticia,Geladeira,William Nedd,masculino,dinheiro
+2025-04-06 06:46:58.418341,1257,Belo Horizonte,Leticia,Geladeira,Cathy Anderson,feminino,dinheiro
+2025-04-07 06:44:59.016260,1258,São Brás,Cristina,Guitar Condor,Ninfa Diamond,feminino,pix
+2025-04-07 09:52:05.769461,1259,Juiz de Fora,Luiza,Guitar Condor,Burma Blockett,feminino,cartão de crédito
+2025-04-07 09:55:59.007184,1260,São Paulo,Lucas Pereira,Smart Band 9 pro,Janis Hogan,feminino,boleto
+2025-04-07 10:39:59.242668,1261,São Brás,Carlos,Iphone,Gloria Atwood,feminino,cartão de crédito
+2025-04-07 11:35:02.703962,1262,Juiz de Fora,Luiza,Smart Band 9 pro,Marion Gottlieb,feminino,dinheiro
+2025-04-07 15:38:00.422198,1263,Juiz de Fora,Luiza,Geladeira,Robert Peterson,masculino,boleto
+2025-04-08 04:45:59.506964,1264,São Paulo,Lucas Pereira,Geladeira,Doris Klapp,feminino,boleto
+2025-04-08 06:45:56.333025,1265,Belo Horizonte,Leticia,Iphone,Alicia Kyles,feminino,dinheiro
+2025-04-08 09:03:02.261997,1266,Juiz de Fora,Marcelo,Geladeira,Jose Audirsch,masculino,pix
+2025-04-08 09:47:02.452092,1267,São Paulo,Lucas Pereira,Geladeira,Timothy Branch,masculino,cartão de crédito
+2025-04-08 10:11:01.775487,1268,São Paulo,Lucas Pereira,Guitar Condor,Christopher Herrera,masculino,cartão de crédito
+2025-04-08 10:36:57.753856,1269,Juiz de Fora,Marcelo,Guitar Condor,Sarah Taylor,feminino,cartão de crédito
+2025-04-08 13:30:00.962683,1270,São Paulo,Lucas Pereira,Iphone,Lois Evans,feminino,dinheiro
+2025-04-08 14:15:59.359276,1271,Belo Horizonte,Luiz,Iphone,Christopher Tafoya,masculino,cartão de crédito
+2025-04-08 15:06:05.032743,1272,Belo Horizonte,Leticia,Iphone,John Coburn,masculino,boleto
+2025-04-08 15:28:04.882486,1273,Juiz de Fora,Marcelo,Guitar Condor,Randal Preston,masculino,pix
+2025-04-09 09:19:58.402632,1274,São Brás,Cristina,Smart Band 9 pro,Marvin Tucker,masculino,dinheiro
+2025-04-09 10:46:02.460939,1275,São Brás,Cristina,Smart Band 9 pro,Thomas Fox,masculino,boleto
+2025-04-09 13:19:04.918922,1276,São Paulo,Lucas Pereira,Guitar Condor,Brenda Thruston,feminino,dinheiro
+2025-04-10 05:38:05.088354,1277,Juiz de Fora,Marcelo,Smart Band 9 pro,Lisa Thompson,feminino,cartão de crédito
+2025-04-10 05:45:59.996316,1278,Juiz de Fora,Marcelo,Smart Band 9 pro,Willie Mendell,masculino,dinheiro
+2025-04-10 07:49:03.082297,1279,Belo Horizonte,Luiz,Geladeira,Carmen Nalls,feminino,cartão de crédito
+2025-04-10 08:25:03.016376,1280,São Paulo,Ana Oliveira,Guitar Condor,William Dunham,masculino,pix
+2025-04-10 08:30:04.811230,1281,São Brás,Carlos,Guitar Condor,Stephen Neubauer,masculino,cartão de crédito
+2025-04-10 13:45:05.410263,1282,Belo Horizonte,Leticia,Smart Band 9 pro,Rachael Keitt,feminino,pix
+2025-04-10 14:18:56.746747,1283,São Paulo,Ana Oliveira,Guitar Condor,Carla Simmons,feminino,cartão de crédito
+2025-04-11 06:13:01.322987,1284,Juiz de Fora,Marcelo,Smart Band 9 pro,Sandra Seyer,feminino,boleto
+2025-04-11 10:10:58.340563,1285,São Brás,Cristina,Smart Band 9 pro,Charlene Miller,feminino,boleto
+2025-04-11 14:50:00.192511,1286,Juiz de Fora,Luiza,Geladeira,William Clark,masculino,cartão de crédito
+2025-04-12 05:43:01.406349,1287,São Paulo,Ana Oliveira,Iphone,Dorothy Crouse,feminino,pix
+2025-04-12 07:15:03.020866,1288,Juiz de Fora,Marcelo,Guitar Condor,Dee Santana,masculino,cartão de crédito
+2025-04-12 08:10:57.396273,1289,Belo Horizonte,Leticia,Guitar Condor,Melanie Tarpley,feminino,dinheiro
+2025-04-12 08:43:00.154989,1290,Belo Horizonte,Leticia,Smart Band 9 pro,Michael Baer,masculino,pix
+2025-04-12 12:10:03.779342,1291,São Brás,Cristina,Guitar Condor,Lawrence Hartranft,masculino,pix
+2025-04-12 12:14:03.852427,1292,São Brás,Cristina,Geladeira,Cathy Morales,feminino,cartão de crédito
+2025-04-12 14:51:04.499322,1293,Juiz de Fora,Marcelo,Smart Band 9 pro,Edelmira Roth,feminino,pix
+2025-04-13 05:06:02.099629,1294,São Brás,Carlos,Geladeira,Quentin Pipes,masculino,cartão de crédito
+2025-04-13 06:59:00.575524,1295,São Brás,Carlos,Guitar Condor,Nelda Czelusniak,feminino,pix
+2025-04-13 10:08:01.679085,1296,São Brás,Carlos,Smart Band 9 pro,Latonia Rubert,feminino,dinheiro
+2025-04-13 10:19:02.343453,1297,São Paulo,Ana Oliveira,Geladeira,Lydia Lopez,feminino,pix
+2025-04-13 10:34:00.900707,1298,Belo Horizonte,Luiz,Geladeira,Jack Martin,masculino,boleto
+2025-04-13 12:03:02.559245,1299,Belo Horizonte,Leticia,Guitar Condor,Kimberly Laughary,feminino,boleto
+2025-04-14 07:45:05.559515,1300,Belo Horizonte,Luiz,Geladeira,Stacey Mcdowell,feminino,pix
+2025-04-14 08:37:57.113385,1301,Belo Horizonte,Luiz,Smart Band 9 pro,Dawn Fields,feminino,boleto
+2025-04-14 08:53:02.064999,1302,São Brás,Carlos,Iphone,Harold Mulqueen,masculino,pix
+2025-04-14 09:20:57.144940,1303,São Brás,Carlos,Iphone,Eileen Inman,feminino,pix
+2025-04-14 11:04:59.806365,1304,São Brás,Cristina,Geladeira,Eleanor Mendez,feminino,boleto
+2025-04-14 12:09:02.454824,1305,São Brás,Carlos,Iphone,Francisca Demps,feminino,dinheiro
+2025-04-14 12:36:58.869950,1306,Juiz de Fora,Marcelo,Smart Band 9 pro,Lisa Hottinger,feminino,pix
+2025-04-14 14:42:56.491434,1307,São Brás,Carlos,Iphone,Donna Hicks,feminino,cartão de crédito
+2025-04-15 05:06:59.951652,1308,São Paulo,Lucas Pereira,Guitar Condor,Ollie Stinson,feminino,cartão de crédito
+2025-04-15 06:13:03.238067,1309,Belo Horizonte,Leticia,Geladeira,Stacy Geer,feminino,boleto
+2025-04-15 10:14:04.702213,1310,São Brás,Cristina,Smart Band 9 pro,James Messer,masculino,dinheiro
+2025-04-15 13:42:59.759040,1311,Juiz de Fora,Luiza,Iphone,Kimberly Griffith,feminino,dinheiro
+2025-04-15 15:03:59.305303,1312,São Paulo,Ana Oliveira,Iphone,Stephanie Edwards,feminino,cartão de crédito
+2025-04-16 05:32:00.356465,1313,Juiz de Fora,Marcelo,Smart Band 9 pro,Neal Kelley,masculino,dinheiro
+2025-04-16 05:50:00.738700,1314,São Paulo,Ana Oliveira,Guitar Condor,Brandon Stone,masculino,boleto
+2025-04-16 07:34:04.281939,1315,São Brás,Carlos,Iphone,Eleanor Finley,feminino,cartão de crédito
+2025-04-16 07:50:02.359281,1316,Belo Horizonte,Leticia,Guitar Condor,Pat Sheppard,masculino,cartão de crédito
+2025-04-16 07:52:59.281226,1317,São Paulo,Lucas Pereira,Geladeira,Wyatt Jones,masculino,cartão de crédito
+2025-04-16 09:36:58.669727,1318,Belo Horizonte,Luiz,Smart Band 9 pro,Phyllis Zuniga,feminino,boleto
+2025-04-16 12:26:05.327531,1319,Belo Horizonte,Luiz,Geladeira,Jean Stanley,feminino,dinheiro
+2025-04-16 13:05:04.640111,1320,Belo Horizonte,Luiz,Smart Band 9 pro,Michael Holmes,masculino,pix
+2025-04-16 14:26:57.443905,1321,Belo Horizonte,Luiz,Smart Band 9 pro,Gary Chen,masculino,boleto
+2025-04-16 14:45:59.797829,1322,São Paulo,Ana Oliveira,Iphone,Ethel Atkinson,feminino,pix
+2025-04-16 14:52:59.246441,1323,São Brás,Carlos,Guitar Condor,Janet Kinsey,feminino,boleto
+2025-04-17 05:16:05.809001,1324,São Brás,Carlos,Guitar Condor,Cody Sullivan,masculino,cartão de crédito
+2025-04-17 07:49:57.740909,1325,Belo Horizonte,Leticia,Guitar Condor,Stephanie Huang,feminino,cartão de crédito
+2025-04-17 07:59:57.757144,1326,São Paulo,Lucas Pereira,Guitar Condor,Stephanie Riley,feminino,pix
+2025-04-17 08:40:57.879506,1327,Belo Horizonte,Leticia,Iphone,Jen Pruett,feminino,dinheiro
+2025-04-17 14:20:04.567599,1328,Juiz de Fora,Luiza,Iphone,Frank Clapham,masculino,boleto
+2025-04-17 15:34:56.366464,1329,São Brás,Carlos,Iphone,Wayne Gregson,masculino,boleto
+2025-04-18 08:24:02.934496,1330,São Brás,Carlos,Iphone,David Turner,masculino,cartão de crédito
+2025-04-18 09:50:59.466918,1331,São Brás,Carlos,Guitar Condor,Barbara Dube,feminino,boleto
+2025-04-18 10:07:03.706812,1332,Juiz de Fora,Luiza,Geladeira,Alex Oglesbee,masculino,boleto
+2025-04-18 10:09:01.830374,1333,Juiz de Fora,Marcelo,Smart Band 9 pro,Frank Ochoa,masculino,dinheiro
+2025-04-18 10:14:57.909887,1334,Belo Horizonte,Luiz,Smart Band 9 pro,Deborah Mccauley,feminino,boleto
+2025-04-18 11:21:59.299443,1335,Juiz de Fora,Luiza,Guitar Condor,Miguel Rivera,masculino,pix
+2025-04-18 11:30:02.730928,1336,Belo Horizonte,Luiz,Iphone,Gabriel Kawai,masculino,boleto
+2025-04-18 12:02:04.896911,1337,São Paulo,Ana Oliveira,Geladeira,Felix Cheatham,masculino,boleto
+2025-04-18 13:45:59.520154,1338,Belo Horizonte,Leticia,Iphone,Josephine Henry,feminino,dinheiro
+2025-04-19 04:59:02.097466,1339,Belo Horizonte,Leticia,Iphone,Ethel Moore,feminino,pix
+2025-04-19 08:36:59.645195,1340,Juiz de Fora,Luiza,Iphone,Shawn Simmons,masculino,cartão de crédito
+2025-04-19 08:54:05.666879,1341,Juiz de Fora,Luiza,Geladeira,Lura Fabrizio,feminino,dinheiro
+2025-04-19 10:14:01.111903,1342,Juiz de Fora,Luiza,Iphone,Deborah Rojas,feminino,boleto
+2025-04-19 12:53:59.680822,1343,Belo Horizonte,Luiz,Iphone,Mary Mix,feminino,dinheiro
+2025-04-19 15:18:03.491948,1344,Juiz de Fora,Marcelo,Geladeira,Sylvia Egan,feminino,dinheiro
+2025-04-19 15:29:57.650819,1345,Belo Horizonte,Leticia,Smart Band 9 pro,Ana Seiler,feminino,dinheiro
+2025-04-20 05:42:00.569753,1346,Juiz de Fora,Marcelo,Iphone,Margaret Mcduffy,feminino,boleto
+2025-04-20 06:13:59.400032,1347,Juiz de Fora,Luiza,Guitar Condor,Frank Theisen,masculino,pix
+2025-04-20 06:49:02.246697,1348,São Brás,Cristina,Iphone,Isabel Gaddie,feminino,cartão de crédito
+2025-04-20 08:36:05.850963,1349,São Brás,Carlos,Geladeira,Robert Lee,masculino,boleto
+2025-04-20 10:25:00.964474,1350,Juiz de Fora,Luiza,Iphone,Charles Bloom,masculino,dinheiro
+2025-04-20 10:29:02.158857,1351,São Paulo,Lucas Pereira,Guitar Condor,Kurt Williams,masculino,boleto
+2025-04-20 12:28:03.172757,1352,São Brás,Cristina,Guitar Condor,Patrick Marino,masculino,cartão de crédito
+2025-04-20 12:45:01.600187,1353,Belo Horizonte,Leticia,Iphone,Jean Francis,feminino,pix
+2025-04-21 05:09:01.766784,1354,São Brás,Carlos,Geladeira,Jesus Brooks,masculino,pix
+2025-04-21 05:11:57.255185,1355,São Brás,Carlos,Geladeira,Donna Powel,feminino,boleto
+2025-04-21 05:44:05.456755,1356,São Paulo,Lucas Pereira,Smart Band 9 pro,John Born,masculino,boleto
+2025-04-21 08:01:57.018864,1357,São Paulo,Lucas Pereira,Iphone,Louise Johnson,feminino,dinheiro
+2025-04-21 09:21:59.019459,1358,Juiz de Fora,Marcelo,Geladeira,Ernest Watson,masculino,boleto
+2025-04-21 09:51:03.180675,1359,Juiz de Fora,Marcelo,Iphone,Jacqueline Miller,feminino,boleto
+2025-04-21 10:06:58.301370,1360,São Brás,Cristina,Geladeira,Carroll Jones,feminino,boleto
+2025-04-21 13:25:05.448542,1361,Juiz de Fora,Marcelo,Iphone,Richard Sexton,masculino,cartão de crédito
+2025-04-21 13:37:03.598845,1362,São Paulo,Lucas Pereira,Smart Band 9 pro,Mabel Battle,feminino,pix
+2025-04-21 15:29:57.922405,1363,São Brás,Cristina,Iphone,Wendy Harcourt,feminino,cartão de crédito
+2025-04-22 06:29:59.375795,1364,São Paulo,Ana Oliveira,Iphone,Steve Jones,masculino,pix
+2025-04-22 07:22:05.460119,1365,Juiz de Fora,Marcelo,Iphone,Collette Mccabe,feminino,boleto
+2025-04-22 09:30:00.992935,1366,Belo Horizonte,Luiz,Smart Band 9 pro,Karla Munson,feminino,boleto
+2025-04-22 11:25:00.132104,1367,Juiz de Fora,Luiza,Smart Band 9 pro,Edgar Byrnes,masculino,pix
+2025-04-22 11:53:56.921279,1368,São Brás,Carlos,Geladeira,Matthew Greene,masculino,cartão de crédito
+2025-04-22 13:14:01.838277,1369,São Brás,Cristina,Geladeira,Rhonda Mitchell,feminino,boleto
+2025-04-22 15:05:02.462142,1370,São Brás,Cristina,Iphone,Rick Patton,masculino,pix
+2025-04-22 15:11:03.947891,1371,São Brás,Carlos,Iphone,Troy White,masculino,cartão de crédito
+2025-04-23 05:06:57.420232,1372,São Brás,Carlos,Guitar Condor,Eden Hammond,feminino,dinheiro
+2025-04-23 05:23:00.514701,1373,Juiz de Fora,Luiza,Geladeira,Adam Simmons,masculino,cartão de crédito
+2025-04-23 08:41:59.875829,1374,Belo Horizonte,Leticia,Iphone,Henry Melnick,masculino,cartão de crédito
+2025-04-23 08:47:59.150185,1375,São Paulo,Ana Oliveira,Smart Band 9 pro,Kathryn Mills,feminino,pix
+2025-04-23 11:06:04.696071,1376,Juiz de Fora,Luiza,Iphone,Chelsea Burke,feminino,cartão de crédito
+2025-04-23 12:00:00.931504,1377,Belo Horizonte,Luiz,Iphone,Katrina Izzo,feminino,cartão de crédito
+2025-04-23 12:22:04.432748,1378,Belo Horizonte,Leticia,Geladeira,Christine Laman,feminino,dinheiro
+2025-04-23 13:02:57.512664,1379,Belo Horizonte,Luiz,Iphone,Evelyn Mauffray,feminino,cartão de crédito
+2025-04-23 14:43:05.174934,1380,São Brás,Carlos,Iphone,James Ramos,masculino,pix
+2025-04-24 07:34:57.953000,1381,São Brás,Cristina,Guitar Condor,Heather Johnson,feminino,dinheiro
+2025-04-24 08:05:02.115432,1382,São Paulo,Lucas Pereira,Smart Band 9 pro,Lillie Cole,feminino,dinheiro
+2025-04-24 14:15:02.873130,1383,Belo Horizonte,Leticia,Geladeira,Jennifer Zurcher,feminino,cartão de crédito
+2025-04-24 15:04:56.390125,1384,Juiz de Fora,Luiza,Iphone,Angela Bryson,feminino,cartão de crédito
+2025-04-25 08:49:57.480658,1385,São Brás,Carlos,Iphone,John Respess,masculino,dinheiro
+2025-04-25 14:34:05.353833,1386,Juiz de Fora,Marcelo,Iphone,Wilma Hansen,feminino,cartão de crédito
+2025-04-25 14:50:00.189260,1387,Belo Horizonte,Luiz,Smart Band 9 pro,Mary Roberson,feminino,cartão de crédito
+2025-04-26 09:00:00.956464,1388,Juiz de Fora,Marcelo,Guitar Condor,Emmanuel Martino,masculino,dinheiro
+2025-04-26 13:48:57.828903,1389,Belo Horizonte,Leticia,Geladeira,Stephanie Ginsberg,feminino,boleto
+2025-04-26 14:14:05.675853,1390,Belo Horizonte,Luiz,Smart Band 9 pro,Martha Chisum,feminino,pix
+2025-04-27 07:00:58.221095,1391,Belo Horizonte,Luiz,Guitar Condor,James Scott,masculino,dinheiro
+2025-04-27 08:38:57.222894,1392,Juiz de Fora,Marcelo,Guitar Condor,Ronald Baskin,masculino,cartão de crédito
+2025-04-27 11:47:03.835289,1393,Belo Horizonte,Luiz,Guitar Condor,Jessica Mcnease,feminino,boleto
+2025-04-27 13:22:58.977294,1394,São Paulo,Lucas Pereira,Smart Band 9 pro,Wm Pough,masculino,cartão de crédito
+2025-04-28 07:36:00.419534,1395,São Paulo,Ana Oliveira,Guitar Condor,Elizabeth Campbell,feminino,pix
+2025-04-28 11:43:01.066132,1396,São Paulo,Ana Oliveira,Iphone,James Twitty,masculino,dinheiro
+2025-04-28 11:59:03.564770,1397,Belo Horizonte,Leticia,Iphone,Will Moses,masculino,pix
+2025-04-28 13:38:03.535153,1398,Juiz de Fora,Luiza,Guitar Condor,Judy Roman,feminino,pix
+2025-04-29 04:46:01.364252,1399,Juiz de Fora,Luiza,Geladeira,Rita Mosher,feminino,boleto
+2025-04-29 06:17:01.477375,1400,Belo Horizonte,Leticia,Geladeira,Arlene Tenda,feminino,dinheiro
+2025-04-29 06:54:56.378023,1401,São Paulo,Lucas Pereira,Guitar Condor,Laurie Kimble,feminino,boleto
+2025-04-30 06:40:00.245636,1402,Belo Horizonte,Leticia,Iphone,David Record,masculino,pix
+2025-04-30 07:40:00.693572,1403,Belo Horizonte,Leticia,Guitar Condor,Jennie Wright,feminino,pix
+2025-04-30 09:45:02.641622,1404,São Brás,Carlos,Iphone,Robert Crouse,masculino,boleto
+2025-04-30 10:42:00.840513,1405,Juiz de Fora,Luiza,Iphone,Connie Nardini,feminino,dinheiro
+2025-04-30 12:20:03.770858,1406,Belo Horizonte,Luiz,Iphone,Noella Jordan,feminino,boleto
+2025-05-01 06:41:00.502364,1407,Juiz de Fora,Luiza,Guitar Condor,Evelyn Silverman,feminino,boleto
+2025-05-01 07:26:05.654774,1408,São Paulo,Lucas Pereira,Guitar Condor,Christopher Skaggs,masculino,boleto
+2025-05-01 11:37:05.602777,1409,São Paulo,Ana Oliveira,Geladeira,Brian Casto,masculino,dinheiro
+2025-05-01 14:29:02.122866,1410,São Paulo,Ana Oliveira,Guitar Condor,Barbara Beard,feminino,dinheiro
+2025-05-02 05:34:04.800539,1411,Juiz de Fora,Marcelo,Geladeira,Martha Sanchez,feminino,boleto
+2025-05-02 06:24:02.197665,1412,São Paulo,Ana Oliveira,Geladeira,Brendan Cortez,masculino,cartão de crédito
+2025-05-02 09:22:05.154321,1413,São Paulo,Lucas Pereira,Iphone,Brian Patrick,masculino,cartão de crédito
+2025-05-02 14:45:00.634810,1414,Juiz de Fora,Luiza,Guitar Condor,Dwight Nesbitt,masculino,pix
+2025-05-02 15:24:03.486852,1415,São Brás,Carlos,Geladeira,Tomas Tapia,masculino,boleto
+2025-05-03 07:49:02.199259,1416,Juiz de Fora,Luiza,Guitar Condor,Barbara Arroyo,feminino,boleto
+2025-05-03 08:03:58.058141,1417,São Paulo,Ana Oliveira,Iphone,Irene Draper,feminino,cartão de crédito
+2025-05-03 13:41:01.883803,1418,São Paulo,Lucas Pereira,Guitar Condor,Kenneth Davis,masculino,boleto
+2025-05-03 14:02:00.655190,1419,Juiz de Fora,Marcelo,Guitar Condor,Robert Schellermann,masculino,boleto
+2025-05-04 06:02:57.647505,1420,São Brás,Cristina,Smart Band 9 pro,Megan Leary,feminino,cartão de crédito
+2025-05-04 06:27:01.778294,1421,São Brás,Carlos,Guitar Condor,Wesley Gottfried,masculino,dinheiro
+2025-05-04 10:41:00.157393,1422,São Paulo,Lucas Pereira,Geladeira,Thomas Jolley,masculino,pix
+2025-05-04 11:28:05.328889,1423,Juiz de Fora,Marcelo,Guitar Condor,Cynthia Lobur,feminino,dinheiro
+2025-05-05 06:33:02.371092,1424,Belo Horizonte,Luiz,Geladeira,Christine Peitz,feminino,cartão de crédito
+2025-05-05 09:31:02.612518,1425,Belo Horizonte,Luiz,Smart Band 9 pro,Emma Sharples,feminino,boleto
+2025-05-05 13:38:57.638039,1426,São Brás,Cristina,Smart Band 9 pro,Thomas Boyles,masculino,cartão de crédito
+2025-05-06 04:49:58.635294,1427,São Paulo,Ana Oliveira,Geladeira,David Pellicone,masculino,boleto
+2025-05-06 12:09:57.202863,1428,São Paulo,Lucas Pereira,Guitar Condor,Clara Gajewski,feminino,pix
+2025-05-06 12:14:58.303411,1429,São Brás,Cristina,Smart Band 9 pro,Karen Michaels,feminino,boleto
+2025-05-07 08:37:03.879805,1430,Belo Horizonte,Leticia,Iphone,James Cordero,masculino,cartão de crédito
+2025-05-07 08:46:04.234855,1431,São Brás,Cristina,Iphone,Joe Lindstedt,masculino,boleto
+2025-05-07 09:29:56.751334,1432,Juiz de Fora,Luiza,Iphone,Henry Bayer,masculino,dinheiro
+2025-05-08 04:52:02.912605,1433,São Paulo,Ana Oliveira,Iphone,Elizabeth Hollifield,feminino,pix
+2025-05-08 05:26:59.046809,1434,São Brás,Cristina,Smart Band 9 pro,Kimberly Friedman,feminino,pix
+2025-05-08 05:36:56.432723,1435,Belo Horizonte,Luiz,Smart Band 9 pro,Mark Rosa,masculino,dinheiro
+2025-05-08 07:43:58.066245,1436,Juiz de Fora,Marcelo,Geladeira,Anna Young,feminino,cartão de crédito
+2025-05-08 08:00:03.676245,1437,Juiz de Fora,Luiza,Iphone,Ralph Bachman,masculino,boleto
+2025-05-08 08:33:02.717074,1438,Belo Horizonte,Leticia,Guitar Condor,Arthur Funk,masculino,dinheiro
+2025-05-08 09:22:58.867218,1439,Belo Horizonte,Leticia,Geladeira,Katelyn Blackmon,feminino,dinheiro
+2025-05-08 10:19:02.958030,1440,São Paulo,Lucas Pereira,Smart Band 9 pro,Michael Stremming,masculino,dinheiro
+2025-05-08 12:47:03.024253,1441,São Paulo,Lucas Pereira,Smart Band 9 pro,Thomas Dickerson,masculino,dinheiro
+2025-05-09 08:59:59.984022,1442,Belo Horizonte,Leticia,Iphone,Norman Wile,masculino,dinheiro
+2025-05-09 09:16:59.887073,1443,São Brás,Carlos,Guitar Condor,Peter Acosta,masculino,dinheiro
+2025-05-09 09:50:05.673620,1444,Juiz de Fora,Marcelo,Smart Band 9 pro,Lucille Morrell,feminino,dinheiro
+2025-05-09 11:00:59.937561,1445,São Paulo,Lucas Pereira,Iphone,Larry Feldman,masculino,cartão de crédito
+2025-05-09 13:44:57.032378,1446,Belo Horizonte,Leticia,Guitar Condor,Teresa Mcafee,feminino,pix
+2025-05-10 09:50:00.721223,1447,Belo Horizonte,Luiz,Iphone,Eddie Almodovar,masculino,cartão de crédito
+2025-05-10 11:06:04.245639,1448,São Brás,Cristina,Guitar Condor,Bruce Obrien,masculino,boleto
+2025-05-10 12:34:59.250051,1449,São Brás,Carlos,Guitar Condor,Mary Rodrigues,feminino,pix
+2025-05-10 14:01:59.881225,1450,Juiz de Fora,Luiza,Guitar Condor,Lena Welsh,feminino,pix
+2025-05-10 15:07:00.451446,1451,São Brás,Cristina,Guitar Condor,Cassaundra Ramiez,feminino,dinheiro
+2025-05-11 05:38:00.817274,1452,Juiz de Fora,Marcelo,Iphone,Richard Vargas,masculino,boleto
+2025-05-11 06:16:04.176369,1453,São Paulo,Ana Oliveira,Geladeira,Michael Valentine,masculino,boleto
+2025-05-11 07:34:01.149483,1454,São Brás,Cristina,Smart Band 9 pro,James Rand,masculino,dinheiro
+2025-05-11 07:34:05.080921,1455,Juiz de Fora,Luiza,Smart Band 9 pro,Gregory Pulver,masculino,dinheiro
+2025-05-11 10:53:00.490698,1456,São Brás,Cristina,Smart Band 9 pro,Lawrence Langdon,masculino,cartão de crédito
+2025-05-11 15:45:05.487131,1457,Belo Horizonte,Luiz,Geladeira,William Vaughn,masculino,boleto
+2025-05-12 06:48:56.714306,1458,São Paulo,Ana Oliveira,Smart Band 9 pro,William Schultz,masculino,pix
+2025-05-12 07:59:02.610901,1459,Juiz de Fora,Luiza,Geladeira,Mary Arrington,feminino,pix
+2025-05-12 10:03:05.039045,1460,São Brás,Cristina,Geladeira,Pauline Gamache,feminino,cartão de crédito
+2025-05-12 11:13:04.935177,1461,Belo Horizonte,Luiz,Guitar Condor,Michelle Cronin,feminino,pix
+2025-05-12 11:21:57.028928,1462,Belo Horizonte,Luiz,Smart Band 9 pro,Annette Schuster,feminino,pix
+2025-05-12 11:55:05.086572,1463,São Paulo,Ana Oliveira,Iphone,Michael Siegel,masculino,cartão de crédito
+2025-05-12 12:21:02.623934,1464,Juiz de Fora,Marcelo,Geladeira,Andrew Stremming,masculino,cartão de crédito
+2025-05-12 14:13:02.052675,1465,Belo Horizonte,Leticia,Guitar Condor,Janet Ippolito,feminino,pix
+2025-05-12 15:43:01.457936,1466,São Paulo,Ana Oliveira,Smart Band 9 pro,Julie Wilbur,feminino,boleto
+2025-05-13 04:52:56.330163,1467,São Brás,Cristina,Iphone,Christopher Vines,masculino,dinheiro
+2025-05-13 06:26:03.096878,1468,Juiz de Fora,Luiza,Smart Band 9 pro,Darnell Zmolek,masculino,dinheiro
+2025-05-13 08:47:57.536714,1469,Belo Horizonte,Leticia,Iphone,John Whitney,masculino,boleto
+2025-05-13 14:26:59.760100,1470,São Brás,Cristina,Iphone,Kyle Reidinger,masculino,dinheiro
+2025-05-14 05:25:01.283640,1471,Juiz de Fora,Luiza,Guitar Condor,Margarita Mcmann,feminino,cartão de crédito
+2025-05-14 06:33:58.214824,1472,Juiz de Fora,Marcelo,Smart Band 9 pro,James Smith,masculino,cartão de crédito
+2025-05-14 08:51:02.061125,1473,São Brás,Cristina,Guitar Condor,Joan Dean,feminino,boleto
+2025-05-14 09:50:58.252155,1474,Juiz de Fora,Luiza,Iphone,Earl Coleman,masculino,dinheiro
+2025-05-14 10:12:56.594815,1475,Belo Horizonte,Leticia,Iphone,Ronnie Hughes,masculino,boleto
+2025-05-14 12:44:58.513656,1476,São Brás,Cristina,Iphone,Zachary Acker,masculino,dinheiro
+2025-05-14 13:16:59.147771,1477,Juiz de Fora,Marcelo,Geladeira,Bonnie Lamm,feminino,dinheiro
+2025-05-14 15:24:58.326225,1478,Belo Horizonte,Leticia,Smart Band 9 pro,Brian Mason,masculino,cartão de crédito
+2025-05-15 05:12:59.756589,1479,Juiz de Fora,Marcelo,Geladeira,John Sharkey,masculino,pix
+2025-05-15 07:41:58.742871,1480,São Brás,Carlos,Guitar Condor,Brenda Kim,feminino,boleto
+2025-05-15 08:38:03.894789,1481,São Brás,Cristina,Guitar Condor,Juli Johnson,feminino,dinheiro
+2025-05-15 09:53:01.675229,1482,Juiz de Fora,Luiza,Iphone,Frankie Patterson,feminino,dinheiro
+2025-05-15 11:40:04.367521,1483,São Brás,Cristina,Smart Band 9 pro,Jason Boulch,masculino,boleto
+2025-05-15 12:53:01.946840,1484,São Paulo,Lucas Pereira,Smart Band 9 pro,Camille Perino,feminino,pix
+2025-05-16 05:44:56.826131,1485,São Paulo,Ana Oliveira,Smart Band 9 pro,Stephen Perrez,masculino,pix
+2025-05-16 13:12:59.651586,1486,São Paulo,Lucas Pereira,Geladeira,Alexander Moore,masculino,dinheiro
+2025-05-16 14:36:58.336797,1487,Juiz de Fora,Luiza,Geladeira,Tommy Faulkner,masculino,cartão de crédito
+2025-05-16 14:44:57.764071,1488,Belo Horizonte,Leticia,Smart Band 9 pro,Willie Hufford,masculino,boleto
+2025-05-16 14:48:57.921138,1489,São Paulo,Lucas Pereira,Smart Band 9 pro,Veronica Blackwell,feminino,boleto
+2025-05-17 08:03:05.181063,1490,Juiz de Fora,Marcelo,Guitar Condor,Mike Caserta,masculino,dinheiro
+2025-05-17 12:32:03.759915,1491,São Brás,Carlos,Geladeira,Jay Frandsen,feminino,dinheiro
+2025-05-17 13:12:02.107190,1492,São Paulo,Lucas Pereira,Smart Band 9 pro,Ron Atwater,masculino,pix
+2025-05-18 06:04:57.708761,1493,Belo Horizonte,Luiz,Smart Band 9 pro,Richard Jenkins,masculino,cartão de crédito
+2025-05-18 08:57:05.120949,1494,São Paulo,Ana Oliveira,Guitar Condor,Victor Lee,masculino,pix
+2025-05-18 09:29:03.323105,1495,Juiz de Fora,Marcelo,Smart Band 9 pro,Ken Sullivan,masculino,cartão de crédito
+2025-05-18 11:40:04.159859,1496,São Paulo,Ana Oliveira,Iphone,Geoffrey Riston,masculino,dinheiro
+2025-05-18 11:56:03.941569,1497,São Brás,Carlos,Iphone,Kenneth Jones,masculino,dinheiro
+2025-05-19 06:20:57.915174,1498,Belo Horizonte,Luiz,Iphone,Clifton Colwell,masculino,cartão de crédito
+2025-05-19 06:45:00.820740,1499,Juiz de Fora,Marcelo,Smart Band 9 pro,Barbara Trapp,feminino,cartão de crédito
+2025-05-19 09:02:57.022450,1500,Juiz de Fora,Marcelo,Iphone,Lynne Floyd,feminino,dinheiro
+2025-05-19 09:37:04.777524,1501,Belo Horizonte,Leticia,Guitar Condor,John Hobbs,masculino,cartão de crédito
+2025-05-19 11:23:00.209231,1502,Juiz de Fora,Marcelo,Guitar Condor,Karyn Shisler,feminino,cartão de crédito
+2025-05-19 13:52:05.431342,1503,São Paulo,Ana Oliveira,Smart Band 9 pro,Gloria Crownover,feminino,cartão de crédito
+2025-05-19 14:06:58.947110,1504,São Paulo,Lucas Pereira,Geladeira,June Ray,feminino,boleto
+2025-05-19 15:39:01.522020,1505,São Paulo,Lucas Pereira,Smart Band 9 pro,Philip Barrett,masculino,boleto
+2025-05-20 05:17:58.695602,1506,Belo Horizonte,Luiz,Iphone,Michell Windly,feminino,boleto
+2025-05-20 05:19:58.242294,1507,Juiz de Fora,Marcelo,Guitar Condor,Gale Wilson,masculino,cartão de crédito
+2025-05-20 06:17:58.611937,1508,Juiz de Fora,Luiza,Smart Band 9 pro,Todd Witherspoon,masculino,dinheiro
+2025-05-20 09:12:56.657562,1509,São Brás,Cristina,Smart Band 9 pro,Kathy Goshorn,feminino,boleto
+2025-05-20 11:35:58.170043,1510,Juiz de Fora,Luiza,Smart Band 9 pro,Lois Wedemeyer,feminino,dinheiro
+2025-05-20 12:59:58.679546,1511,Juiz de Fora,Marcelo,Iphone,Kimberly Yockers,feminino,cartão de crédito
+2025-05-20 14:55:57.043796,1512,Juiz de Fora,Luiza,Iphone,Mark Atwell,masculino,cartão de crédito
+2025-05-21 08:22:00.416755,1513,Juiz de Fora,Luiza,Guitar Condor,Heidi Keyser,feminino,cartão de crédito
+2025-05-21 11:05:00.521207,1514,São Brás,Carlos,Iphone,John Williams,masculino,dinheiro
+2025-05-21 11:36:04.791034,1515,São Brás,Carlos,Iphone,Tammy May,feminino,pix
+2025-05-21 12:23:04.585160,1516,Belo Horizonte,Leticia,Geladeira,Tony Byrd,masculino,cartão de crédito
+2025-05-21 12:47:05.646559,1517,São Paulo,Ana Oliveira,Guitar Condor,Robert Farias,masculino,dinheiro
+2025-05-22 07:36:56.400666,1518,Juiz de Fora,Luiza,Iphone,Juanita Feurtado,feminino,pix
+2025-05-22 08:08:56.862261,1519,São Brás,Carlos,Guitar Condor,Carolyn Lowery,feminino,boleto
+2025-05-22 08:27:02.112952,1520,São Brás,Carlos,Geladeira,Charles Joseph,masculino,cartão de crédito
+2025-05-22 09:53:59.717844,1521,Belo Horizonte,Leticia,Geladeira,Joshua King,masculino,dinheiro
+2025-05-22 11:08:58.023840,1522,Juiz de Fora,Luiza,Smart Band 9 pro,Gary Szczesny,masculino,dinheiro
+2025-05-22 11:47:04.293125,1523,São Paulo,Lucas Pereira,Geladeira,Anthony Whitten,masculino,pix
+2025-05-22 13:55:57.846310,1524,Belo Horizonte,Luiz,Smart Band 9 pro,Mary Armstrong,feminino,pix
+2025-05-22 14:45:02.985929,1525,São Brás,Cristina,Geladeira,Velma Seifert,feminino,pix
+2025-05-23 06:53:02.472872,1526,São Brás,Cristina,Iphone,Angela Waiters,feminino,pix
+2025-05-23 11:50:59.691949,1527,São Paulo,Lucas Pereira,Geladeira,James Crowley,masculino,pix
+2025-05-23 15:17:59.688970,1528,São Brás,Cristina,Smart Band 9 pro,Alma Burch,feminino,cartão de crédito
+2025-05-24 06:55:03.418939,1529,São Brás,Cristina,Iphone,Zachary Fields,masculino,cartão de crédito
+2025-05-24 08:47:05.004003,1530,Juiz de Fora,Marcelo,Geladeira,Samuel Horne,masculino,dinheiro
+2025-05-24 10:45:03.493912,1531,São Brás,Carlos,Geladeira,Casey Medina,feminino,cartão de crédito
+2025-05-24 11:03:03.546613,1532,São Brás,Carlos,Geladeira,Gerald Gordon,masculino,cartão de crédito
+2025-05-24 11:04:00.894970,1533,Belo Horizonte,Luiz,Iphone,Sally Graziano,feminino,dinheiro
+2025-05-24 12:32:57.634843,1534,Juiz de Fora,Luiza,Geladeira,Bobby Hopper,masculino,dinheiro
+2025-05-24 13:31:00.394015,1535,Juiz de Fora,Luiza,Smart Band 9 pro,Julie Brenneman,feminino,cartão de crédito
+2025-05-24 15:37:56.796808,1536,São Paulo,Lucas Pereira,Geladeira,Edwin Foreman,masculino,dinheiro
+2025-05-25 07:27:57.149517,1537,São Paulo,Lucas Pereira,Guitar Condor,Shirley Bannister,feminino,pix
+2025-05-25 08:01:01.076083,1538,Belo Horizonte,Luiz,Geladeira,Jeanetta Llanas,feminino,pix
+2025-05-25 08:17:57.904426,1539,São Paulo,Lucas Pereira,Smart Band 9 pro,Benny Hatchett,masculino,pix
+2025-05-25 10:45:56.695513,1540,Belo Horizonte,Leticia,Geladeira,Carol Caldwell,feminino,boleto
+2025-05-25 12:14:02.290860,1541,Juiz de Fora,Marcelo,Guitar Condor,Vera Littlefield,feminino,pix
+2025-05-26 04:45:00.076751,1542,Juiz de Fora,Luiza,Smart Band 9 pro,Robert Cooper,masculino,pix
+2025-05-26 05:05:05.204582,1543,Belo Horizonte,Leticia,Geladeira,Maynard Duty,masculino,dinheiro
+2025-05-26 05:19:03.953580,1544,São Brás,Cristina,Iphone,Arlen Owens,masculino,dinheiro
+2025-05-26 05:58:02.177173,1545,Juiz de Fora,Luiza,Guitar Condor,Martin Whitener,masculino,boleto
+2025-05-26 07:06:59.726716,1546,Juiz de Fora,Luiza,Guitar Condor,Tammy Figgs,feminino,pix
+2025-05-26 07:26:03.900116,1547,São Brás,Cristina,Geladeira,Shawna Mcfaul,feminino,boleto
+2025-05-26 08:37:00.601442,1548,Juiz de Fora,Luiza,Iphone,Lanell Emberling,feminino,boleto
+2025-05-26 10:10:01.843771,1549,Belo Horizonte,Luiz,Guitar Condor,Kelvin Cady,masculino,dinheiro
+2025-05-26 11:57:59.255376,1550,São Brás,Cristina,Guitar Condor,Hector Kaiser,masculino,cartão de crédito
+2025-05-26 12:01:00.640212,1551,São Brás,Carlos,Geladeira,Joseph Johnson,masculino,dinheiro
+2025-05-26 12:52:03.757257,1552,São Brás,Cristina,Smart Band 9 pro,Eleanor Grimm,feminino,pix
+2025-05-27 06:47:04.303586,1553,Juiz de Fora,Luiza,Geladeira,Jamie Smallwood,masculino,boleto
+2025-05-27 08:48:58.924195,1554,São Paulo,Lucas Pereira,Iphone,Anna Benner,feminino,dinheiro
+2025-05-27 09:15:59.719064,1555,Juiz de Fora,Marcelo,Geladeira,Darcie Gowans,feminino,cartão de crédito
+2025-05-27 12:50:58.610452,1556,Belo Horizonte,Leticia,Guitar Condor,Richard Mcgee,masculino,pix
+2025-05-27 13:59:02.581283,1557,Juiz de Fora,Marcelo,Iphone,Margarita Christopher,feminino,boleto
+2025-05-28 08:14:58.419469,1558,São Brás,Cristina,Smart Band 9 pro,Mary Paine,feminino,dinheiro
+2025-05-28 10:54:00.224758,1559,São Brás,Carlos,Smart Band 9 pro,Kelvin Majure,masculino,dinheiro
+2025-05-28 13:03:59.168912,1560,São Paulo,Ana Oliveira,Geladeira,Michael Voss,masculino,cartão de crédito
+2025-05-28 14:52:56.384026,1561,São Paulo,Ana Oliveira,Geladeira,Jack Hall,masculino,boleto
+2025-05-29 05:21:59.132810,1562,São Brás,Cristina,Geladeira,Jayne Dimaggio,feminino,boleto
+2025-05-29 10:40:57.429035,1563,Belo Horizonte,Leticia,Geladeira,Pauline Pacifico,feminino,pix
+2025-05-29 15:01:04.016485,1564,São Paulo,Lucas Pereira,Geladeira,Joyce Darden,feminino,cartão de crédito
+2025-05-30 05:38:00.512349,1565,São Brás,Carlos,Smart Band 9 pro,Lawrence Luna,masculino,pix
+2025-05-30 06:41:58.264464,1566,São Paulo,Ana Oliveira,Geladeira,Robert Cortez,masculino,dinheiro
+2025-05-30 09:11:02.008977,1567,São Paulo,Lucas Pereira,Guitar Condor,Paulina Davis,feminino,cartão de crédito
+2025-05-30 12:29:56.381435,1568,Belo Horizonte,Luiz,Iphone,Robert Landis,masculino,dinheiro
+2025-05-30 13:17:02.340389,1569,São Brás,Carlos,Smart Band 9 pro,Kimberly Boswell,feminino,boleto
+2025-05-30 15:43:01.292894,1570,São Paulo,Ana Oliveira,Guitar Condor,Maria Wright,feminino,boleto
+2025-05-31 06:45:05.698272,1571,Juiz de Fora,Marcelo,Iphone,Anthony Jones,masculino,boleto
+2025-05-31 10:13:05.287885,1572,São Paulo,Lucas Pereira,Guitar Condor,Michael Scherer,masculino,pix
+2025-05-31 15:17:05.228993,1573,Juiz de Fora,Luiza,Guitar Condor,Jennifer Brotzman,feminino,boleto
+2025-06-01 06:40:57.791497,1574,Belo Horizonte,Luiz,Smart Band 9 pro,Shana Adams,feminino,pix
+2025-06-01 07:04:56.909872,1575,Juiz de Fora,Marcelo,Guitar Condor,Gene Heatherington,masculino,pix
+2025-06-01 08:10:03.942783,1576,São Brás,Cristina,Iphone,Rosalie Northrup,feminino,pix
+2025-06-01 09:17:01.360393,1577,São Paulo,Ana Oliveira,Smart Band 9 pro,Patricia Lewis,feminino,cartão de crédito
+2025-06-01 14:53:05.227223,1578,São Paulo,Lucas Pereira,Guitar Condor,Franklin Robinson,masculino,cartão de crédito
+2025-06-02 07:22:00.939613,1579,São Brás,Carlos,Iphone,Peter Spradling,masculino,pix
+2025-06-02 07:24:04.121180,1580,São Brás,Cristina,Guitar Condor,Selina Vanochten,feminino,dinheiro
+2025-06-02 11:49:59.571492,1581,São Paulo,Lucas Pereira,Iphone,Joseph Plaut,masculino,dinheiro
+2025-06-02 12:08:57.510331,1582,Juiz de Fora,Luiza,Geladeira,Christopher Bigelow,masculino,pix
+2025-06-03 06:17:59.944757,1583,São Paulo,Ana Oliveira,Geladeira,Garrett Pennington,masculino,dinheiro
+2025-06-03 06:43:58.594222,1584,Belo Horizonte,Luiz,Geladeira,Joseph Morales,masculino,dinheiro
+2025-06-03 09:39:57.994433,1585,São Paulo,Ana Oliveira,Guitar Condor,Catherine Iwanowski,feminino,boleto
+2025-06-04 05:15:05.665414,1586,Belo Horizonte,Luiz,Guitar Condor,David Guzman,masculino,pix
+2025-06-04 06:22:02.540097,1587,Belo Horizonte,Leticia,Smart Band 9 pro,Mariana Nastasi,feminino,pix
+2025-06-04 08:01:02.584208,1588,Juiz de Fora,Marcelo,Iphone,William Longhurst,masculino,pix
+2025-06-04 08:05:57.013128,1589,Juiz de Fora,Luiza,Guitar Condor,Aileen Mccullough,feminino,dinheiro
+2025-06-04 10:33:04.908772,1590,Juiz de Fora,Luiza,Guitar Condor,Steven Kincheloe,masculino,boleto
+2025-06-04 11:44:56.596075,1591,Belo Horizonte,Luiz,Iphone,Tom Most,masculino,boleto
+2025-06-04 11:59:05.453677,1592,São Brás,Cristina,Geladeira,Nellie Hancock,feminino,boleto
+2025-06-04 15:33:56.823520,1593,São Paulo,Ana Oliveira,Iphone,Samuel Rose,masculino,pix
+2025-06-04 15:38:57.469749,1594,Belo Horizonte,Luiz,Guitar Condor,Glen Strand,masculino,boleto
+2025-06-05 05:50:57.211613,1595,São Brás,Carlos,Smart Band 9 pro,Melanie Campbell,feminino,cartão de crédito
+2025-06-05 09:02:02.482416,1596,São Paulo,Ana Oliveira,Iphone,Dawn Palmer,feminino,pix
+2025-06-05 10:24:58.109994,1597,São Brás,Carlos,Smart Band 9 pro,Lowell Rose,masculino,cartão de crédito
+2025-06-05 10:42:59.207705,1598,Belo Horizonte,Luiz,Guitar Condor,Aretha Wiebe,feminino,dinheiro
+2025-06-05 15:25:58.607647,1599,São Paulo,Lucas Pereira,Geladeira,John Marquez,masculino,cartão de crédito
+2025-06-06 06:16:04.427290,1600,São Brás,Cristina,Smart Band 9 pro,James White,masculino,dinheiro
+2025-06-06 08:59:02.817434,1601,Juiz de Fora,Luiza,Geladeira,Linda Hamilton,feminino,boleto
+2025-06-06 14:28:03.050282,1602,Belo Horizonte,Luiz,Smart Band 9 pro,Thomas Pineda,masculino,dinheiro
+2025-06-07 05:13:05.012074,1603,São Brás,Cristina,Geladeira,Gabriel Fuhr,masculino,dinheiro
+2025-06-07 08:06:02.302372,1604,São Brás,Cristina,Geladeira,Maureen Glaser,feminino,pix
+2025-06-07 08:18:58.586616,1605,São Paulo,Ana Oliveira,Smart Band 9 pro,Paul Hendrick,masculino,boleto
+2025-06-07 08:19:01.846462,1606,Juiz de Fora,Luiza,Smart Band 9 pro,Lydia Marnell,feminino,boleto
+2025-06-07 08:52:00.302774,1607,São Brás,Cristina,Guitar Condor,Delia Diehl,feminino,cartão de crédito
+2025-06-07 08:57:56.725866,1608,Juiz de Fora,Luiza,Smart Band 9 pro,Helen Mack,feminino,cartão de crédito
+2025-06-07 09:28:59.546000,1609,Belo Horizonte,Luiz,Geladeira,Jennifer Smith,feminino,dinheiro
+2025-06-07 09:45:04.157480,1610,Juiz de Fora,Luiza,Smart Band 9 pro,Gerri Beasley,feminino,cartão de crédito
+2025-06-07 13:48:58.245926,1611,Juiz de Fora,Luiza,Geladeira,Susana Walls,feminino,pix
+2025-06-07 14:43:05.001192,1612,São Paulo,Lucas Pereira,Guitar Condor,Leslie Robinson,feminino,pix
+2025-06-07 14:45:58.409059,1613,São Brás,Cristina,Iphone,Dorothy Thomas,feminino,boleto
+2025-06-08 07:30:04.534009,1614,Belo Horizonte,Leticia,Geladeira,Robert Gay,masculino,cartão de crédito
+2025-06-08 09:10:00.183414,1615,São Brás,Carlos,Geladeira,Irene Thomas,feminino,cartão de crédito
+2025-06-08 12:34:04.094558,1616,São Brás,Carlos,Smart Band 9 pro,Terri Powers,feminino,cartão de crédito
+2025-06-08 13:20:05.428896,1617,São Paulo,Lucas Pereira,Guitar Condor,Steven Walters,masculino,pix
+2025-06-08 14:01:03.297262,1618,Juiz de Fora,Luiza,Geladeira,Andrew Flamer,masculino,boleto
+2025-06-08 14:25:02.125419,1619,São Brás,Carlos,Iphone,Greta Ryan,feminino,pix
+2025-06-09 07:13:03.114502,1620,São Brás,Carlos,Iphone,Esmeralda Thorn,feminino,dinheiro
+2025-06-09 07:49:56.680085,1621,Belo Horizonte,Luiz,Smart Band 9 pro,Calvin Toth,masculino,cartão de crédito
+2025-06-09 08:12:59.809197,1622,Belo Horizonte,Luiz,Iphone,Shanell Mingo,feminino,boleto
+2025-06-09 12:52:59.307772,1623,São Paulo,Lucas Pereira,Guitar Condor,Cyril Haggett,masculino,boleto
+2025-06-10 09:41:57.014634,1624,Juiz de Fora,Marcelo,Geladeira,Regina Santamaria,feminino,boleto
+2025-06-10 13:43:05.417165,1625,São Brás,Cristina,Guitar Condor,Tammy Kline,feminino,cartão de crédito
+2025-06-10 13:44:57.656182,1626,São Brás,Carlos,Guitar Condor,Scott Taylor,masculino,boleto
+2025-06-11 05:42:57.163881,1627,Juiz de Fora,Luiza,Geladeira,Matthew Henry,masculino,boleto
+2025-06-11 08:49:04.180213,1628,São Paulo,Lucas Pereira,Iphone,Mary Hamilton,feminino,pix
+2025-06-11 09:35:05.248637,1629,São Brás,Cristina,Geladeira,Robby Chester,masculino,cartão de crédito
+2025-06-12 10:13:57.153317,1630,Belo Horizonte,Leticia,Smart Band 9 pro,Paul Nailor,masculino,dinheiro
+2025-06-12 11:36:59.129464,1631,Belo Horizonte,Luiz,Smart Band 9 pro,Heather Cobb,feminino,boleto
+2025-06-12 13:00:04.694405,1632,Juiz de Fora,Luiza,Iphone,Elizabeth Conway,feminino,dinheiro
+2025-06-13 06:29:02.814272,1633,Belo Horizonte,Luiz,Iphone,Dan Jackson,masculino,pix
+2025-06-13 07:36:00.201587,1634,Belo Horizonte,Luiz,Guitar Condor,Amanda Moore,feminino,dinheiro
+2025-06-13 07:58:01.441473,1635,Juiz de Fora,Marcelo,Geladeira,James Ruiz,masculino,boleto
+2025-06-13 08:10:04.681256,1636,São Brás,Carlos,Smart Band 9 pro,Terrance Drost,masculino,cartão de crédito
+2025-06-13 13:56:56.474742,1637,São Paulo,Lucas Pereira,Geladeira,Thomas Peacock,masculino,cartão de crédito
+2025-06-14 05:50:57.337215,1638,Juiz de Fora,Luiza,Iphone,Diane Turner,feminino,dinheiro
+2025-06-14 06:45:03.990888,1639,Juiz de Fora,Luiza,Guitar Condor,Nancy Macias,feminino,cartão de crédito
+2025-06-14 09:13:56.566571,1640,São Paulo,Lucas Pereira,Geladeira,Mark Greenberg,masculino,cartão de crédito
+2025-06-14 10:51:04.597150,1641,São Paulo,Lucas Pereira,Smart Band 9 pro,Lucy Gomez,feminino,dinheiro
+2025-06-14 14:06:03.601320,1642,São Paulo,Lucas Pereira,Guitar Condor,Bobby Crowell,masculino,cartão de crédito
+2025-06-14 14:23:59.950588,1643,Belo Horizonte,Luiz,Smart Band 9 pro,Brian Hamilton,masculino,pix
+2025-06-14 14:36:58.614349,1644,São Brás,Carlos,Iphone,Jean Castillo,feminino,cartão de crédito
+2025-06-15 06:45:05.136415,1645,Juiz de Fora,Marcelo,Iphone,Dustin Leigh,masculino,dinheiro
+2025-06-15 09:10:00.406637,1646,São Brás,Cristina,Smart Band 9 pro,Stanley Willis,masculino,pix
+2025-06-15 14:35:02.978760,1647,São Paulo,Lucas Pereira,Smart Band 9 pro,John Hoch,masculino,cartão de crédito
+2025-06-15 15:27:57.751698,1648,Belo Horizonte,Leticia,Smart Band 9 pro,Darrell Brenner,masculino,dinheiro
+2025-06-16 06:36:56.755280,1649,São Brás,Carlos,Geladeira,Bryan Ford,masculino,cartão de crédito
+2025-06-16 07:24:59.904539,1650,São Brás,Carlos,Geladeira,Mary Byrnes,feminino,cartão de crédito
+2025-06-16 07:36:59.091558,1651,São Brás,Cristina,Smart Band 9 pro,Tomi Gutierrez,feminino,pix
+2025-06-16 13:56:04.792066,1652,São Paulo,Ana Oliveira,Guitar Condor,Sarah Ellis,feminino,pix
+2025-06-17 07:23:02.437156,1653,São Paulo,Ana Oliveira,Smart Band 9 pro,Glenn Clum,masculino,cartão de crédito
+2025-06-17 11:10:03.644615,1654,Belo Horizonte,Luiz,Smart Band 9 pro,Gail Tschanz,feminino,pix
+2025-06-17 12:38:02.312883,1655,São Brás,Cristina,Iphone,James Satchell,masculino,dinheiro
+2025-06-17 14:53:00.901929,1656,São Brás,Cristina,Iphone,Daniel Arreola,masculino,cartão de crédito
+2025-06-18 06:28:57.532354,1657,Belo Horizonte,Leticia,Guitar Condor,Phillip Lynch,masculino,boleto
+2025-06-18 06:50:03.547771,1658,São Paulo,Lucas Pereira,Guitar Condor,Steven Mcmullen,masculino,dinheiro
+2025-06-18 06:52:02.189298,1659,São Brás,Carlos,Iphone,Alicia Ross,feminino,pix
+2025-06-18 09:43:05.543424,1660,Juiz de Fora,Luiza,Iphone,Shane Powell,masculino,dinheiro
+2025-06-18 14:30:57.827529,1661,Belo Horizonte,Leticia,Geladeira,Richard Reynolds,masculino,pix
+2025-06-19 05:04:04.178226,1662,São Brás,Carlos,Iphone,Hilda Lucas,feminino,cartão de crédito
+2025-06-19 05:22:00.067654,1663,São Paulo,Lucas Pereira,Guitar Condor,Joe Bowers,masculino,cartão de crédito
+2025-06-19 05:45:56.721604,1664,São Paulo,Lucas Pereira,Geladeira,Richard Carter,masculino,cartão de crédito
+2025-06-19 06:02:05.522225,1665,São Paulo,Ana Oliveira,Iphone,Martha Lukens,feminino,cartão de crédito
+2025-06-19 06:05:57.142727,1666,Juiz de Fora,Luiza,Iphone,Edith Poole,feminino,pix
+2025-06-19 07:26:05.375393,1667,Belo Horizonte,Leticia,Smart Band 9 pro,Constance Owens,feminino,boleto
+2025-06-19 13:15:02.708768,1668,Juiz de Fora,Luiza,Smart Band 9 pro,Kenneth Chandler,masculino,dinheiro
+2025-06-19 14:15:58.413501,1669,São Paulo,Lucas Pereira,Iphone,Adam Gordon,masculino,boleto
+2025-06-20 05:38:58.431567,1670,São Brás,Cristina,Iphone,Breanna Barta,feminino,boleto
+2025-06-20 06:44:58.318204,1671,Juiz de Fora,Marcelo,Iphone,Virginia Spikes,feminino,boleto
+2025-06-20 12:42:56.342178,1672,São Brás,Carlos,Guitar Condor,Martha Cisco,feminino,dinheiro
+2025-06-21 05:51:00.648195,1673,São Paulo,Lucas Pereira,Guitar Condor,Joseph Cameron,masculino,cartão de crédito
+2025-06-21 09:54:56.860628,1674,Belo Horizonte,Leticia,Guitar Condor,Robert Heller,masculino,pix
+2025-06-21 10:51:05.444313,1675,São Brás,Cristina,Geladeira,Robert Deans,masculino,dinheiro
+2025-06-21 12:16:57.286754,1676,Belo Horizonte,Leticia,Smart Band 9 pro,Andres Hohl,masculino,boleto
+2025-06-22 07:49:04.520665,1677,São Brás,Cristina,Geladeira,Marie Aguiar,feminino,pix
+2025-06-22 11:04:00.772600,1678,São Paulo,Lucas Pereira,Smart Band 9 pro,Robert Johnson,masculino,dinheiro
+2025-06-23 06:04:04.096325,1679,São Brás,Carlos,Smart Band 9 pro,Christina Mccomber,feminino,boleto
+2025-06-23 06:58:04.305390,1680,Juiz de Fora,Luiza,Guitar Condor,Joy Purcell,feminino,boleto
+2025-06-23 09:00:05.789872,1681,São Paulo,Ana Oliveira,Geladeira,Jesica Lanzilotta,feminino,pix
+2025-06-23 09:06:57.213702,1682,São Paulo,Lucas Pereira,Iphone,Marilyn Albertson,feminino,cartão de crédito
+2025-06-23 14:19:00.698368,1683,São Brás,Cristina,Guitar Condor,Danielle White,feminino,cartão de crédito
+2025-06-24 05:13:04.348275,1684,Belo Horizonte,Leticia,Smart Band 9 pro,Joan Nelson,masculino,cartão de crédito
+2025-06-24 05:21:56.720048,1685,Belo Horizonte,Luiz,Smart Band 9 pro,Johnny Campbell,masculino,pix
+2025-06-24 09:26:01.411531,1686,São Brás,Carlos,Iphone,Polly Phillips,feminino,dinheiro
+2025-06-24 10:33:04.529055,1687,São Paulo,Lucas Pereira,Smart Band 9 pro,Angelita Hibbard,feminino,pix
+2025-06-24 13:11:58.908778,1688,São Brás,Cristina,Smart Band 9 pro,Tiffany Thomas,feminino,boleto
+2025-06-25 04:52:57.478312,1689,Belo Horizonte,Leticia,Guitar Condor,Kristopher Hawkins,masculino,dinheiro
+2025-06-25 09:16:58.580249,1690,Juiz de Fora,Marcelo,Iphone,Leslie Johnston,feminino,boleto
+2025-06-25 11:40:03.937948,1691,Belo Horizonte,Luiz,Iphone,Luis Oneal,masculino,dinheiro
+2025-06-25 12:46:05.072222,1692,Juiz de Fora,Marcelo,Smart Band 9 pro,Amanda Smith,feminino,dinheiro
+2025-06-25 13:41:01.512847,1693,São Brás,Carlos,Geladeira,Jessica Prendergast,feminino,boleto
+2025-06-25 14:37:00.398844,1694,Juiz de Fora,Luiza,Iphone,Martha Swenson,feminino,dinheiro
+2025-06-26 05:06:02.983047,1695,São Paulo,Ana Oliveira,Iphone,Lydia Park,feminino,cartão de crédito
+2025-06-26 06:49:03.398071,1696,Belo Horizonte,Luiz,Geladeira,Frederick Warner,masculino,cartão de crédito
+2025-06-26 07:03:58.850904,1697,Belo Horizonte,Luiz,Geladeira,Elizabeth Nelson,feminino,cartão de crédito
+2025-06-26 12:06:00.888362,1698,Belo Horizonte,Leticia,Smart Band 9 pro,Dennis Leffler,masculino,boleto
+2025-06-26 12:20:58.222816,1699,São Paulo,Ana Oliveira,Smart Band 9 pro,Dave Jones,masculino,dinheiro
+2025-06-26 13:00:57.747298,1700,São Brás,Cristina,Guitar Condor,Gladys Houle,feminino,boleto
+2025-06-27 07:49:58.410254,1701,Juiz de Fora,Luiza,Smart Band 9 pro,Ernesto Caputo,masculino,boleto
+2025-06-27 11:16:58.467245,1702,Juiz de Fora,Luiza,Geladeira,Olga Presley,feminino,pix
+2025-06-28 05:09:04.890007,1703,Belo Horizonte,Leticia,Iphone,David Cawley,masculino,dinheiro
+2025-06-28 06:13:03.792949,1704,São Brás,Carlos,Geladeira,Jim Yates,masculino,dinheiro
+2025-06-28 06:19:59.752868,1705,Belo Horizonte,Luiz,Geladeira,Curtis Harrington,masculino,pix
+2025-06-28 08:54:59.790988,1706,São Paulo,Ana Oliveira,Smart Band 9 pro,Kyle Purpura,masculino,dinheiro
+2025-06-28 09:17:56.806195,1707,Belo Horizonte,Leticia,Iphone,Susan Cahee,feminino,pix
+2025-06-29 05:34:58.885308,1708,Juiz de Fora,Luiza,Guitar Condor,Sherri Clark,feminino,dinheiro
+2025-06-29 06:11:00.100370,1709,Juiz de Fora,Luiza,Smart Band 9 pro,Ethan Alexandre,masculino,cartão de crédito
+2025-06-29 10:28:01.462082,1710,São Brás,Carlos,Smart Band 9 pro,Ruby Boothe,feminino,cartão de crédito
+2025-06-29 12:25:59.992302,1711,Juiz de Fora,Marcelo,Iphone,William Kramer,masculino,boleto
+2025-06-29 13:01:04.066573,1712,São Brás,Cristina,Geladeira,Jeffrey Gray,masculino,cartão de crédito
+2025-06-29 15:37:03.568867,1713,São Paulo,Ana Oliveira,Iphone,Chad Fields,masculino,cartão de crédito
+2025-06-30 05:55:02.124246,1714,São Brás,Carlos,Guitar Condor,Erin Fernandez,feminino,pix
+2025-06-30 06:26:00.567522,1715,Juiz de Fora,Luiza,Iphone,Henry Cook,masculino,pix
+2025-06-30 06:49:59.371214,1716,São Brás,Carlos,Iphone,Janet Wilson,feminino,dinheiro
+2025-06-30 08:35:02.755197,1717,Belo Horizonte,Leticia,Iphone,Helen Skelton,feminino,dinheiro
+2025-06-30 10:40:00.190305,1718,Belo Horizonte,Leticia,Smart Band 9 pro,Marc Henning,masculino,pix
+2025-06-30 14:03:04.364261,1719,São Brás,Cristina,Smart Band 9 pro,Sheena Olivas,feminino,boleto
+2025-06-30 14:51:03.421999,1720,Juiz de Fora,Luiza,Smart Band 9 pro,Scott Walker,masculino,dinheiro
+2025-06-30 14:59:58.371518,1721,São Brás,Cristina,Guitar Condor,Marie Anderson,feminino,dinheiro
+2025-06-30 15:13:04.872927,1722,São Brás,Cristina,Guitar Condor,Willie Davis,masculino,pix
+2025-06-30 15:34:56.327435,1723,São Paulo,Ana Oliveira,Iphone,Jennifer Lockwood,feminino,dinheiro
+2025-07-01 05:45:58.135141,1724,Juiz de Fora,Marcelo,Geladeira,Sally Steverson,feminino,pix
+2025-07-01 07:04:02.300066,1725,São Paulo,Ana Oliveira,Smart Band 9 pro,Linda Conover,feminino,dinheiro
+2025-07-02 05:59:02.815782,1726,São Paulo,Lucas Pereira,Geladeira,Randy Chen,masculino,dinheiro
+2025-07-02 06:04:03.553124,1727,São Paulo,Ana Oliveira,Geladeira,James Smith,masculino,boleto
+2025-07-02 06:40:59.261387,1728,Juiz de Fora,Marcelo,Guitar Condor,Gary Weatherly,masculino,boleto
+2025-07-02 11:47:59.301953,1729,Juiz de Fora,Luiza,Smart Band 9 pro,Terry Simmons,masculino,pix
+2025-07-02 11:53:58.589156,1730,São Paulo,Lucas Pereira,Iphone,June Olson,feminino,dinheiro
+2025-07-02 12:15:03.886561,1731,Juiz de Fora,Luiza,Guitar Condor,Carole Felty,feminino,dinheiro
+2025-07-02 13:03:59.171637,1732,Belo Horizonte,Luiz,Smart Band 9 pro,Enrique Henley,masculino,pix
+2025-07-03 07:59:57.423945,1733,Juiz de Fora,Marcelo,Geladeira,Stephen Guzman,masculino,boleto
+2025-07-03 09:11:01.146703,1734,São Brás,Cristina,Smart Band 9 pro,Cindy Chandler,feminino,boleto
+2025-07-03 11:38:04.283343,1735,São Paulo,Lucas Pereira,Smart Band 9 pro,Carla Rostad,feminino,boleto
+2025-07-03 12:23:03.769504,1736,Belo Horizonte,Luiz,Guitar Condor,Evelyn West,feminino,cartão de crédito
+2025-07-04 05:44:57.404919,1737,São Brás,Carlos,Guitar Condor,Rose Price,feminino,boleto
+2025-07-04 07:12:56.425176,1738,Juiz de Fora,Marcelo,Smart Band 9 pro,Debra Parada,feminino,cartão de crédito
+2025-07-04 07:27:04.815277,1739,São Brás,Cristina,Geladeira,James Archer,masculino,dinheiro
+2025-07-04 08:25:59.776155,1740,Juiz de Fora,Luiza,Smart Band 9 pro,Vanessa Coston,feminino,dinheiro
+2025-07-04 10:03:02.086169,1741,Belo Horizonte,Leticia,Guitar Condor,Shawna Bembry,feminino,pix
+2025-07-05 05:48:05.177448,1742,São Brás,Carlos,Smart Band 9 pro,James Wilson,masculino,dinheiro
+2025-07-05 05:52:57.463367,1743,Belo Horizonte,Leticia,Iphone,Justin Sallee,masculino,cartão de crédito
+2025-07-05 06:54:01.221037,1744,São Paulo,Lucas Pereira,Iphone,Henry Coffman,masculino,boleto
+2025-07-05 07:47:01.044911,1745,São Brás,Carlos,Geladeira,Sonia Sandy,feminino,cartão de crédito
+2025-07-05 10:40:02.011091,1746,Belo Horizonte,Leticia,Smart Band 9 pro,Eugene Garcia,masculino,boleto
+2025-07-05 14:03:03.570006,1747,São Brás,Carlos,Guitar Condor,Michael Gayne,masculino,cartão de crédito
+2025-07-05 14:52:57.953996,1748,São Paulo,Ana Oliveira,Iphone,Ronnie Holt,feminino,cartão de crédito
+2025-07-07 06:12:56.901132,1749,São Brás,Cristina,Smart Band 9 pro,Clarence Frankel,masculino,boleto
+2025-07-07 10:11:00.904407,1750,São Brás,Cristina,Guitar Condor,Florence Reager,feminino,dinheiro
+2025-07-07 10:20:59.142702,1751,São Paulo,Lucas Pereira,Geladeira,Billy Matthews,masculino,dinheiro
+2025-07-07 10:28:02.364978,1752,Belo Horizonte,Leticia,Geladeira,Patricia Jesus,feminino,boleto
+2025-07-08 07:10:59.042965,1753,Belo Horizonte,Leticia,Smart Band 9 pro,Kathyrn Chen,feminino,boleto
+2025-07-08 10:00:05.150939,1754,São Paulo,Ana Oliveira,Guitar Condor,Jack Burns,masculino,pix
+2025-07-08 14:49:00.319181,1755,Belo Horizonte,Luiz,Guitar Condor,Richard Payne,masculino,cartão de crédito
+2025-07-09 08:16:00.176977,1756,Belo Horizonte,Leticia,Geladeira,Mary Sundquist,feminino,dinheiro
+2025-07-09 08:29:02.840748,1757,São Paulo,Lucas Pereira,Iphone,Lisa Motes,feminino,cartão de crédito
+2025-07-09 10:16:04.622817,1758,Juiz de Fora,Luiza,Smart Band 9 pro,Larry Rivera,masculino,cartão de crédito
+2025-07-09 10:39:04.884133,1759,São Brás,Carlos,Smart Band 9 pro,Betty Lee,feminino,boleto
+2025-07-09 10:43:58.244361,1760,Juiz de Fora,Luiza,Guitar Condor,Christina Thomas,feminino,dinheiro
+2025-07-09 11:00:56.874026,1761,Juiz de Fora,Luiza,Geladeira,Eric Moore,masculino,boleto
+2025-07-10 06:20:04.580036,1762,Juiz de Fora,Luiza,Iphone,Isidro Walsh,masculino,pix
+2025-07-10 09:08:05.143888,1763,São Brás,Carlos,Geladeira,George Michael,masculino,pix
+2025-07-10 12:24:03.537687,1764,Juiz de Fora,Luiza,Geladeira,Rene Roberson,masculino,dinheiro
+2025-07-10 12:55:57.083928,1765,São Paulo,Ana Oliveira,Geladeira,Maria Salvatore,feminino,boleto
+2025-07-10 15:36:58.111520,1766,Juiz de Fora,Marcelo,Guitar Condor,Leroy Hamer,masculino,boleto
+2025-07-11 07:24:02.728185,1767,São Brás,Carlos,Iphone,Gerald Martin,masculino,cartão de crédito
+2025-07-11 07:57:05.193498,1768,São Paulo,Ana Oliveira,Geladeira,Marlene Lopez,feminino,cartão de crédito
+2025-07-11 08:08:59.884622,1769,Juiz de Fora,Marcelo,Guitar Condor,Sandie Johnson,feminino,dinheiro
+2025-07-11 10:47:04.501693,1770,Juiz de Fora,Marcelo,Guitar Condor,Kenneth Pinera,masculino,cartão de crédito
+2025-07-11 11:12:56.440019,1771,São Brás,Carlos,Smart Band 9 pro,Maria Porter,feminino,pix
+2025-07-11 12:13:56.745443,1772,Belo Horizonte,Luiz,Smart Band 9 pro,Morris Lewis,masculino,pix
+2025-07-11 13:14:03.047126,1773,São Brás,Cristina,Iphone,Tommie Monroe,feminino,boleto
+2025-07-11 14:00:56.858047,1774,Juiz de Fora,Luiza,Iphone,Alvin Sanford,masculino,pix
+2025-07-11 15:16:02.298942,1775,Belo Horizonte,Leticia,Iphone,Robert Thompson,masculino,cartão de crédito
+2025-07-12 05:36:56.608024,1776,São Paulo,Lucas Pereira,Iphone,Mildred Gonzalez,feminino,cartão de crédito
+2025-07-12 06:16:59.533840,1777,Juiz de Fora,Marcelo,Iphone,Jose Hurrell,masculino,boleto
+2025-07-12 12:40:57.024723,1778,São Brás,Carlos,Guitar Condor,Randall Chavez,masculino,pix
+2025-07-12 15:37:59.354427,1779,São Brás,Cristina,Smart Band 9 pro,Robyn Nugent,feminino,dinheiro
+2025-07-13 08:42:03.834168,1780,São Brás,Cristina,Iphone,Harold Green,masculino,cartão de crédito
+2025-07-13 10:43:56.347664,1781,São Paulo,Ana Oliveira,Smart Band 9 pro,Rosita Hawkins,feminino,cartão de crédito
+2025-07-13 12:51:00.646718,1782,Belo Horizonte,Luiz,Geladeira,Harold Rodriguez,masculino,boleto
+2025-07-14 05:39:05.050671,1783,Juiz de Fora,Marcelo,Smart Band 9 pro,Michael Frates,masculino,boleto
+2025-07-14 06:58:59.832146,1784,Belo Horizonte,Luiz,Guitar Condor,Franklin Mendez,masculino,boleto
+2025-07-14 11:39:04.487211,1785,Belo Horizonte,Leticia,Smart Band 9 pro,Bernadette Lavigne,feminino,cartão de crédito
+2025-07-14 15:32:00.353040,1786,São Paulo,Lucas Pereira,Iphone,Billy Joseph,masculino,pix
+2025-07-15 05:11:56.345888,1787,Juiz de Fora,Luiza,Smart Band 9 pro,James Holt,masculino,dinheiro
+2025-07-15 05:21:58.739846,1788,Belo Horizonte,Leticia,Geladeira,Deborah Hobbs,feminino,pix
+2025-07-15 06:38:56.437712,1789,São Paulo,Lucas Pereira,Guitar Condor,Isaac Mcafee,masculino,dinheiro
+2025-07-15 07:21:01.643703,1790,São Paulo,Ana Oliveira,Geladeira,Marilyn Garcia,feminino,cartão de crédito
+2025-07-15 09:12:02.289052,1791,São Brás,Cristina,Geladeira,Jennifer Doran,feminino,dinheiro
+2025-07-15 12:02:02.520125,1792,Belo Horizonte,Leticia,Geladeira,Bennie Contrell,feminino,pix
+2025-07-15 13:07:02.000404,1793,Juiz de Fora,Marcelo,Iphone,Paul Clopton,masculino,cartão de crédito
+2025-07-15 14:51:58.591660,1794,Belo Horizonte,Luiz,Iphone,Crystal Mathews,feminino,pix
+2025-07-16 05:07:03.498310,1795,Juiz de Fora,Luiza,Geladeira,Gustavo Fisher,masculino,boleto
+2025-07-16 07:06:58.105714,1796,Juiz de Fora,Marcelo,Guitar Condor,Amanda Marino,feminino,dinheiro
+2025-07-16 07:35:59.784606,1797,Belo Horizonte,Luiz,Geladeira,Willis Starnes,masculino,boleto
+2025-07-16 08:39:57.305099,1798,Belo Horizonte,Leticia,Iphone,Jose Reed,masculino,dinheiro
+2025-07-16 10:05:56.668604,1799,São Paulo,Lucas Pereira,Smart Band 9 pro,Evelyn Tschanz,feminino,boleto
+2025-07-16 12:28:05.044438,1800,Belo Horizonte,Luiz,Smart Band 9 pro,Gloria Shupe,feminino,dinheiro
+2025-07-16 13:59:58.341609,1801,Juiz de Fora,Luiza,Guitar Condor,Roselyn Cearns,feminino,boleto
+2025-07-17 04:55:58.741281,1802,São Paulo,Lucas Pereira,Smart Band 9 pro,Kenneth Alvarado,masculino,dinheiro
+2025-07-17 07:45:58.437949,1803,Belo Horizonte,Leticia,Guitar Condor,Jamie Arvesen,feminino,dinheiro
+2025-07-17 12:00:03.896962,1804,São Paulo,Lucas Pereira,Guitar Condor,Gary Short,masculino,boleto
+2025-07-17 13:27:03.393671,1805,Juiz de Fora,Luiza,Geladeira,Wendie Maynard,feminino,cartão de crédito
+2025-07-17 14:27:59.451876,1806,São Brás,Carlos,Geladeira,Reginald Gaff,masculino,dinheiro
+2025-07-18 09:26:59.137128,1807,Belo Horizonte,Luiz,Geladeira,Diana Morse,feminino,pix
+2025-07-18 10:02:56.697916,1808,Belo Horizonte,Luiz,Smart Band 9 pro,Stacy Kinder,feminino,dinheiro
+2025-07-18 10:34:57.755024,1809,São Paulo,Ana Oliveira,Smart Band 9 pro,Judith Bishop,feminino,boleto
+2025-07-18 10:40:01.356388,1810,Belo Horizonte,Leticia,Geladeira,Jason Owsley,masculino,dinheiro
+2025-07-18 13:30:59.339117,1811,São Brás,Carlos,Guitar Condor,Audrey Klapp,feminino,pix
+2025-07-18 14:09:56.801057,1812,Juiz de Fora,Luiza,Geladeira,Lizzie Powell,feminino,dinheiro
+2025-07-19 07:23:04.409365,1813,São Paulo,Ana Oliveira,Guitar Condor,Maria Filion,feminino,boleto
+2025-07-19 12:35:02.173104,1814,São Brás,Carlos,Smart Band 9 pro,Vera Moore,feminino,boleto
+2025-07-19 14:06:58.770270,1815,Belo Horizonte,Luiz,Iphone,Amy Amoroso,feminino,pix
+2025-07-19 14:18:58.899155,1816,Belo Horizonte,Luiz,Guitar Condor,Richard Thomas,masculino,cartão de crédito
+2025-07-20 06:22:59.362395,1817,São Brás,Carlos,Iphone,Evelyn Tanguay,feminino,pix
+2025-07-20 06:59:01.409580,1818,São Paulo,Ana Oliveira,Guitar Condor,Claudia Rodriguez,feminino,boleto
+2025-07-20 08:33:57.499219,1819,Juiz de Fora,Marcelo,Smart Band 9 pro,Maria Kennedy,feminino,dinheiro
+2025-07-20 12:28:00.873332,1820,São Brás,Carlos,Geladeira,Jerome Way,masculino,pix
+2025-07-20 14:26:04.740210,1821,Belo Horizonte,Luiz,Iphone,Larry Walker,masculino,cartão de crédito
+2025-07-20 14:54:01.570286,1822,Belo Horizonte,Luiz,Guitar Condor,Debra Bayardo,feminino,dinheiro
+2025-07-20 14:56:58.372548,1823,Juiz de Fora,Luiza,Guitar Condor,Kimberly Jackson,feminino,boleto
+2025-07-20 15:07:59.146376,1824,Juiz de Fora,Luiza,Geladeira,Lesley Gonzales,masculino,boleto
+2025-07-20 15:09:03.964708,1825,Juiz de Fora,Marcelo,Geladeira,Richard Finley,masculino,boleto
+2025-07-21 06:38:00.518491,1826,Juiz de Fora,Marcelo,Guitar Condor,Oscar Bravo,masculino,pix
+2025-07-21 09:20:56.562095,1827,São Paulo,Ana Oliveira,Guitar Condor,Sergio Zuber,masculino,boleto
+2025-07-21 12:18:56.606126,1828,São Paulo,Ana Oliveira,Iphone,Arthur Carlson,masculino,dinheiro
+2025-07-21 15:01:57.009496,1829,Juiz de Fora,Luiza,Guitar Condor,Jennifer Holmes,feminino,boleto
+2025-07-22 10:04:04.782492,1830,Juiz de Fora,Marcelo,Guitar Condor,Fred Shelton,masculino,dinheiro
+2025-07-22 12:11:04.793304,1831,São Brás,Cristina,Smart Band 9 pro,Marlana Brooks,feminino,dinheiro
+2025-07-22 12:20:59.276814,1832,São Paulo,Lucas Pereira,Iphone,Robert Muller,masculino,dinheiro
+2025-07-22 13:54:58.822425,1833,São Paulo,Ana Oliveira,Smart Band 9 pro,Clinton Birkey,masculino,pix
+2025-07-22 14:37:04.230854,1834,Juiz de Fora,Marcelo,Geladeira,Carol Carney,feminino,boleto
+2025-07-22 14:48:02.575985,1835,São Paulo,Ana Oliveira,Guitar Condor,Juan Lasley,masculino,dinheiro
+2025-07-22 15:18:58.168758,1836,Juiz de Fora,Marcelo,Smart Band 9 pro,Anthony Vargas,masculino,pix
+2025-07-23 06:14:58.123215,1837,Juiz de Fora,Marcelo,Smart Band 9 pro,Carl Thomas,masculino,cartão de crédito
+2025-07-23 06:56:56.855534,1838,Belo Horizonte,Luiz,Iphone,Vernon Wright,masculino,pix
+2025-07-23 07:39:58.471684,1839,São Paulo,Lucas Pereira,Guitar Condor,Mary Parrish,feminino,cartão de crédito
+2025-07-23 08:28:00.599123,1840,Belo Horizonte,Luiz,Smart Band 9 pro,Clarence Owen,masculino,pix
+2025-07-23 09:22:56.666336,1841,Belo Horizonte,Luiz,Geladeira,Thomas Hahn,masculino,boleto
+2025-07-23 10:56:58.820127,1842,Juiz de Fora,Luiza,Smart Band 9 pro,Brian Herrera,masculino,dinheiro
+2025-07-23 14:55:59.049385,1843,Belo Horizonte,Luiz,Iphone,Shelby Thomas,masculino,cartão de crédito
+2025-07-24 05:40:02.106097,1844,São Paulo,Ana Oliveira,Geladeira,Walter Gonzalez,masculino,dinheiro
+2025-07-24 07:01:59.833504,1845,Belo Horizonte,Leticia,Guitar Condor,Elizabeth Cutchall,feminino,boleto
+2025-07-24 07:16:03.993262,1846,São Brás,Cristina,Iphone,Michael Kent,masculino,cartão de crédito
+2025-07-24 08:07:01.825234,1847,Belo Horizonte,Luiz,Iphone,Paula Pare,feminino,cartão de crédito
+2025-07-24 14:44:58.237241,1848,São Paulo,Lucas Pereira,Smart Band 9 pro,Robert Ogrady,masculino,dinheiro
+2025-07-25 08:52:58.619516,1849,Belo Horizonte,Leticia,Guitar Condor,Jack Cundiff,masculino,cartão de crédito
+2025-07-25 10:36:04.867743,1850,São Brás,Carlos,Smart Band 9 pro,Marissa Kautz,feminino,pix
+2025-07-25 11:43:01.917601,1851,Juiz de Fora,Marcelo,Smart Band 9 pro,Paula Vineyard,feminino,pix
+2025-07-25 13:16:59.687613,1852,Juiz de Fora,Luiza,Iphone,Anna Quinn,feminino,boleto
+2025-07-25 14:02:02.808061,1853,Belo Horizonte,Luiz,Iphone,William Mullins,masculino,dinheiro
+2025-07-26 05:02:58.581453,1854,São Brás,Cristina,Geladeira,William Felix,masculino,dinheiro
+2025-07-26 06:31:01.371893,1855,Belo Horizonte,Leticia,Smart Band 9 pro,Ralph Dimarco,masculino,pix
+2025-07-26 08:55:59.591647,1856,São Brás,Cristina,Smart Band 9 pro,Kerry Mcnulty,feminino,dinheiro
+2025-07-26 08:58:00.008938,1857,São Paulo,Ana Oliveira,Iphone,John Johnson,masculino,pix
+2025-07-26 10:32:04.524424,1858,Belo Horizonte,Leticia,Geladeira,Olivia Honeycutt,feminino,cartão de crédito
+2025-07-26 12:01:05.565339,1859,Belo Horizonte,Leticia,Iphone,Chris Dewitt,masculino,dinheiro
+2025-07-26 14:17:04.307260,1860,Belo Horizonte,Luiz,Smart Band 9 pro,Robert Reidinger,masculino,boleto
+2025-07-27 06:09:59.947589,1861,São Paulo,Ana Oliveira,Guitar Condor,Kelly Ross,feminino,pix
+2025-07-27 06:25:05.368453,1862,São Brás,Carlos,Iphone,Erin Gaston,feminino,cartão de crédito
+2025-07-27 08:55:01.254740,1863,São Brás,Cristina,Guitar Condor,Felicia Torris,feminino,pix
+2025-07-27 09:37:01.074337,1864,Belo Horizonte,Luiz,Geladeira,Tracy Weir,feminino,dinheiro
+2025-07-27 09:44:59.929752,1865,Juiz de Fora,Marcelo,Guitar Condor,John Walker,masculino,cartão de crédito
+2025-07-27 10:56:00.134548,1866,Belo Horizonte,Leticia,Guitar Condor,Allison Earlywine,feminino,cartão de crédito
+2025-07-27 14:12:03.032665,1867,São Brás,Carlos,Iphone,Whitney Rodriquez,feminino,pix
+2025-07-27 15:16:56.386212,1868,Juiz de Fora,Luiza,Geladeira,Michael Brown,masculino,boleto
+2025-07-28 05:57:56.802279,1869,Juiz de Fora,Marcelo,Geladeira,Carmen Atkinson,feminino,pix
+2025-07-28 08:48:57.050709,1870,São Paulo,Lucas Pereira,Smart Band 9 pro,Frances Bixby,feminino,dinheiro
+2025-07-28 09:07:05.155502,1871,Belo Horizonte,Luiz,Guitar Condor,Mary Archie,feminino,cartão de crédito
+2025-07-28 09:11:02.818732,1872,São Brás,Carlos,Smart Band 9 pro,Lucille Nguyen,feminino,pix
+2025-07-28 10:05:57.117043,1873,Juiz de Fora,Luiza,Smart Band 9 pro,Debra Williams,feminino,pix
+2025-07-28 14:10:57.940293,1874,Belo Horizonte,Leticia,Iphone,Eve Pittman,feminino,cartão de crédito
+2025-07-29 06:49:57.151912,1875,Juiz de Fora,Marcelo,Iphone,Dawn Durham,feminino,pix
+2025-07-29 08:09:00.468531,1876,Belo Horizonte,Leticia,Guitar Condor,Jonathan Raso,masculino,cartão de crédito
+2025-07-29 09:52:05.047478,1877,São Paulo,Ana Oliveira,Guitar Condor,James Kell,masculino,cartão de crédito
+2025-07-29 13:07:00.650426,1878,São Paulo,Ana Oliveira,Smart Band 9 pro,Vaughn Thornhill,masculino,cartão de crédito
+2025-07-29 15:14:59.926815,1879,Juiz de Fora,Luiza,Guitar Condor,Alice Wilson,feminino,cartão de crédito
+2025-07-30 06:07:58.503147,1880,Belo Horizonte,Leticia,Iphone,Lester Thompson,masculino,boleto
+2025-07-30 11:35:00.145953,1881,São Brás,Carlos,Smart Band 9 pro,Angela Ortiz,feminino,dinheiro
+2025-07-30 12:41:04.749167,1882,Juiz de Fora,Luiza,Iphone,Steve Casey,masculino,cartão de crédito
+2025-07-30 14:06:57.031203,1883,São Brás,Carlos,Iphone,Ethel Cole,feminino,dinheiro
+2025-07-31 05:27:03.642959,1884,Belo Horizonte,Luiz,Smart Band 9 pro,Elsie Evans,feminino,pix
+2025-07-31 08:13:57.738553,1885,Juiz de Fora,Luiza,Smart Band 9 pro,Katherine Jensen,feminino,pix
+2025-07-31 11:09:02.287662,1886,Belo Horizonte,Leticia,Smart Band 9 pro,Violet Mendoza,feminino,dinheiro
+2025-07-31 12:54:04.550556,1887,Juiz de Fora,Marcelo,Guitar Condor,Calvin Haraway,masculino,boleto
+2025-07-31 15:15:57.797361,1888,São Paulo,Lucas Pereira,Geladeira,Kenny Amezquita,masculino,dinheiro
+2025-07-31 15:27:01.878503,1889,Juiz de Fora,Marcelo,Guitar Condor,Beverly Bybee,feminino,pix
+2025-08-01 05:56:59.548236,1890,São Paulo,Ana Oliveira,Smart Band 9 pro,Eleanor Hall,feminino,dinheiro
+2025-08-01 09:24:59.907486,1891,São Brás,Cristina,Smart Band 9 pro,Jean Stanford,feminino,pix
+2025-08-01 11:57:59.500597,1892,Belo Horizonte,Luiz,Guitar Condor,William Mouton,masculino,pix
+2025-08-01 12:08:02.048653,1893,São Paulo,Lucas Pereira,Iphone,Leticia Gonzalez,feminino,cartão de crédito
+2025-08-02 07:31:05.695708,1894,Belo Horizonte,Leticia,Iphone,Mary Bryant,feminino,pix
+2025-08-02 09:26:01.592904,1895,São Paulo,Lucas Pereira,Iphone,Shannon Vaughn,feminino,dinheiro
+2025-08-03 05:37:04.723718,1896,Belo Horizonte,Luiz,Iphone,Roxanne Mason,feminino,pix
+2025-08-03 07:48:59.403462,1897,Juiz de Fora,Marcelo,Smart Band 9 pro,Judy Walsh,feminino,dinheiro
+2025-08-03 08:35:00.537002,1898,Belo Horizonte,Leticia,Guitar Condor,Levi Saldana,masculino,cartão de crédito
+2025-08-03 09:35:04.032989,1899,São Paulo,Lucas Pereira,Geladeira,Melinda Bracken,feminino,cartão de crédito
+2025-08-03 10:36:05.618284,1900,São Brás,Cristina,Guitar Condor,Kay Paulson,feminino,cartão de crédito
+2025-08-03 10:59:04.397519,1901,Juiz de Fora,Luiza,Guitar Condor,Anna Steward,feminino,dinheiro
+2025-08-03 12:16:57.917796,1902,São Brás,Carlos,Iphone,Doris Adkins,feminino,pix
+2025-08-03 13:31:02.174142,1903,São Paulo,Ana Oliveira,Guitar Condor,Christine Shouse,feminino,dinheiro
+2025-08-03 14:41:02.283899,1904,São Paulo,Ana Oliveira,Iphone,Jordan Lopez,masculino,cartão de crédito
+2025-08-04 05:13:00.409547,1905,São Brás,Cristina,Smart Band 9 pro,Mary Watt,feminino,boleto
+2025-08-04 10:35:56.441673,1906,São Paulo,Lucas Pereira,Smart Band 9 pro,Samuel Deshields,masculino,cartão de crédito
+2025-08-04 11:38:01.028893,1907,São Brás,Carlos,Geladeira,Rafael Butcher,masculino,pix
+2025-08-04 12:59:58.405994,1908,São Brás,Carlos,Guitar Condor,William Vela,masculino,boleto
+2025-08-05 05:38:05.026771,1909,Belo Horizonte,Luiz,Smart Band 9 pro,Hazel Valentino,feminino,cartão de crédito
+2025-08-05 07:02:57.615150,1910,São Paulo,Ana Oliveira,Guitar Condor,Steve Mejorado,masculino,pix
+2025-08-05 07:30:02.515315,1911,São Paulo,Lucas Pereira,Guitar Condor,Scott Dillard,masculino,boleto
+2025-08-05 07:38:56.452373,1912,São Brás,Cristina,Smart Band 9 pro,Amanda Lewis,feminino,boleto
+2025-08-05 09:17:59.498777,1913,São Paulo,Lucas Pereira,Smart Band 9 pro,Suzanne Cook,feminino,cartão de crédito
+2025-08-05 10:39:56.782163,1914,São Paulo,Lucas Pereira,Iphone,Brianna Fortin,feminino,cartão de crédito
+2025-08-05 11:45:05.214829,1915,Juiz de Fora,Luiza,Iphone,Bradley Tineo,masculino,pix
+2025-08-05 12:43:56.363778,1916,São Brás,Cristina,Smart Band 9 pro,Morris Hoover,masculino,pix
+2025-08-06 05:19:59.081321,1917,São Brás,Cristina,Smart Band 9 pro,Donald Hand,masculino,boleto
+2025-08-06 09:59:59.715510,1918,São Brás,Cristina,Geladeira,Belinda Norton,feminino,boleto
+2025-08-06 10:16:01.564740,1919,Juiz de Fora,Luiza,Geladeira,Lucy Norton,feminino,pix
+2025-08-06 11:37:01.248663,1920,São Brás,Carlos,Smart Band 9 pro,Jenna Bradley,feminino,boleto
+2025-08-06 12:56:00.686602,1921,São Paulo,Ana Oliveira,Smart Band 9 pro,Felix Keating,masculino,boleto
+2025-08-06 15:12:00.837074,1922,São Brás,Cristina,Guitar Condor,Stephanie Bernstein,feminino,pix
+2025-08-07 04:45:58.886842,1923,São Brás,Carlos,Guitar Condor,Carlos Lotti,masculino,boleto
+2025-08-07 05:06:04.117743,1924,São Paulo,Lucas Pereira,Smart Band 9 pro,Jane Baylor,feminino,boleto
+2025-08-07 05:31:03.495277,1925,Juiz de Fora,Marcelo,Smart Band 9 pro,Joyce Jordan,feminino,pix
+2025-08-07 05:35:04.485143,1926,São Brás,Carlos,Iphone,Fred Walker,masculino,dinheiro
+2025-08-07 06:37:58.624827,1927,São Brás,Carlos,Guitar Condor,Michael Moore,masculino,dinheiro
+2025-08-07 07:01:56.424175,1928,São Brás,Carlos,Iphone,Monica Richardson,feminino,dinheiro
+2025-08-07 08:21:56.351519,1929,Belo Horizonte,Luiz,Smart Band 9 pro,Sherman Placide,masculino,boleto
+2025-08-07 08:41:58.609170,1930,Belo Horizonte,Leticia,Guitar Condor,Russell Jones,masculino,pix
+2025-08-07 09:26:05.124138,1931,São Paulo,Lucas Pereira,Smart Band 9 pro,Lenard Cramer,masculino,dinheiro
+2025-08-07 10:21:03.637365,1932,São Brás,Carlos,Geladeira,Barbara Wier,feminino,pix
+2025-08-07 15:02:58.907259,1933,Juiz de Fora,Luiza,Geladeira,Marvin Delaney,masculino,cartão de crédito
+2025-08-08 07:24:05.467057,1934,Juiz de Fora,Marcelo,Guitar Condor,Jessie Mccaskill,feminino,boleto
+2025-08-08 10:04:04.075651,1935,São Paulo,Lucas Pereira,Guitar Condor,Leona Beckham,feminino,boleto
+2025-08-09 06:41:04.296165,1936,Belo Horizonte,Leticia,Guitar Condor,John Marion,masculino,boleto
+2025-08-09 06:50:57.017920,1937,São Paulo,Lucas Pereira,Smart Band 9 pro,David Jones,masculino,pix
+2025-08-09 07:10:00.479345,1938,São Paulo,Ana Oliveira,Iphone,Mary Lazo,feminino,pix
+2025-08-09 11:43:02.713639,1939,São Brás,Cristina,Geladeira,Jenny Melo,feminino,pix
+2025-08-09 12:48:03.236250,1940,São Brás,Carlos,Iphone,James Kirk,masculino,pix
+2025-08-09 14:02:00.354609,1941,Belo Horizonte,Leticia,Iphone,Martha Dillon,feminino,cartão de crédito
+2025-08-09 14:44:05.501283,1942,São Brás,Carlos,Iphone,Mark Sherburne,masculino,cartão de crédito
+2025-08-10 08:30:02.946441,1943,São Paulo,Lucas Pereira,Guitar Condor,Gus Lalley,masculino,pix
+2025-08-10 10:25:57.701041,1944,Juiz de Fora,Marcelo,Geladeira,Shelley Hwang,feminino,pix
+2025-08-10 14:40:58.047136,1945,Juiz de Fora,Luiza,Geladeira,Kimberly Weidenbach,feminino,dinheiro
+2025-08-10 14:50:01.116690,1946,Belo Horizonte,Luiz,Geladeira,Julio Kaylor,masculino,pix
+2025-08-10 14:59:03.657579,1947,Juiz de Fora,Luiza,Iphone,Mark Murray,masculino,pix
+2025-08-11 07:38:01.107668,1948,São Brás,Cristina,Guitar Condor,Tara Aranda,feminino,pix
+2025-08-11 08:08:02.397225,1949,São Brás,Cristina,Iphone,Ned Ordman,masculino,dinheiro
+2025-08-11 11:44:57.407587,1950,Juiz de Fora,Luiza,Smart Band 9 pro,Bessie Kradel,feminino,cartão de crédito
+2025-08-11 12:21:59.940180,1951,Juiz de Fora,Luiza,Iphone,Vickie Creasy,feminino,pix
+2025-08-11 14:20:00.522124,1952,Juiz de Fora,Marcelo,Geladeira,David Madden,masculino,boleto
+2025-08-11 14:27:57.822183,1953,São Paulo,Ana Oliveira,Iphone,Jocelyn Bustamante,feminino,dinheiro
+2025-08-11 14:40:01.611379,1954,Belo Horizonte,Luiz,Geladeira,Sarah Smith,feminino,cartão de crédito
+2025-08-11 15:10:56.749818,1955,São Paulo,Lucas Pereira,Iphone,Bertha Ho,feminino,dinheiro
+2025-08-12 07:32:59.650422,1956,São Paulo,Ana Oliveira,Geladeira,Stephen James,masculino,dinheiro
+2025-08-12 07:47:59.522819,1957,São Brás,Carlos,Iphone,Mark Veith,masculino,cartão de crédito
+2025-08-12 08:18:04.710545,1958,São Brás,Carlos,Guitar Condor,Jay Cleary,masculino,dinheiro
+2025-08-12 09:47:05.237549,1959,São Brás,Carlos,Geladeira,Katherine Sickles,feminino,dinheiro
+2025-08-12 12:50:03.822015,1960,São Paulo,Lucas Pereira,Smart Band 9 pro,Hazel Herrman,feminino,pix
+2025-08-12 13:56:58.525332,1961,São Brás,Carlos,Smart Band 9 pro,Juan Ruiz,masculino,dinheiro
+2025-08-13 11:33:05.104505,1962,Juiz de Fora,Marcelo,Geladeira,Herbert Boshart,masculino,cartão de crédito
+2025-08-13 14:45:05.198963,1963,São Brás,Cristina,Geladeira,Vickey Brogan,feminino,pix
+2025-08-14 05:16:02.759362,1964,São Brás,Cristina,Guitar Condor,Betty Mcnaughton,feminino,cartão de crédito
+2025-08-14 06:03:56.417156,1965,São Brás,Carlos,Geladeira,Sharon Bacon,feminino,boleto
+2025-08-14 07:45:00.443136,1966,Juiz de Fora,Marcelo,Iphone,Houston Melton,masculino,cartão de crédito
+2025-08-14 09:51:02.975669,1967,Belo Horizonte,Leticia,Iphone,Francis Williams,masculino,cartão de crédito
+2025-08-14 12:40:04.835451,1968,Juiz de Fora,Marcelo,Iphone,Jennifer Valentine,feminino,cartão de crédito
+2025-08-14 14:41:59.378887,1969,Belo Horizonte,Leticia,Iphone,Richard Sipes,masculino,pix
+2025-08-15 06:28:57.705053,1970,São Brás,Carlos,Geladeira,Carlos Parker,masculino,boleto
+2025-08-15 09:15:57.621826,1971,Belo Horizonte,Leticia,Guitar Condor,Ronald Brown,masculino,dinheiro
+2025-08-15 09:16:57.477061,1972,Juiz de Fora,Luiza,Geladeira,Kathy Williams,feminino,boleto
+2025-08-15 09:42:00.111903,1973,Belo Horizonte,Leticia,Guitar Condor,Michael Leser,masculino,boleto
+2025-08-15 10:30:56.459514,1974,Juiz de Fora,Luiza,Geladeira,Katherine Cole,feminino,pix
+2025-08-15 11:14:05.326156,1975,Belo Horizonte,Leticia,Smart Band 9 pro,Joel Gibson,masculino,cartão de crédito
+2025-08-15 11:23:03.672477,1976,São Paulo,Ana Oliveira,Smart Band 9 pro,Jennifer Mazza,feminino,pix
+2025-08-16 07:44:03.679673,1977,São Paulo,Lucas Pereira,Guitar Condor,Mary Tuai,feminino,boleto
+2025-08-16 08:23:02.509229,1978,Juiz de Fora,Marcelo,Geladeira,Eugenie Anderson,feminino,cartão de crédito
+2025-08-16 10:37:04.593974,1979,Belo Horizonte,Leticia,Smart Band 9 pro,Dorian Wilkins,feminino,dinheiro
+2025-08-16 12:21:59.739155,1980,Juiz de Fora,Marcelo,Geladeira,Glenn Widell,masculino,pix
+2025-08-17 06:56:00.322849,1981,São Paulo,Ana Oliveira,Smart Band 9 pro,Christoper Moneyhun,masculino,boleto
+2025-08-17 09:03:02.297404,1982,Juiz de Fora,Marcelo,Smart Band 9 pro,Samantha Mcknight,feminino,cartão de crédito
+2025-08-17 10:44:59.981074,1983,Juiz de Fora,Luiza,Iphone,David Mcduffie,masculino,cartão de crédito
+2025-08-17 13:46:58.517398,1984,Belo Horizonte,Luiz,Guitar Condor,Randall Hill,masculino,cartão de crédito
+2025-08-18 06:20:57.088882,1985,Belo Horizonte,Leticia,Geladeira,Kelly Berhe,feminino,cartão de crédito
+2025-08-18 09:58:59.953457,1986,Belo Horizonte,Leticia,Guitar Condor,Shannon Dyer,feminino,boleto
+2025-08-19 05:34:02.652130,1987,Belo Horizonte,Luiz,Geladeira,Ruth Staubin,feminino,pix
+2025-08-19 05:43:05.135333,1988,Juiz de Fora,Luiza,Guitar Condor,Todd Fox,masculino,boleto
+2025-08-19 12:12:05.766660,1989,São Paulo,Ana Oliveira,Iphone,Jean William,feminino,dinheiro
+2025-08-19 12:17:02.084704,1990,Belo Horizonte,Luiz,Guitar Condor,Sonia Ramirez,feminino,cartão de crédito
+2025-08-19 15:17:01.190922,1991,Belo Horizonte,Luiz,Geladeira,William Bleakley,masculino,cartão de crédito
+2025-08-19 15:20:01.061705,1992,São Paulo,Lucas Pereira,Guitar Condor,Patria Allen,feminino,dinheiro
+2025-08-20 06:04:00.899285,1993,São Paulo,Ana Oliveira,Iphone,Phyllis Moore,feminino,boleto
+2025-08-20 08:42:57.842437,1994,Belo Horizonte,Luiz,Geladeira,David Zayas,masculino,dinheiro
+2025-08-20 08:51:02.183875,1995,Juiz de Fora,Marcelo,Geladeira,Sharon Whitney,feminino,pix
+2025-08-20 09:44:59.694359,1996,São Paulo,Ana Oliveira,Smart Band 9 pro,Craig Stockman,masculino,cartão de crédito
+2025-08-20 10:37:03.484198,1997,São Brás,Carlos,Guitar Condor,Mattie Perry,feminino,boleto
+2025-08-20 11:56:58.305765,1998,Juiz de Fora,Luiza,Smart Band 9 pro,Joseph Brown,masculino,dinheiro
+2025-08-20 15:36:01.595895,1999,São Paulo,Ana Oliveira,Smart Band 9 pro,Sandra Hadley,feminino,pix
