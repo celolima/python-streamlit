@@ -78,24 +78,41 @@ def build_grafico_barras(group_by=LOCAL_COMPRA):
     fig_receita.update_layout(yaxis_title='Receita')
     return fig_receita
 
-## Visualização no streamlit
-coluna1, coluna2 = st.columns(2)
-with coluna1:
-    total_preco = dados[PRECO].sum()
-    st.metric('Receita', format_currency(total_preco, 'BRL', locale='pt_BR'))
-    st.plotly_chart(build_grafico_mapa(), use_container_width=True)
-    st.plotly_chart(build_grafico_barras(LOCAL_COMPRA))
-with coluna2:
-    st.metric('Quantidade de vendas', format_decimal(dados.shape[0], locale='pt_BR'))
-    st.plotly_chart(build_grafico_linhas(), use_container_width=True)
-    st.plotly_chart(build_grafico_barras(CATEGORIA_PRODUTO))
+def adicina_cabecalho():
+    coluna1, coluna2 = st.columns(2)
+    with coluna1:
+        total_preco = dados[PRECO].sum()
+        st.metric('Receita', format_currency(total_preco, 'BRL', locale='pt_BR'))
+    with coluna2:
+        st.metric('Quantidade de vendas', format_decimal(dados.shape[0], locale='pt_BR'))        
 
-st.dataframe(
-    dados,
-    column_config={
-        DATA_COMPRA: st.column_config.DateColumn(
-            "Data de Compra",
-            format="DD/MM/YYYY",  # Formato de exibição visual
-        )
-    }
-)
+## Visualização no streamlit
+aba1, aba2, aba3, aba4 = st.tabs(['Receita', 'Quantidade de vendas', 'Vendedores', 'Relatório vendas'])
+
+with aba1:
+    adicina_cabecalho()
+    coluna1, coluna2 = st.columns(2)
+    with coluna1:
+        st.plotly_chart(build_grafico_mapa(), use_container_width=True)
+        st.plotly_chart(build_grafico_barras(LOCAL_COMPRA))
+    with coluna2:
+        st.plotly_chart(build_grafico_linhas(), use_container_width=True)
+        st.plotly_chart(build_grafico_barras(CATEGORIA_PRODUTO))
+
+with aba2:
+    adicina_cabecalho()
+
+
+with aba3:
+    adicina_cabecalho()
+
+with aba4:
+    st.dataframe(
+        dados,
+        column_config={
+            DATA_COMPRA: st.column_config.DateColumn(
+                "Data de Compra",
+                format="DD/MM/YYYY",  # Formato de exibição visual
+            )
+        }
+    )
