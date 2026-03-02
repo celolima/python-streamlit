@@ -1,10 +1,7 @@
-import streamlit as st
-import requests
 import pandas as pd
 import plotly.express as px
 from babel.numbers import format_currency, format_decimal
 
-# Nomes das colunas
 LOCAL_COMPRA = 'Local da compra'
 DATA_COMPRA = 'Data da Compra'
 CATEGORIA_PRODUTO = 'Categoria do Produto'
@@ -12,15 +9,7 @@ PRECO = 'Preço'
 ANO = 'Ano'
 MES = 'Mes'
 
-st.title('DASHBOARD DE VENDAS :shopping_cart:')
-st.set_page_config(layout='wide')
-
-url = 'https://labdados.com/produtos'
-response = requests.get(url, verify=False)
-dados = pd.DataFrame.from_dict(response.json())
-dados[DATA_COMPRA] = pd.to_datetime(dados[DATA_COMPRA], format='%d/%m/%Y')
-
-def build_grafico_mapa():
+def build_grafico_mapa(dados):
     ## Tabelas
     tb_receita_estados = dados.groupby(LOCAL_COMPRA)[[PRECO]].sum()
     tb_estados_locale = dados.drop_duplicates(subset=LOCAL_COMPRA)[[LOCAL_COMPRA, 'lat', 'lon']]
@@ -42,7 +31,7 @@ def build_grafico_mapa():
                                     )
     return fig_mapa_receita
 
-def build_grafico_linhas():
+def build_grafico_linhas(dados):
     receita_mensal = dados.set_index(DATA_COMPRA).groupby(pd.Grouper(freq='ME'))[PRECO].sum().reset_index()
     receita_mensal[ANO] = receita_mensal[DATA_COMPRA].dt.year
     receita_mensal[MES] = receita_mensal[DATA_COMPRA].dt.month_name()
@@ -62,7 +51,7 @@ def build_grafico_linhas():
 
     return fig_receita_mensal
 
-def build_grafico_barras(group_by=LOCAL_COMPRA):
+def build_grafico_barras(dados,group_by=LOCAL_COMPRA):
     df_agrupado = dados.groupby(group_by, as_index=False)[PRECO].sum().sort_values(PRECO, ascending=False)
     df_agrupado["Preço_formatado"] = df_agrupado["Preço"].apply(lambda x: format_currency(x, "BRL", locale="pt_BR"))
 
@@ -77,42 +66,3 @@ def build_grafico_barras(group_by=LOCAL_COMPRA):
     )
     fig_receita.update_layout(yaxis_title='Receita')
     return fig_receita
-
-def adicina_cabecalho():
-    coluna1, coluna2 = st.columns(2)
-    with coluna1:
-        total_preco = dados[PRECO].sum()
-        st.metric('Receita', format_currency(total_preco, 'BRL', locale='pt_BR'))
-    with coluna2:
-        st.metric('Quantidade de vendas', format_decimal(dados.shape[0], locale='pt_BR'))        
-
-## Visualização no streamlit
-aba1, aba2, aba3, aba4 = st.tabs(['Receita', 'Quantidade de vendas', 'Vendedores', 'Relatório vendas'])
-
-with aba1:
-    adicina_cabecalho()
-    coluna1, coluna2 = st.columns(2)
-    with coluna1:
-        st.plotly_chart(build_grafico_mapa(), use_container_width=True)
-        st.plotly_chart(build_grafico_barras(LOCAL_COMPRA))
-    with coluna2:
-        st.plotly_chart(build_grafico_linhas(), use_container_width=True)
-        st.plotly_chart(build_grafico_barras(CATEGORIA_PRODUTO))
-
-with aba2:
-    adicina_cabecalho()
-
-
-with aba3:
-    adicina_cabecalho()
-
-with aba4:
-    st.dataframe(
-        dados,
-        column_config={
-            DATA_COMPRA: st.column_config.DateColumn(
-                "Data de Compra",
-                format="DD/MM/YYYY",  # Formato de exibição visual
-            )
-        }
-    )
