@@ -15,13 +15,31 @@ PRECO = 'Preço'
 ANO = 'Ano'
 MES = 'Mes'
 
+regiao = ''
+ano = ''
+
 st.title('DASHBOARD DE VENDAS :shopping_cart:')
 st.set_page_config(layout='wide')
 
 url = 'https://labdados.com/produtos'
-response = requests.get(url, verify=False)
+query_string = {'regiao':regiao.lower(), 'ano':ano}
+response = requests.get(url, verify=False, params= query_string)
 dados = pd.DataFrame.from_dict(response.json())
 dados[DATA_COMPRA] = pd.to_datetime(dados[DATA_COMPRA], format='%d/%m/%Y')
+
+regioes = ['Brasil', 'Centro-Oeste', 'Nordeste', 'Norte', 'Sudeste', 'Sul']
+st.sidebar.title('Filtros')
+regiao = st.sidebar.selectbox('Região', regioes)
+if regiao == 'Brasil':
+    regiao = ''
+todos_anos = st.sidebar.checkbox('Dados de todo o período', value = True)
+if todos_anos:
+    ano = ''
+else:
+    ano = st.sidebar.slider('Ano', 2020, 2023)    
+filtro_vendedores = st.sidebar.multiselect('Vendedores', dados['Vendedor'].unique())
+if filtro_vendedores:
+    dados = dados[dados['Vendedor'].isin(filtro_vendedores)]
 
 def adiciona_cabecalho():
     coluna1, coluna2 = st.columns(2)

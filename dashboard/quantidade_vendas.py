@@ -24,15 +24,9 @@ def build_grafico_mapa(dados):
     # Faz o join das tabelas acima, a tabela da esquerda usa index e a da direita usa a coluna Local da compra
     tb_merge_tabelas = tb_quantidade_vendas_estados.merge(tb_estados_locale, left_index=True, right_on=LOCAL_COMPRA).sort_values(PRECO, ascending=False)
     
-    print(tb_merge_tabelas.columns)
-    
-    print(type(tb_merge_tabelas))
-
     # Para aplicar diretamente no DataFrame original sem precisar atribuir à variável:
     tb_merge_tabelas.rename(columns={PRECO: QUANTIDADE}, inplace=True)
     
-    print(tb_merge_tabelas.columns)
-
     # Altera o tamanho do ponto baseado na receita
     fig_map_quantidade_estado = px.scatter_geo(
                                     tb_merge_tabelas,
