@@ -1,5 +1,5 @@
-streamlit
-requests
-pandas
-plotly
-babel
+streamlit==1.54.0
+plotly==6.5.2
+pandas==2.3.3
+requests==2.32.5
+babel==2.18.0
