@@ -1,20 +1,13 @@
 import pandas as pd
 import plotly.express as px
-from babel.numbers import format_currency, format_decimal
+from constants import *
+from babel.numbers import format_decimal
 
 ## Desafio
 # 1- Construir um gráfico de mapa com a quantidade de vendas por estado.
 # 2- Construir um gráfico de linhas com a quantidade de vendas mensal.
 # 3- Construir um gráfico de barras com os 5 estados com maior quantidade de vendas.
 # 4- Construir um gráfico de barras com a quantidade de vendas por categoria de produto.
-
-LOCAL_COMPRA = 'Local da compra'
-DATA_COMPRA = 'Data da Compra'
-CATEGORIA_PRODUTO = 'Categoria do Produto'
-PRECO = 'Preço'
-QUANTIDADE = 'Quantidade'
-ANO = 'Ano'
-MES = 'Mes'
 
 def build_grafico_mapa(dados):
     ## Tabelas

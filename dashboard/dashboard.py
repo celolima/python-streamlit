@@ -5,15 +5,8 @@ import streamlit as st
 import requests
 import pandas as pd
 import plotly.express as px
+from constants import *
 from babel.numbers import format_currency, format_decimal
-
-# Nomes das colunas
-LOCAL_COMPRA = 'Local da compra'
-DATA_COMPRA = 'Data da Compra'
-CATEGORIA_PRODUTO = 'Categoria do Produto'
-PRECO = 'Preço'
-ANO = 'Ano'
-MES = 'Mes'
 
 regiao = ''
 ano = ''
